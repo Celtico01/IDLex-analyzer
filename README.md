@@ -4,10 +4,6 @@ Projeto em Python que utiliza o [Microsoft Presidio](https://github.com/microsof
 
 ---
 
-Perfeito! Aqui está a seção atualizada do `README.md` com o aviso adicionado logo **abaixo da tabela de entidades personalizadas**, como solicitado:
-
----
-
 ## 🧾 Entidades Reconhecidas
 
 ### ✅ Entidades padrão do Presidio
@@ -34,8 +30,8 @@ Perfeito! Aqui está a seção atualizada do `README.md` com o aviso adicionado 
 
 #### ⚠️ Atenção
 
-Ao mudar o modelo **Transformers**, você pode precisar ajustar como as entidades são mapeadas para o `Analyzer`.
-Cada `Analyzer` possui um arquivo correspondente na pasta `*customized_recognizers*`, onde essa lógica pode ser alterada para compatibilidade com o modelo escolhido.
+Ao mudar o modelo **Transformers**, você pode precisar ajustar como as entidades são mapeadas para o `Recognizer`.
+Cada `Recognizer` possui um arquivo correspondente na pasta `*customized_recognizers*`, onde essa lógica pode ser alterada para compatibilidade com o modelo escolhido.
 
 ---
 
