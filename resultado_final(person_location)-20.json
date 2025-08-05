@@ -1,0 +1,6944 @@
+{
+    "279_DEC_92800402": [
+        {
+            "entidade": "LOCATION",
+            "inicio": 47,
+            "fim": 57,
+            "texto": "Fortaleza\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 100,
+            "fim": 104,
+            "texto": "TJCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 105,
+            "fim": 151,
+            "texto": "Rua Desembargador Floriano Benevides Magalhaes",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 160,
+            "fim": 169,
+            "texto": "Agua Fria",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 187,
+            "fim": 191,
+            "texto": "Fone",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 199,
+            "fim": 211,
+            "texto": "Fortaleza-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 214,
+            "fim": 220,
+            "texto": "E-mail",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 241,
+            "fim": 257,
+            "texto": "DECISAO\nProcesso",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 381,
+            "fim": 411,
+            "texto": "Delegacia de Assuntos Internos",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 414,
+            "fim": 424,
+            "texto": "Dai\nVistos",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 494,
+            "fim": 525,
+            "texto": "Delegacia de A ssuntos Internos",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 532,
+            "fim": 539,
+            "texto": "Capital",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1404,
+            "fim": 1410,
+            "texto": "DECIDO",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1870,
+            "fim": 1881,
+            "texto": "Carlos Vico",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1985,
+            "fim": 1993,
+            "texto": "MIRABETE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2018,
+            "fim": 2036,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2055,
+            "fim": 2073,
+            "texto": "Inquérito Policial",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2318,
+            "fim": 2335,
+            "texto": "Fortaleza\n14aVara",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2336,
+            "fim": 2344,
+            "texto": "Criminal",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2361,
+            "fim": 2407,
+            "texto": "Rua Desembargador Floriano Benevides Magalhaes",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2416,
+            "fim": 2425,
+            "texto": "Água Fria",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2443,
+            "fim": 2447,
+            "texto": "Fone",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2465,
+            "fim": 2477,
+            "texto": "Fortaleza-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2480,
+            "fim": 2486,
+            "texto": "E-mail",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 2561,
+            "fim": 2580,
+            "texto": "Promotor de Justiça",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2770,
+            "fim": 2773,
+            "texto": "Dra",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2775,
+            "fim": 2792,
+            "texto": "Promotora Pública",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 2905,
+            "fim": 2919,
+            "texto": "SEUS ELEMENTOS",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3025,
+            "fim": 3028,
+            "texto": "CPP",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3176,
+            "fim": 3194,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3255,
+            "fim": 3264,
+            "texto": "Fortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3265,
+            "fim": 3267,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3293,
+            "fim": 3335,
+            "texto": "Fabrício Vasconcelos Mazza\nJuiz de Direito",
+            "tipo": "PESSOA"
+        }
+    ],
+    "1116_PET_92540251": [
+        {
+            "entidade": "LOCATION",
+            "inicio": 93,
+            "fim": 102,
+            "texto": "ACONTICER",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 108,
+            "fim": 122,
+            "texto": "Queiroz Pessoa",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 148,
+            "fim": 159,
+            "texto": "Banabuiú-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 205,
+            "fim": 221,
+            "texto": "EXCELENTÍSSIMO(A",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 233,
+            "fim": 241,
+            "texto": "DOUTOR(A",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 243,
+            "fim": 249,
+            "texto": "JUIZ(A",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 490,
+            "fim": 512,
+            "texto": "Avenida Queiroz Pessoa",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 522,
+            "fim": 528,
+            "texto": "Centro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 530,
+            "fim": 538,
+            "texto": "Banabuiú",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 540,
+            "fim": 545,
+            "texto": "Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 662,
+            "fim": 671,
+            "texto": "Requerido",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 879,
+            "fim": 887,
+            "texto": "Banabuiú",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 912,
+            "fim": 944,
+            "texto": "Aprígio Junior Campos Nobre\nOAB/",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 944,
+            "fim": 946,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "283_DEN_93879160": [
+        {
+            "entidade": "PERSON",
+            "inicio": 23,
+            "fim": 27,
+            "texto": "PROT",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 67,
+            "fim": 73,
+            "texto": "ESTADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 160,
+            "fim": 168,
+            "texto": "DOUTOR(A",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 170,
+            "fim": 176,
+            "texto": "JUIZ(A",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 447,
+            "fim": 479,
+            "texto": "inciso I da Constituição Federal",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 539,
+            "fim": 547,
+            "texto": "DENÚNCIA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 663,
+            "fim": 673,
+            "texto": "Cajazeiras",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 674,
+            "fim": 676,
+            "texto": "PB",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 759,
+            "fim": 771,
+            "texto": "Feitosa Neto",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 800,
+            "fim": 807,
+            "texto": "Bairro\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 807,
+            "fim": 825,
+            "texto": "Ronaldo Cunha Lima",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 827,
+            "fim": 837,
+            "texto": "Cajazeiras",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 838,
+            "fim": 840,
+            "texto": "PB",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 944,
+            "fim": 957,
+            "texto": "Sítio Pocinho",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 962,
+            "fim": 967,
+            "texto": "BR230",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 982,
+            "fim": 991,
+            "texto": "Ipaumirim",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1194,
+            "fim": 1207,
+            "texto": "Placa\nPNE5291",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1451,
+            "fim": 1471,
+            "texto": "Cachoeira dos Índios",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1489,
+            "fim": 1498,
+            "texto": "Ipaumirim",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1499,
+            "fim": 1501,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1547,
+            "fim": 1561,
+            "texto": "Sítio Pocinhos",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1566,
+            "fim": 1568,
+            "texto": "BR",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1607,
+            "fim": 1616,
+            "texto": "Ipaumirim",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1956,
+            "fim": 1966,
+            "texto": "Cajazeiras",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1967,
+            "fim": 1969,
+            "texto": "PB",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2013,
+            "fim": 2023,
+            "texto": "Ple\nESTADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2462,
+            "fim": 2472,
+            "texto": "Cajazeiras",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2473,
+            "fim": 2475,
+            "texto": "PB",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 2818,
+            "fim": 2845,
+            "texto": "CAPITÃO GERALDO JESUS ALVES",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 2857,
+            "fim": 2881,
+            "texto": "FRANÇUALDO ALVES DE LIMA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3234,
+            "fim": 3244,
+            "texto": "Excelência",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3397,
+            "fim": 3415,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3452,
+            "fim": 3472,
+            "texto": "TIPIFICAÇÃO DO CRIME",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3814,
+            "fim": 3818,
+            "texto": "Pena",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3952,
+            "fim": 3958,
+            "texto": "ESTADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 4469,
+            "fim": 4477,
+            "texto": "DENÚNCIA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4661,
+            "fim": 4668,
+            "texto": "CITAÇÃO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 4855,
+            "fim": 4863,
+            "texto": "Protesta",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4988,
+            "fim": 4997,
+            "texto": "Ipaumirim",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4998,
+            "fim": 5000,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5026,
+            "fim": 5097,
+            "texto": "Serso\nCamilla Rolim de Medeiros\nPromotora de Justiça\nROL DE TESTEMUNHAS",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5098,
+            "fim": 5109,
+            "texto": "DECLARANTES",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5166,
+            "fim": 5174,
+            "texto": "Iparmini",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5178,
+            "fim": 5205,
+            "texto": "CAPITÃO GERALDO JESUS ALVES",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5243,
+            "fim": 5267,
+            "texto": "FRANÇUALDO ALVES DE LIMA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5344,
+            "fim": 5351,
+            "texto": "Ipanmin",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "283_DEN_105110798": [
+        {
+            "entidade": "LOCATION",
+            "inicio": 0,
+            "fim": 7,
+            "texto": "Quixadá",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 13,
+            "fim": 28,
+            "texto": "Vara da Comarca",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 32,
+            "fim": 39,
+            "texto": "Quixadá",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 123,
+            "fim": 127,
+            "texto": "Fag\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 196,
+            "fim": 214,
+            "texto": "Criminal Interior\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 250,
+            "fim": 283,
+            "texto": "Delegacia Regional de\nQuixadá\nAut",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 289,
+            "fim": 322,
+            "texto": "Delegacia Regional de Quixadá-CE\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 336,
+            "fim": 370,
+            "texto": "Yarlei Moura de Freitas\nObservação",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 541,
+            "fim": 545,
+            "texto": "Vara",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "283_DEC_81349285": [
+        {
+            "entidade": "LOCATION",
+            "inicio": 49,
+            "fim": 56,
+            "texto": "Comarca",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 60,
+            "fim": 89,
+            "texto": "Mauriti\nVara Única da Comarca",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 93,
+            "fim": 101,
+            "texto": "Mauriti\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 134,
+            "fim": 140,
+            "texto": "Centro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 158,
+            "fim": 162,
+            "texto": "Fone",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 180,
+            "fim": 190,
+            "texto": "Mauriti-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 268,
+            "fim": 275,
+            "texto": "Apensos",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 287,
+            "fim": 294,
+            "texto": "Apensos",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 351,
+            "fim": 406,
+            "texto": "Flagrante\nAssunto:\nViolência Doméstica Contra a Mulher\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 427,
+            "fim": 477,
+            "texto": "Delegacia Regional de Polícia Civil de Brejo Santo",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 478,
+            "fim": 488,
+            "texto": "ce\nAutuado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 496,
+            "fim": 508,
+            "texto": "Sergio Gomes",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 608,
+            "fim": 614,
+            "texto": "PAULO\n",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 960,
+            "fim": 964,
+            "texto": "UlHO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 976,
+            "fim": 998,
+            "texto": "Cidade de BREJO SANTO/",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 998,
+            "fim": 1000,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1295,
+            "fim": 1321,
+            "texto": "Delegacia de\nPolícia Civil",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3108,
+            "fim": 3113,
+            "texto": "Juízo",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3155,
+            "fim": 3162,
+            "texto": "Comarca",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3231,
+            "fim": 3238,
+            "texto": "Comarca",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3242,
+            "fim": 3256,
+            "texto": "BREJO SANTO/CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3283,
+            "fim": 3290,
+            "texto": "Mauriti",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3291,
+            "fim": 3293,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3316,
+            "fim": 3347,
+            "texto": "Luis Savio de Azevedo Bringel\nJ",
+            "tipo": "PESSOA"
+        }
+    ],
+    "279_INQ_88114167": [
+        {
+            "entidade": "LOCATION",
+            "inicio": 0,
+            "fim": 17,
+            "texto": "GOVERNO DO ESTADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 217,
+            "fim": 255,
+            "texto": "Ana Ursulina Tavares Rodrigues de Lima",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 257,
+            "fim": 282,
+            "texto": "Delegada de Policia Civil",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 429,
+            "fim": 436,
+            "texto": "RESOLVE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 464,
+            "fim": 482,
+            "texto": "Inquérito Policial",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 636,
+            "fim": 665,
+            "texto": "JOÃO PAULO BEZERRA DOS SANTOS",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1021,
+            "fim": 1039,
+            "texto": "Inquérito Policial",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1451,
+            "fim": 1461,
+            "texto": "Prosseguir",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1558,
+            "fim": 1597,
+            "texto": "Ana Ursulinz Tavares Rodrigues de Lima\n",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1982,
+            "fim": 2004,
+            "texto": "CE\nPonto de Referência",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2414,
+            "fim": 2443,
+            "texto": "Companhia Energética do Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2486,
+            "fim": 2492,
+            "texto": "CONLCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2638,
+            "fim": 2647,
+            "texto": "Aurora-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2725,
+            "fim": 2742,
+            "texto": "agência da COFLCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 2963,
+            "fim": 2967,
+            "texto": "R.O.",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3089,
+            "fim": 3101,
+            "texto": "Noticiante(s",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3110,
+            "fim": 3148,
+            "texto": "JOAO PAULO BEZERRA DOS SANTOS\nEndereço",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3183,
+            "fim": 3189,
+            "texto": "RURAL\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3407,
+            "fim": 3431,
+            "texto": "Parlo benerro don Savto7",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3715,
+            "fim": 3721,
+            "texto": "ESTADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3725,
+            "fim": 3730,
+            "texto": "CEARÁ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3782,
+            "fim": 3808,
+            "texto": "Paula Beganing don Ganter\n",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3924,
+            "fim": 3934,
+            "texto": "JOAO PAULO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4095,
+            "fim": 4101,
+            "texto": "8252 L",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 4196,
+            "fim": 4207,
+            "texto": "DE.29/08/83",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4297,
+            "fim": 4303,
+            "texto": "ESTADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 4375,
+            "fim": 4389,
+            "texto": "DPI/21a DRPCBS",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4553,
+            "fim": 4639,
+            "texto": "Excelentíssimo Senhor Delegado Geral de\nPolícia Civil RAIMUNDO DE SOUZA ANDRADE JUNIOR",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5275,
+            "fim": 5294,
+            "texto": "Delegacia Municipal",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5410,
+            "fim": 5415,
+            "texto": "Barro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5416,
+            "fim": 5418,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5540,
+            "fim": 5564,
+            "texto": "Cartório desta Municipal",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5681,
+            "fim": 5690,
+            "texto": "REMETA AO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5783,
+            "fim": 5801,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5977,
+            "fim": 6008,
+            "texto": "Ana Ursulína Tavares Rodrigues\n",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6109,
+            "fim": 6115,
+            "texto": "ESTADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 6187,
+            "fim": 6201,
+            "texto": "DPI/21a DRPCBS",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 6337,
+            "fim": 6374,
+            "texto": "Francisco Finezio Ferreira de Azevedo",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6492,
+            "fim": 6500,
+            "texto": "Delegada",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6504,
+            "fim": 6517,
+            "texto": "Polícia Civil",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 6563,
+            "fim": 6600,
+            "texto": "Francisco Finezio\nFerreira de Azevedo",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 6786,
+            "fim": 6831,
+            "texto": "Francisco Finezio\nFerreira de Azevedo Segundo",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6871,
+            "fim": 6914,
+            "texto": "Hilch\nFrancisco Finezio Ferreira de Azevedo",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7024,
+            "fim": 7030,
+            "texto": "ESTADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7105,
+            "fim": 7112,
+            "texto": "Rua Cel",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 7114,
+            "fim": 7124,
+            "texto": "José Leite",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7131,
+            "fim": 7136,
+            "texto": "Araçá",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7139,
+            "fim": 7143,
+            "texto": "Fone",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7222,
+            "fim": 7224,
+            "texto": "MP",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7276,
+            "fim": 7280,
+            "texto": "JOAO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7295,
+            "fim": 7319,
+            "texto": "Juiz de Direito//Titular",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7417,
+            "fim": 7422,
+            "texto": "CEARÁ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7535,
+            "fim": 7551,
+            "texto": "Senhora Delegada",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 7683,
+            "fim": 7712,
+            "texto": "João Paulo Bezerra dos Santos",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7737,
+            "fim": 7756,
+            "texto": "Autoridade\nPolicial",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7825,
+            "fim": 7834,
+            "texto": "Inquérito",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 8026,
+            "fim": 8044,
+            "texto": "Polícia\nJudiciária",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 8281,
+            "fim": 8287,
+            "texto": "Aurora",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 8384,
+            "fim": 8402,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 8465,
+            "fim": 8471,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 8682,
+            "fim": 8688,
+            "texto": "ESTADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 8863,
+            "fim": 8869,
+            "texto": "PEDIDO",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 8910,
+            "fim": 8929,
+            "texto": "Excelentíssimo Juiz",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 9260,
+            "fim": 9263,
+            "texto": "CPP",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 9297,
+            "fim": 9315,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 9916,
+            "fim": 9941,
+            "texto": "FELIPE MARINHO CORREIA DE",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 9942,
+            "fim": 9976,
+            "texto": "OLIVEIRA\nDelegado de Polícia Civil",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 10082,
+            "fim": 10087,
+            "texto": "CEARÁ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 10202,
+            "fim": 10211,
+            "texto": "C/ Vistas",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 10213,
+            "fim": 10217,
+            "texto": "Exmo",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 10219,
+            "fim": 10227,
+            "texto": "Delegado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 10590,
+            "fim": 10599,
+            "texto": "Aurora-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 10621,
+            "fim": 10656,
+            "texto": "Alessandra Magala Ribeirá Monteiro\n",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 10764,
+            "fim": 10770,
+            "texto": "ESTADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 10774,
+            "fim": 10790,
+            "texto": "CEARÁ\nSECRETARÍA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 10941,
+            "fim": 10947,
+            "texto": "PEDIDO",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 10988,
+            "fim": 11007,
+            "texto": "Excelentíssimo Juiz",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 11338,
+            "fim": 11341,
+            "texto": "CPP",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 11375,
+            "fim": 11393,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 11995,
+            "fim": 12055,
+            "texto": "Felipe Marinho Correia de Oliveira\nDelegado de Policia Civil",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 12226,
+            "fim": 12308,
+            "texto": "Departamento de Polícia do Interior\nDELEGACIA MUNICIPAL DE POLÍCIA CIVIL DE AURORA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 12309,
+            "fim": 12314,
+            "texto": "BARRO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 12375,
+            "fim": 12404,
+            "texto": "JOÃO PAULO BEZERRA DOS SANTOS",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 12520,
+            "fim": 12524,
+            "texto": "Exmo",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 12526,
+            "fim": 12560,
+            "texto": "Sr. PAULO HERNESTO\nPEREIRA TAVARES",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 12618,
+            "fim": 12644,
+            "texto": "Delegacia de Polícia\nCivil",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 12661,
+            "fim": 12672,
+            "texto": "Aurora - CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 12882,
+            "fim": 12898,
+            "texto": "Vossa Excelência",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 13348,
+            "fim": 13367,
+            "texto": "Sítio Logradorzinho",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 13369,
+            "fim": 13379,
+            "texto": "Zona Rural",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 13381,
+            "fim": 13390,
+            "texto": "Aurora/CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 13571,
+            "fim": 13583,
+            "texto": "COELCE- ENEL",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 14997,
+            "fim": 15079,
+            "texto": "Departamento de Polícia do Interior\nDELEGACIA MUNICIPAL DE POLÍCIA CIVIL DE AURORA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 15080,
+            "fim": 15085,
+            "texto": "BARRO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 15088,
+            "fim": 15091,
+            "texto": "CE\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 15723,
+            "fim": 15726,
+            "texto": "STF",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 15917,
+            "fim": 15935,
+            "texto": "DAS CIRCUNSTÂNCIAS",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 16011,
+            "fim": 16026,
+            "texto": "V. ARBITRAMENTO",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16831,
+            "fim": 16913,
+            "texto": "Departamento de Polícia do Interior\nDELEGACIA MUNICIPAL DE POLÍCIA CIVIL DE AURORA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16914,
+            "fim": 16919,
+            "texto": "BARRO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16922,
+            "fim": 16924,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 17307,
+            "fim": 17325,
+            "texto": "Polícia Judiciária",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 17408,
+            "fim": 17424,
+            "texto": "Vossa Excelência",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 17488,
+            "fim": 17494,
+            "texto": "Aurora",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 17518,
+            "fim": 17540,
+            "texto": "PAULO HERNESTO PEREIRA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 17611,
+            "fim": 17616,
+            "texto": "BARRO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 17619,
+            "fim": 17642,
+            "texto": "CE\nMATRÍCULA 301194-0-1",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "159_SEN_92401478": [
+        {
+            "entidade": "LOCATION",
+            "inicio": 47,
+            "fim": 57,
+            "texto": "Fortaleza\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 95,
+            "fim": 99,
+            "texto": "TJCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 100,
+            "fim": 146,
+            "texto": "Rua Desembargador Floriano Benevides Magalhaes",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 156,
+            "fim": 165,
+            "texto": "Água Fria",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 183,
+            "fim": 187,
+            "texto": "Fone",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 189,
+            "fim": 201,
+            "texto": "Fortaleza-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 231,
+            "fim": 248,
+            "texto": "SENTENÇA\nProcesso",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 343,
+            "fim": 361,
+            "texto": "Edifício\nExequente",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 406,
+            "fim": 442,
+            "texto": "Michelle Amorim Sancho SouzaMichelle",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 450,
+            "fim": 469,
+            "texto": "Sancho\nSouza\nVistos",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 569,
+            "fim": 579,
+            "texto": "Brevíssimo",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 588,
+            "fim": 594,
+            "texto": "DECIDO",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 805,
+            "fim": 809,
+            "texto": "NCPC",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1053,
+            "fim": 1057,
+            "texto": "NCPC",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1327,
+            "fim": 1332,
+            "texto": "SEJUD",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1407,
+            "fim": 1423,
+            "texto": "P.R.I.\nFortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1424,
+            "fim": 1426,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1452,
+            "fim": 1500,
+            "texto": "Antonia Neuma Mota Moreira Dias\nJuíza de Direito",
+            "tipo": "PESSOA"
+        }
+    ],
+    "999_PET_91319463": [
+        {
+            "entidade": "LOCATION",
+            "inicio": 36,
+            "fim": 111,
+            "texto": "EXCELENTÍSSIMA SENHORA DOUTORA JUIZA DE DIREITO DA\nTERCEIRA VARA DA COMARCA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 161,
+            "fim": 185,
+            "texto": "ANDERSON DA SILVA GUEDES",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 278,
+            "fim": 328,
+            "texto": "Instituição Presidio\nIndustrial Regional do Cariri",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 332,
+            "fim": 347,
+            "texto": "Estado do Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 414,
+            "fim": 430,
+            "texto": "Vossa Excelencia",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 644,
+            "fim": 654,
+            "texto": "Requerente",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 904,
+            "fim": 920,
+            "texto": "Juiz Plantonista",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1351,
+            "fim": 1366,
+            "texto": "Rua Pedro Gomes",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1374,
+            "fim": 1383,
+            "texto": "Taboleiro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1386,
+            "fim": 1392,
+            "texto": "Iguatu",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1395,
+            "fim": 1400,
+            "texto": "Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1533,
+            "fim": 1557,
+            "texto": "Terceira Vara Da Comarca",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1561,
+            "fim": 1570,
+            "texto": "Iguatu-Ce",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1673,
+            "fim": 1679,
+            "texto": "Prisão",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1821,
+            "fim": 1836,
+            "texto": "Vara da Comarca",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1840,
+            "fim": 1846,
+            "texto": "Iguatu",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1869,
+            "fim": 1895,
+            "texto": "Excelentíssimo Senhor Juiz",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1912,
+            "fim": 1932,
+            "texto": "Ronald Neves Pereira",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2117,
+            "fim": 2135,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 2137,
+            "fim": 2158,
+            "texto": "Helga Barreto Tavares",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 2202,
+            "fim": 2226,
+            "texto": "Robson Pinheiro de Sousa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2702,
+            "fim": 2720,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3006,
+            "fim": 3024,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3122,
+            "fim": 3129,
+            "texto": "Pereira",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3314,
+            "fim": 3332,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3334,
+            "fim": 3355,
+            "texto": "Helga Barreto Tavares",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3399,
+            "fim": 3423,
+            "texto": "Robson Pinheiro de Sousa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3680,
+            "fim": 3695,
+            "texto": "Rua Pedro Gomes",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3703,
+            "fim": 3712,
+            "texto": "Taboleiro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3715,
+            "fim": 3721,
+            "texto": "Iguatu",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3724,
+            "fim": 3729,
+            "texto": "Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3895,
+            "fim": 3901,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4116,
+            "fim": 4134,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4421,
+            "fim": 4439,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4602,
+            "fim": 4612,
+            "texto": "Magistrada",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 4680,
+            "fim": 4704,
+            "texto": "Glaudeani Alves de Moura",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4706,
+            "fim": 4725,
+            "texto": "Servidora\nMunicipal",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 4814,
+            "fim": 4830,
+            "texto": "Izabela Mendonça",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 4834,
+            "fim": 4854,
+            "texto": "Alexandre de Freitas",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4856,
+            "fim": 4869,
+            "texto": "Juíza Titular",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5221,
+            "fim": 5239,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5388,
+            "fim": 5406,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5569,
+            "fim": 5587,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5807,
+            "fim": 5825,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5886,
+            "fim": 5889,
+            "texto": "CPP",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6094,
+            "fim": 6109,
+            "texto": "Rua Pedro Gomes",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6117,
+            "fim": 6126,
+            "texto": "Taboleiro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6129,
+            "fim": 6135,
+            "texto": "Iguatu",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6138,
+            "fim": 6143,
+            "texto": "Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6528,
+            "fim": 6531,
+            "texto": "STJ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6656,
+            "fim": 6664,
+            "texto": "CRIMINAL",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 6689,
+            "fim": 6710,
+            "texto": "FORMAÇÃO DE QUADRILHA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 7080,
+            "fim": 7091,
+            "texto": "I. Hipótese",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7207,
+            "fim": 7225,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7275,
+            "fim": 7283,
+            "texto": "Tribunal",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 7317,
+            "fim": 7336,
+            "texto": "Promotor de Justiça",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7340,
+            "fim": 7347,
+            "texto": "Comarca",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7404,
+            "fim": 7413,
+            "texto": "Flagrante",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7536,
+            "fim": 7551,
+            "texto": "Estado-Acusação",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7677,
+            "fim": 7682,
+            "texto": "Corte",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 7924,
+            "fim": 7932,
+            "texto": "V. Ordem",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 8108,
+            "fim": 8124,
+            "texto": "Juízo de 1° grau",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 8195,
+            "fim": 8198,
+            "texto": "STJ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 8200,
+            "fim": 8212,
+            "texto": "Quinta Turma",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 8214,
+            "fim": 8216,
+            "texto": "HC",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 8224,
+            "fim": 8226,
+            "texto": "MT",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 8228,
+            "fim": 8235,
+            "texto": "Relator",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 8236,
+            "fim": 8256,
+            "texto": "Ministro Gilson Dipp",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 8356,
+            "fim": 8371,
+            "texto": "Rua Pedro Gomes",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 8379,
+            "fim": 8388,
+            "texto": "Taboleiro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 8391,
+            "fim": 8397,
+            "texto": "Iguatu",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 8400,
+            "fim": 8405,
+            "texto": "Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 8686,
+            "fim": 8692,
+            "texto": "Defesa",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 9475,
+            "fim": 9481,
+            "texto": "LXVIII",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 9898,
+            "fim": 9904,
+            "texto": "Brasil",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 10093,
+            "fim": 10109,
+            "texto": "Provisionalidade",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 10111,
+            "fim": 10125,
+            "texto": "Provisoriedade",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 10167,
+            "fim": 10183,
+            "texto": "Provisionalidade",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 10297,
+            "fim": 10300,
+            "texto": "CPP",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 10330,
+            "fim": 10344,
+            "texto": "PROVISORIEDADE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 10444,
+            "fim": 10459,
+            "texto": "Rua Pedro Gomes",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 10467,
+            "fim": 10476,
+            "texto": "Taboleiro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 10479,
+            "fim": 10485,
+            "texto": "Iguatu",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 10488,
+            "fim": 10493,
+            "texto": "Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 10607,
+            "fim": 10621,
+            "texto": "Provisoriedade",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 11207,
+            "fim": 11224,
+            "texto": "Aury Lopes Junior",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 11406,
+            "fim": 11409,
+            "texto": "UNA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 12642,
+            "fim": 12657,
+            "texto": "Rua Pedro Gomes",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 12665,
+            "fim": 12674,
+            "texto": "Taboleiro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 12677,
+            "fim": 12683,
+            "texto": "Iguatu",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 12686,
+            "fim": 12691,
+            "texto": "Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 12900,
+            "fim": 12906,
+            "texto": "Sumula",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 12923,
+            "fim": 12925,
+            "texto": "EC",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 12960,
+            "fim": 12962,
+            "texto": "El",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 12964,
+            "fim": 12967,
+            "texto": "Min",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 12969,
+            "fim": 12997,
+            "texto": "Maria Thereza de Assis Moura",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 13024,
+            "fim": 13048,
+            "texto": "SUPREMO TRIBUNAL FEDERAL",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 13136,
+            "fim": 13183,
+            "texto": "Quinta Turma do E. Superior Tribunal de\nJustiça",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 13231,
+            "fim": 13233,
+            "texto": "SP",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 13313,
+            "fim": 13322,
+            "texto": "PRONÚNCIA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 13327,
+            "fim": 13333,
+            "texto": "MANTÉM",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 13611,
+            "fim": 13622,
+            "texto": "LIBERTATIS\"",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 13670,
+            "fim": 13694,
+            "texto": "SUPREMO TRIBUNAL FEDERAL",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 14357,
+            "fim": 14361,
+            "texto": "País",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 14712,
+            "fim": 14714,
+            "texto": "SP",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 14791,
+            "fim": 14806,
+            "texto": "Rua Pedro Gomes",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 14814,
+            "fim": 14823,
+            "texto": "Taboleiro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 14826,
+            "fim": 14832,
+            "texto": "Iguatu",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 14835,
+            "fim": 14840,
+            "texto": "Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 14995,
+            "fim": 14998,
+            "texto": "STF",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 15592,
+            "fim": 15598,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 15633,
+            "fim": 15655,
+            "texto": "Dirley da Cunha Junior",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 15716,
+            "fim": 15722,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 15967,
+            "fim": 15973,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16068,
+            "fim": 16074,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16296,
+            "fim": 16309,
+            "texto": "Estado Social",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 16312,
+            "fim": 16334,
+            "texto": "Democrático de Direito",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16402,
+            "fim": 16405,
+            "texto": "STF",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16606,
+            "fim": 16623,
+            "texto": "Inadmissibilidade",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16899,
+            "fim": 16914,
+            "texto": "Rua Pedro Gomes",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16922,
+            "fim": 16931,
+            "texto": "Taboleiro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16934,
+            "fim": 16940,
+            "texto": "Iguatu",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16943,
+            "fim": 16948,
+            "texto": "Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 17135,
+            "fim": 17137,
+            "texto": "HC",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 17144,
+            "fim": 17146,
+            "texto": "DF",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 17148,
+            "fim": 17159,
+            "texto": "Relator Min",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 17161,
+            "fim": 17173,
+            "texto": "Cezar Peluso",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 17205,
+            "fim": 17211,
+            "texto": "Merece",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 17235,
+            "fim": 17249,
+            "texto": "Tourinho Filho",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 17461,
+            "fim": 17475,
+            "texto": "Bento de Faria",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 17507,
+            "fim": 17513,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 17968,
+            "fim": 17979,
+            "texto": "ILEGALIDADE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 18169,
+            "fim": 18172,
+            "texto": "LXV",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 18283,
+            "fim": 18289,
+            "texto": "REQUER",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 18481,
+            "fim": 18488,
+            "texto": "Justiça",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 18505,
+            "fim": 18509,
+            "texto": "Pede",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 18523,
+            "fim": 18529,
+            "texto": "Iguatu",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 18555,
+            "fim": 18593,
+            "texto": "Márcia Rubia Batista Teixeira\nADVOGADA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 18599,
+            "fim": 18601,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 18684,
+            "fim": 18699,
+            "texto": "Rua Pedro Gomes",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 18707,
+            "fim": 18716,
+            "texto": "Taboleiro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 18719,
+            "fim": 18725,
+            "texto": "Iguatu",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 18728,
+            "fim": 18733,
+            "texto": "Ceará",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "159_PINI_72235000": [
+        {
+            "entidade": "LOCATION",
+            "inicio": 0,
+            "fim": 4,
+            "texto": "A1\n3",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5,
+            "fim": 30,
+            "texto": "Vara\n3\nANTINOLFI & MÖLLER",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 113,
+            "fim": 121,
+            "texto": "DOUTOR(A",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 123,
+            "fim": 129,
+            "texto": "JUIZ(A",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 227,
+            "fim": 232,
+            "texto": "SUATU",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 233,
+            "fim": 235,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 373,
+            "fim": 387,
+            "texto": "Cidade de Deus",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 390,
+            "fim": 399,
+            "texto": "Vila Yara",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 417,
+            "fim": 423,
+            "texto": "Osasco",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 424,
+            "fim": 426,
+            "texto": "SP",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 653,
+            "fim": 663,
+            "texto": "Rua\nPio IX",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 672,
+            "fim": 689,
+            "texto": "Bairro Salesianos",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 707,
+            "fim": 724,
+            "texto": "Juazeiro do Norte",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 725,
+            "fim": 727,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 886,
+            "fim": 902,
+            "texto": "Vossa Excelência",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1092,
+            "fim": 1115,
+            "texto": "FRANCISCO TACIDO SANTOS",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1228,
+            "fim": 1250,
+            "texto": "Rua Quinze de\nNovembro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1260,
+            "fim": 1273,
+            "texto": "Bairro Centro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1291,
+            "fim": 1297,
+            "texto": "Iguatu",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1298,
+            "fim": 1300,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1363,
+            "fim": 1375,
+            "texto": "PORTO ALEGRE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1376,
+            "fim": 1378,
+            "texto": "RS",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1403,
+            "fim": 1408,
+            "texto": "NORTE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1409,
+            "fim": 1422,
+            "texto": "CE\nFORTALEZA/",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1422,
+            "fim": 1441,
+            "texto": "CE\nAv. Alberto Bins",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1457,
+            "fim": 1476,
+            "texto": "Av. Colares Moreira",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1490,
+            "fim": 1500,
+            "texto": "Rua Pio IX",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1505,
+            "fim": 1530,
+            "texto": "Av. Desembargador Moreira",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1537,
+            "fim": 1553,
+            "texto": "Sala 1002 Centro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1564,
+            "fim": 1569,
+            "texto": "Salas",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1580,
+            "fim": 1586,
+            "texto": "Calhau",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1692,
+            "fim": 1696,
+            "texto": "Fone",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1713,
+            "fim": 1717,
+            "texto": "Fone",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1766,
+            "fim": 1768,
+            "texto": "A1",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1772,
+            "fim": 1795,
+            "texto": "Vara\nANTINOLFI & MÖLLER",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 2167,
+            "fim": 2173,
+            "texto": "Cédula",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2516,
+            "fim": 2520,
+            "texto": "I,\"b",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3230,
+            "fim": 3246,
+            "texto": "Vossa Excelência",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3729,
+            "fim": 3737,
+            "texto": "SOB PENA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3919,
+            "fim": 3931,
+            "texto": "PORTO ALEGRE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3932,
+            "fim": 3934,
+            "texto": "RS",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3959,
+            "fim": 3964,
+            "texto": "NORTE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3965,
+            "fim": 3978,
+            "texto": "CE\nFORTALEZA/",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3978,
+            "fim": 3997,
+            "texto": "CE\nAv. Alberto Bins",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4013,
+            "fim": 4032,
+            "texto": "Av. Colares Moreira",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 4046,
+            "fim": 4056,
+            "texto": "Rua Pio IX",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4061,
+            "fim": 4086,
+            "texto": "Av. Desembargador Moreira",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4093,
+            "fim": 4109,
+            "texto": "Sala 1002 Centro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4120,
+            "fim": 4125,
+            "texto": "Salas",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4136,
+            "fim": 4142,
+            "texto": "Calhau",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4248,
+            "fim": 4252,
+            "texto": "Fone",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4269,
+            "fim": 4273,
+            "texto": "Fone",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4397,
+            "fim": 4399,
+            "texto": "A1",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5017,
+            "fim": 5042,
+            "texto": "Senhor Oficial de Justiça",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5243,
+            "fim": 5246,
+            "texto": "CPC",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5504,
+            "fim": 5506,
+            "texto": "RS",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5528,
+            "fim": 5542,
+            "texto": "CLAYTON MÖLLER",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5559,
+            "fim": 5561,
+            "texto": "RS",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5622,
+            "fim": 5624,
+            "texto": "RS",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5677,
+            "fim": 5679,
+            "texto": "RS",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5772,
+            "fim": 5789,
+            "texto": "Juazeiro do Norte",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5814,
+            "fim": 5817,
+            "texto": "Glm",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5830,
+            "fim": 5842,
+            "texto": "Cylon Möller",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5847,
+            "fim": 5849,
+            "texto": "RS",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6039,
+            "fim": 6051,
+            "texto": "PORTO ALEGRE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6052,
+            "fim": 6054,
+            "texto": "RS",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6079,
+            "fim": 6084,
+            "texto": "NORTE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6085,
+            "fim": 6098,
+            "texto": "CE\nFORTALEZA/",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6098,
+            "fim": 6117,
+            "texto": "CE\nAv. Alberto Bins",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6133,
+            "fim": 6152,
+            "texto": "Av. Colares Moreira",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 6166,
+            "fim": 6176,
+            "texto": "Rua Pio IX",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6181,
+            "fim": 6206,
+            "texto": "Av. Desembargador Moreira",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6213,
+            "fim": 6229,
+            "texto": "Sala 1002 Centro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6240,
+            "fim": 6245,
+            "texto": "Salas",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6256,
+            "fim": 6262,
+            "texto": "Calhau",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6368,
+            "fim": 6372,
+            "texto": "Fone",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6389,
+            "fim": 6393,
+            "texto": "Fone",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "999_SEN_90023409": [
+        {
+            "entidade": "LOCATION",
+            "inicio": 45,
+            "fim": 49,
+            "texto": "TJCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 54,
+            "fim": 61,
+            "texto": "Comarca",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 65,
+            "fim": 75,
+            "texto": "Fortaleza\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 107,
+            "fim": 135,
+            "texto": "Floriano Benevides Magalhaes",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 145,
+            "fim": 154,
+            "texto": "Água Fria",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 172,
+            "fim": 176,
+            "texto": "Fone",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 194,
+            "fim": 206,
+            "texto": "Fortaleza-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 209,
+            "fim": 215,
+            "texto": "E-mail",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 385,
+            "fim": 418,
+            "texto": "Marcio Cassiano dos Santos\nVistos",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 478,
+            "fim": 504,
+            "texto": "Márcio Cassiano dos\nSantos",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 689,
+            "fim": 709,
+            "texto": "Rua Professor Cabral",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 737,
+            "fim": 754,
+            "texto": "Parque Santa Rosa",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 756,
+            "fim": 768,
+            "texto": "Fortaleza-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 872,
+            "fim": 902,
+            "texto": "Antônio\nCarlos da Silva Santos",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1038,
+            "fim": 1064,
+            "texto": "Márcio Cassiano dos Santos",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1087,
+            "fim": 1093,
+            "texto": "Titela",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1283,
+            "fim": 1292,
+            "texto": "Memoriais",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1308,
+            "fim": 1326,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1639,
+            "fim": 1645,
+            "texto": "Decido",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1647,
+            "fim": 1652,
+            "texto": "Passo",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1944,
+            "fim": 1948,
+            "texto": "Juiz",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2174,
+            "fim": 2182,
+            "texto": "Superior",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2339,
+            "fim": 2355,
+            "texto": "Tribunal do Júri",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2717,
+            "fim": 2719,
+            "texto": "SC",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2721,
+            "fim": 2724,
+            "texto": "Rel",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2782,
+            "fim": 2791,
+            "texto": "Fortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2802,
+            "fim": 2853,
+            "texto": "Júri\nRua Desembargador Floriano Benevides Magalhaes",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2863,
+            "fim": 2872,
+            "texto": "Água Fria",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2890,
+            "fim": 2894,
+            "texto": "Fone",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2912,
+            "fim": 2924,
+            "texto": "Fortaleza-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2927,
+            "fim": 2933,
+            "texto": "E-mail",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3308,
+            "fim": 3336,
+            "texto": "Maria Tereza da Silva Santos",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3379,
+            "fim": 3385,
+            "texto": "Titela",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3468,
+            "fim": 3496,
+            "texto": "Superior Tribunal\nde Justiça",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3748,
+            "fim": 3760,
+            "texto": "STJ-6a\nTurma",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3772,
+            "fim": 3774,
+            "texto": "RJ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3776,
+            "fim": 3779,
+            "texto": "Rel",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3781,
+            "fim": 3803,
+            "texto": "Ministro NEFI CORDEIRO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3830,
+            "fim": 3845,
+            "texto": "Eugênio Pacelli",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3905,
+            "fim": 3914,
+            "texto": "São Paulo",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4550,
+            "fim": 4564,
+            "texto": "Precedente STJ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4588,
+            "fim": 4590,
+            "texto": "ES",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4592,
+            "fim": 4595,
+            "texto": "Rel",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4597,
+            "fim": 4619,
+            "texto": "Ministro NEFI CORDEIRO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5599,
+            "fim": 5625,
+            "texto": "Márcio Cassiano dos Santos",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5804,
+            "fim": 5834,
+            "texto": "Antônio Carlos da Silva\nSantos",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5964,
+            "fim": 5982,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 6009,
+            "fim": 6012,
+            "texto": "CPP",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 6025,
+            "fim": 6033,
+            "texto": "Preclusa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6114,
+            "fim": 6117,
+            "texto": "CPP",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 6169,
+            "fim": 6172,
+            "texto": "CPP",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6174,
+            "fim": 6190,
+            "texto": "P.R.I.\nFortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6191,
+            "fim": 6193,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 6220,
+            "fim": 6245,
+            "texto": "Raimundo Lucena Neto\nJuiz",
+            "tipo": "PESSOA"
+        }
+    ],
+    "7_DES_106028741": [
+        {
+            "entidade": "PERSON",
+            "inicio": 0,
+            "fim": 9,
+            "texto": "ISSINADO\n",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 45,
+            "fim": 49,
+            "texto": "TJCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 54,
+            "fim": 61,
+            "texto": "Comarca",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 65,
+            "fim": 74,
+            "texto": "Fortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 86,
+            "fim": 101,
+            "texto": "Fazenda Pública",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 102,
+            "fim": 148,
+            "texto": "Rua Desembargador Floriano Benevides Magalhaes",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 157,
+            "fim": 166,
+            "texto": "Água Fria",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 184,
+            "fim": 188,
+            "texto": "Fone",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 206,
+            "fim": 218,
+            "texto": "Fortaleza-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 221,
+            "fim": 227,
+            "texto": "E-mail",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 258,
+            "fim": 264,
+            "texto": "Juiz(a",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 266,
+            "fim": 281,
+            "texto": "Titular da Vara",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 283,
+            "fim": 339,
+            "texto": "Ana Paula Feitosa Oliveira\nMANDADO DE INTIMAÇÃO\nProcesso",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 370,
+            "fim": 377,
+            "texto": "Apensos",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 544,
+            "fim": 553,
+            "texto": "Requerido",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 555,
+            "fim": 564,
+            "texto": "Estado do",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 621,
+            "fim": 629,
+            "texto": "Endereço",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 631,
+            "fim": 649,
+            "texto": "Rua Nelson Studart",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 656,
+            "fim": 685,
+            "texto": "Engenheiro Luciano Cavalcante",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 703,
+            "fim": 722,
+            "texto": "Fortaleza-CE\nrd\nO(A",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 728,
+            "fim": 734,
+            "texto": "Juiz(a",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 755,
+            "fim": 778,
+            "texto": "Vara da Fazenda Pública",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 783,
+            "fim": 803,
+            "texto": "Comarca de\nFortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1004,
+            "fim": 1027,
+            "texto": "Vara da Fazenda Pública",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1032,
+            "fim": 1052,
+            "texto": "Comarca de Fortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1055,
+            "fim": 1057,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1375,
+            "fim": 1384,
+            "texto": "Fortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1385,
+            "fim": 1387,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1410,
+            "fim": 1416,
+            "texto": "Juiz(a",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1434,
+            "fim": 1458,
+            "texto": "Vara da Fazenda Pública\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1509,
+            "fim": 1519,
+            "texto": "Secretaria",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1525,
+            "fim": 1568,
+            "texto": "Vara da Fazenda Pública\n*00120150235071*\n1\n",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "1116_PINI_80230742": [
+        {
+            "entidade": "LOCATION",
+            "inicio": 0,
+            "fim": 8,
+            "texto": "ISSINADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 135,
+            "fim": 138,
+            "texto": "Ref",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 320,
+            "fim": 338,
+            "texto": "Procuradoria-Geral",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 342,
+            "fim": 351,
+            "texto": "Município",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 503,
+            "fim": 507,
+            "texto": "Pede",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 521,
+            "fim": 530,
+            "texto": "Maracanaú",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 610,
+            "fim": 612,
+            "texto": "Zm",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 632,
+            "fim": 658,
+            "texto": "Melissa Guará\nMaracanau-CE",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 669,
+            "fim": 729,
+            "texto": "Procuradora do Município\narquivaments definities\nServidor of",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 748,
+            "fim": 757,
+            "texto": "Minicipie",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 790,
+            "fim": 815,
+            "texto": "Palácio Antônio Gonçalves",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 841,
+            "fim": 847,
+            "texto": "Rua 01",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 857,
+            "fim": 880,
+            "texto": "Conjunto Novo Maracanaú",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 882,
+            "fim": 891,
+            "texto": "Maracanaú",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 893,
+            "fim": 898,
+            "texto": "Ceará",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "1116_PINI_80230108": [
+        {
+            "entidade": "LOCATION",
+            "inicio": 0,
+            "fim": 8,
+            "texto": "ISSINADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 9,
+            "fim": 13,
+            "texto": "TJCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 140,
+            "fim": 143,
+            "texto": "Ref",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 325,
+            "fim": 343,
+            "texto": "Procuradoria-Geral",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 347,
+            "fim": 356,
+            "texto": "Município",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 508,
+            "fim": 512,
+            "texto": "Pede",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 526,
+            "fim": 535,
+            "texto": "Maracanaú",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 563,
+            "fim": 573,
+            "texto": "SECRETARIA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 616,
+            "fim": 618,
+            "texto": "Zm",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 637,
+            "fim": 663,
+            "texto": "Melissa Guará\nMaracanau-CE",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 674,
+            "fim": 729,
+            "texto": "Procuradora do Município\nSel of\narquiraments definities",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 749,
+            "fim": 758,
+            "texto": "Minicipie",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 791,
+            "fim": 816,
+            "texto": "Palácio Antônio Gonçalves",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 841,
+            "fim": 847,
+            "texto": "Rua 01",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 857,
+            "fim": 880,
+            "texto": "Conjunto Novo Maracanaú",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 882,
+            "fim": 891,
+            "texto": "Maracanaú",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 893,
+            "fim": 898,
+            "texto": "Ceará",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "159_SEN_83104641": [
+        {
+            "entidade": "LOCATION",
+            "inicio": 45,
+            "fim": 49,
+            "texto": "TJCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 65,
+            "fim": 73,
+            "texto": "Barbalha",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 85,
+            "fim": 92,
+            "texto": "Comarca",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 96,
+            "fim": 105,
+            "texto": "Barbalha\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 128,
+            "fim": 134,
+            "texto": "Centro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 174,
+            "fim": 185,
+            "texto": "Barbalha-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 188,
+            "fim": 194,
+            "texto": "E-mail",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 218,
+            "fim": 227,
+            "texto": "SENTENÇA\n",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 349,
+            "fim": 390,
+            "texto": "Cidade Kariris Residencial Club\nExecutado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 392,
+            "fim": 424,
+            "texto": "Fernando Vinicius de Sa Siqueira",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 427,
+            "fim": 439,
+            "texto": "Souza\nVistos",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 561,
+            "fim": 569,
+            "texto": "FERNANDO",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 816,
+            "fim": 819,
+            "texto": "CPC",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 850,
+            "fim": 853,
+            "texto": "reu",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1297,
+            "fim": 1305,
+            "texto": "Barbalha",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1306,
+            "fim": 1308,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1332,
+            "fim": 1361,
+            "texto": "Marcelino Emidio Maciel Filho",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1362,
+            "fim": 1412,
+            "texto": "Juiz de Direito\nAssinado por Certificação Digital¹",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "283_DEC_107630371": [
+        {
+            "entidade": "LOCATION",
+            "inicio": 47,
+            "fim": 57,
+            "texto": "Fortaleza\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 114,
+            "fim": 160,
+            "texto": "Rua Desembargador Floriano Benevides Magalhaes",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 170,
+            "fim": 179,
+            "texto": "Água Fria",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 197,
+            "fim": 201,
+            "texto": "Fone",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 203,
+            "fim": 215,
+            "texto": "Fortaleza-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 218,
+            "fim": 224,
+            "texto": "E-mail",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 245,
+            "fim": 252,
+            "texto": "DECISAO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 295,
+            "fim": 302,
+            "texto": "Apensos",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 473,
+            "fim": 511,
+            "texto": "Ministério Público do Estado do Ceará\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 553,
+            "fim": 589,
+            "texto": "Francisco Elso Epifânio Alves\nVistos",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 597,
+            "fim": 615,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 625,
+            "fim": 644,
+            "texto": "Promotor de Justiça",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 683,
+            "fim": 691,
+            "texto": "DENÚNCIA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 745,
+            "fim": 759,
+            "texto": "Francisco Elso",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 760,
+            "fim": 774,
+            "texto": "Epifânio Alves",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 782,
+            "fim": 806,
+            "texto": "Márcio da Silva Ferreira",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1492,
+            "fim": 1495,
+            "texto": "CPP",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1917,
+            "fim": 1922,
+            "texto": "Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2168,
+            "fim": 2171,
+            "texto": "CPP",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2301,
+            "fim": 2400,
+            "texto": "Fortaleza\nVara de Delitos de Organizações Criminosas\nRua Desembargador Floriano Benevides Magalhaes",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2410,
+            "fim": 2419,
+            "texto": "Água Fria",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2437,
+            "fim": 2441,
+            "texto": "Fone",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2459,
+            "fim": 2471,
+            "texto": "Fortaleza-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2703,
+            "fim": 2712,
+            "texto": "Fortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2713,
+            "fim": 2715,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2737,
+            "fim": 2793,
+            "texto": "Magistrado da Vara de Delitos de Organizações Criminosas",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "283_DEC_91094850": [
+        {
+            "entidade": "LOCATION",
+            "inicio": 47,
+            "fim": 55,
+            "texto": "Ararendá",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 56,
+            "fim": 65,
+            "texto": "ISSINADO\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 65,
+            "fim": 86,
+            "texto": "Vara Única da Comarca",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 90,
+            "fim": 98,
+            "texto": "Ararendá",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 99,
+            "fim": 103,
+            "texto": "TJCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 104,
+            "fim": 133,
+            "texto": "Rua Prefeito Francisco Landim",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 140,
+            "fim": 146,
+            "texto": "Centro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 186,
+            "fim": 194,
+            "texto": "Ararenda",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 266,
+            "fim": 273,
+            "texto": "Apensos",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 285,
+            "fim": 292,
+            "texto": "Apensos",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 425,
+            "fim": 471,
+            "texto": "Policia Civil do Estado do Ceará\nIndiciado\nose",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 472,
+            "fim": 500,
+            "texto": "Fernando do Nascimento\nR.H.\n",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 554,
+            "fim": 581,
+            "texto": "JOSÉ FERNANDO\nDO NASCIMENTO",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 717,
+            "fim": 726,
+            "texto": "inciso II",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 733,
+            "fim": 742,
+            "texto": "inciso II",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 847,
+            "fim": 865,
+            "texto": "Inquérito\nPolicial",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 968,
+            "fim": 971,
+            "texto": "CPP",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1336,
+            "fim": 1344,
+            "texto": "RECEBO-A",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1396,
+            "fim": 1399,
+            "texto": "CPP",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2006,
+            "fim": 2024,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2073,
+            "fim": 2103,
+            "texto": "Ararendá\nVara Única da Comarca",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2107,
+            "fim": 2115,
+            "texto": "Ararendá",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2116,
+            "fim": 2145,
+            "texto": "Rua Prefeito Francisco Landim",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2152,
+            "fim": 2158,
+            "texto": "Centro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 2198,
+            "fim": 2209,
+            "texto": "Ararenda-CE",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2323,
+            "fim": 2331,
+            "texto": "Ararenda",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2332,
+            "fim": 2334,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 2360,
+            "fim": 2410,
+            "texto": "Rafaela Benevides Caracas Pequeno\nJuíza de Direito",
+            "tipo": "PESSOA"
+        }
+    ],
+    "999_DEN_92284508": [
+        {
+            "entidade": "LOCATION",
+            "inicio": 0,
+            "fim": 5,
+            "texto": "STADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 107,
+            "fim": 130,
+            "texto": "Sr. Dr. Juiz de Direito",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 136,
+            "fim": 212,
+            "texto": "Vara Criminal da Comarca de Fortaleza\nPROCESSO N° 0112866-13.2017.8.06.0001\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 239,
+            "fim": 258,
+            "texto": "Ministério Público\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 262,
+            "fim": 283,
+            "texto": "Renato Cazuza de Lima",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 315,
+            "fim": 323,
+            "texto": "DENÚNCIA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 367,
+            "fim": 377,
+            "texto": "Denunciado",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 439,
+            "fim": 457,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 564,
+            "fim": 570,
+            "texto": "V. Exa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 636,
+            "fim": 657,
+            "texto": "RENATO CAZUZA DE LIMA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 702,
+            "fim": 727,
+            "texto": "Francisco Ribeiro de Lima",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 730,
+            "fim": 750,
+            "texto": "Irene\nCasusa de Lima",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 787,
+            "fim": 796,
+            "texto": "Fortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 797,
+            "fim": 799,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 801,
+            "fim": 810,
+            "texto": "Residente",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 813,
+            "fim": 827,
+            "texto": "Rua José Vilar",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 836,
+            "fim": 840,
+            "texto": "Casa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 845,
+            "fim": 860,
+            "texto": "Bairro Meireles",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 862,
+            "fim": 871,
+            "texto": "Fortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 872,
+            "fim": 874,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1007,
+            "fim": 1027,
+            "texto": "Rua\nTenente Benévolo",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1029,
+            "fim": 1043,
+            "texto": "Bairro Aldeota",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1057,
+            "fim": 1078,
+            "texto": "RENATO CAZUZA DE LIMA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1292,
+            "fim": 1313,
+            "texto": "RENATO\nCAZUZA DE LIMA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1481,
+            "fim": 1502,
+            "texto": "RENATO CAZUZA DE LIMA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1518,
+            "fim": 1537,
+            "texto": "Policiais Militares",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1666,
+            "fim": 1687,
+            "texto": "RENATO CAZUZA DE LIMA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1750,
+            "fim": 1769,
+            "texto": "Autoridade Policial",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1771,
+            "fim": 1792,
+            "texto": "RENATO\nCAZUZA DE LIMA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2011,
+            "fim": 2029,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 2043,
+            "fim": 2064,
+            "texto": "RENATO CAZUZA DE\nLIMA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2510,
+            "fim": 2519,
+            "texto": "Fortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2520,
+            "fim": 2522,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 2545,
+            "fim": 2580,
+            "texto": "FRANCISCO CARLOS PEREIRA DE ANDRADE",
+            "tipo": "PESSOA"
+        }
+    ],
+    "1116_PINI_125216768": [
+        {
+            "entidade": "LOCATION",
+            "inicio": 17,
+            "fim": 23,
+            "texto": "Jecky\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 71,
+            "fim": 94,
+            "texto": "Vara da Fazenda Pública",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 98,
+            "fim": 105,
+            "texto": "Comarca",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 109,
+            "fim": 116,
+            "texto": "Palhano",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 132,
+            "fim": 139,
+            "texto": "PALHANO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 199,
+            "fim": 214,
+            "texto": "Estado do Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 271,
+            "fim": 297,
+            "texto": "Avenida Possidônio Barreto",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 307,
+            "fim": 313,
+            "texto": "Centro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 315,
+            "fim": 328,
+            "texto": "Palhano-Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 358,
+            "fim": 376,
+            "texto": "Prefeito Municipal",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 378,
+            "fim": 401,
+            "texto": "IVANILDO NUNES DA SILVA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 447,
+            "fim": 454,
+            "texto": "Palhano",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 475,
+            "fim": 506,
+            "texto": "Joaquim Rodrigues do Nascimento",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 515,
+            "fim": 521,
+            "texto": "Centro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 574,
+            "fim": 590,
+            "texto": "Vossa Excelência",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 814,
+            "fim": 817,
+            "texto": "CPC",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 896,
+            "fim": 902,
+            "texto": "SSTADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 952,
+            "fim": 958,
+            "texto": "CENTRO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 961,
+            "fim": 968,
+            "texto": "Palhano",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 969,
+            "fim": 971,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 974,
+            "fim": 977,
+            "texto": "Cep",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1173,
+            "fim": 1205,
+            "texto": "Cas\nna Dívida Ativa do Município",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1241,
+            "fim": 1251,
+            "texto": "Servider(a",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1398,
+            "fim": 1402,
+            "texto": "IPTU",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1437,
+            "fim": 1441,
+            "texto": "IPTU",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1476,
+            "fim": 1480,
+            "texto": "IPTU",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1643,
+            "fim": 1649,
+            "texto": "C.P.C.",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1788,
+            "fim": 1805,
+            "texto": "Fazenda Municipal",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1876,
+            "fim": 1892,
+            "texto": "Vossa Excelência",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2725,
+            "fim": 2731,
+            "texto": "CENTRO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2734,
+            "fim": 2741,
+            "texto": "Palhano",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2742,
+            "fim": 2744,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2747,
+            "fim": 2750,
+            "texto": "Cep",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2834,
+            "fim": 2841,
+            "texto": "Palhano",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2894,
+            "fim": 2911,
+            "texto": "AY-PMP\nPORTARIA N",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "999_PET_94444899": [
+        {
+            "entidade": "LOCATION",
+            "inicio": 0,
+            "fim": 17,
+            "texto": "GOVERNO DO\nESTADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 95,
+            "fim": 104,
+            "texto": "Fortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 130,
+            "fim": 134,
+            "texto": "Exmo",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 147,
+            "fim": 151,
+            "texto": "Juiz",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 168,
+            "fim": 189,
+            "texto": "Comparecimento\nSenhor",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 194,
+            "fim": 200,
+            "texto": "Juiz(a",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 340,
+            "fim": 353,
+            "texto": "Coordenadoria",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 584,
+            "fim": 588,
+            "texto": "Vara",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 702,
+            "fim": 707,
+            "texto": "Juízo",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 873,
+            "fim": 947,
+            "texto": "Elton Alves Gurgel\nCoordenador de Alternativas Penais\nMatrícula 431044-1-1",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 948,
+            "fim": 984,
+            "texto": "Coordenadoria de Alternativas Penais",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 985,
+            "fim": 1004,
+            "texto": "Av. Heráclito Graça",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1012,
+            "fim": 1019,
+            "texto": "Centro\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1060,
+            "fim": 1069,
+            "texto": "Fortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1072,
+            "fim": 1077,
+            "texto": "Ceará",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "283_ALE_94444283": [
+        {
+            "entidade": "LOCATION",
+            "inicio": 14,
+            "fim": 22,
+            "texto": "ISSINADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 38,
+            "fim": 42,
+            "texto": "TJCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 77,
+            "fim": 92,
+            "texto": "Estado do Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 135,
+            "fim": 142,
+            "texto": "RUSSAS\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 160,
+            "fim": 168,
+            "texto": "SENHOR(A",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 170,
+            "fim": 176,
+            "texto": "JUIZ(A",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 311,
+            "fim": 329,
+            "texto": "GEISA FELIPE ALVES",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 392,
+            "fim": 397,
+            "texto": "CEARÁ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 470,
+            "fim": 476,
+            "texto": "V. Exa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 802,
+            "fim": 820,
+            "texto": "GEISA FELIPE ALVES",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 1037,
+            "fim": 1054,
+            "texto": "ANTONIO GUILHERME",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1065,
+            "fim": 1083,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1146,
+            "fim": 1152,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1320,
+            "fim": 1326,
+            "texto": "pmilia",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1327,
+            "fim": 1345,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1353,
+            "fim": 1368,
+            "texto": "Estado do Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 1407,
+            "fim": 1428,
+            "texto": "NOVA RUSSAS\nRODRIGUES",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 2353,
+            "fim": 2357,
+            "texto": "Pena",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2477,
+            "fim": 2495,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2558,
+            "fim": 2564,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 2792,
+            "fim": 2806,
+            "texto": "ISSINADO\nVillo",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2807,
+            "fim": 2830,
+            "texto": "Ministério Público\nTJCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2838,
+            "fim": 2853,
+            "texto": "Estado do Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 2892,
+            "fim": 2904,
+            "texto": "NOVA RUSSAS\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3400,
+            "fim": 3405,
+            "texto": "André",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3414,
+            "fim": 3420,
+            "texto": "Sobral",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3457,
+            "fim": 3462,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3469,
+            "fim": 3478,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3590,
+            "fim": 3616,
+            "texto": "Ricelle Lopes\nGadelha Mota",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3698,
+            "fim": 3707,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3748,
+            "fim": 3763,
+            "texto": "Major Simplício",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 3846,
+            "fim": 3855,
+            "texto": "Espacinha",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 3982,
+            "fim": 3991,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4021,
+            "fim": 4032,
+            "texto": "Nova Russas",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4100,
+            "fim": 4109,
+            "texto": "Espacinha",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 4140,
+            "fim": 4149,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 4214,
+            "fim": 4219,
+            "texto": "André",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 4228,
+            "fim": 4235,
+            "texto": "Gigante",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 4356,
+            "fim": 4365,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 4397,
+            "fim": 4402,
+            "texto": "André",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 4405,
+            "fim": 4410,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4502,
+            "fim": 4520,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4583,
+            "fim": 4589,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4827,
+            "fim": 4831,
+            "texto": "TJCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4832,
+            "fim": 4850,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4858,
+            "fim": 4873,
+            "texto": "Estado do Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 4912,
+            "fim": 4923,
+            "texto": "NOVA RUSSAS",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 4999,
+            "fim": 5008,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5040,
+            "fim": 5045,
+            "texto": "André",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5076,
+            "fim": 5082,
+            "texto": "Sobral",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5094,
+            "fim": 5105,
+            "texto": "Nova Russas",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5142,
+            "fim": 5147,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5229,
+            "fim": 5234,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5309,
+            "fim": 5322,
+            "texto": "Localidade de",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5323,
+            "fim": 5334,
+            "texto": "Nova\nRussas",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5393,
+            "fim": 5407,
+            "texto": "Santa Quitéria",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5408,
+            "fim": 5410,
+            "texto": "Ce",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 5412,
+            "fim": 5420,
+            "texto": "Em Juízo",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5433,
+            "fim": 5462,
+            "texto": "Habraão Kristhian Lima Aguiar",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5507,
+            "fim": 5533,
+            "texto": "Ricelle Lopes Gadelha Mota",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5580,
+            "fim": 5585,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5723,
+            "fim": 5728,
+            "texto": "André",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5793,
+            "fim": 5798,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5833,
+            "fim": 5840,
+            "texto": "Gustavo",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5894,
+            "fim": 5902,
+            "texto": "Indagado",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 5931,
+            "fim": 5936,
+            "texto": "André",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 6083,
+            "fim": 6088,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 6091,
+            "fim": 6100,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 6262,
+            "fim": 6289,
+            "texto": "Raimundo Cândido dos Santos",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 6304,
+            "fim": 6313,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 6413,
+            "fim": 6422,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6470,
+            "fim": 6488,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6551,
+            "fim": 6557,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6794,
+            "fim": 6802,
+            "texto": "ISSINADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6803,
+            "fim": 6807,
+            "texto": "MPCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6808,
+            "fim": 6812,
+            "texto": "TJCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6813,
+            "fim": 6831,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6839,
+            "fim": 6854,
+            "texto": "Estado do Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 6898,
+            "fim": 6904,
+            "texto": "RUSSAS",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 6943,
+            "fim": 6948,
+            "texto": "André",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 6952,
+            "fim": 6957,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 7002,
+            "fim": 7011,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 7085,
+            "fim": 7105,
+            "texto": "Antônio Viana Camelo",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 7119,
+            "fim": 7128,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7393,
+            "fim": 7404,
+            "texto": "Nova Russas",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 7440,
+            "fim": 7445,
+            "texto": "André",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 7449,
+            "fim": 7454,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 7475,
+            "fim": 7484,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 7580,
+            "fim": 7613,
+            "texto": "Antônio Guilherme Peres\nRodrigues",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7681,
+            "fim": 7696,
+            "texto": "Major\nSimplício",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7702,
+            "fim": 7713,
+            "texto": "Nova Russas",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 7745,
+            "fim": 7754,
+            "texto": "Espacinha",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 8486,
+            "fim": 8495,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 8733,
+            "fim": 8739,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 8967,
+            "fim": 8975,
+            "texto": "ISSINADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 8976,
+            "fim": 9013,
+            "texto": "Ministério Público\ndo Estado do Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 9056,
+            "fim": 9067,
+            "texto": "NOVA RUSSAS",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 9306,
+            "fim": 9315,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 9356,
+            "fim": 9364,
+            "texto": "Ipueiras",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 9365,
+            "fim": 9367,
+            "texto": "Ce",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 9466,
+            "fim": 9474,
+            "texto": "Ipueiras",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 9611,
+            "fim": 9626,
+            "texto": "Major Simplício",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 9652,
+            "fim": 9657,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 9671,
+            "fim": 9677,
+            "texto": "Aduziu",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 9849,
+            "fim": 9858,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 9926,
+            "fim": 9931,
+            "texto": "André",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 9934,
+            "fim": 9939,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 10151,
+            "fim": 10160,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 10163,
+            "fim": 10168,
+            "texto": "André",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 10210,
+            "fim": 10215,
+            "texto": "André",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 10324,
+            "fim": 10329,
+            "texto": "André",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 10332,
+            "fim": 10337,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 10389,
+            "fim": 10394,
+            "texto": "Juízo",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 10753,
+            "fim": 10758,
+            "texto": "André",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 10834,
+            "fim": 10852,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 10915,
+            "fim": 10921,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 11139,
+            "fim": 11147,
+            "texto": "ISSINADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 11148,
+            "fim": 11152,
+            "texto": "MPCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 11153,
+            "fim": 11171,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 11179,
+            "fim": 11194,
+            "texto": "Estado do Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 11233,
+            "fim": 11245,
+            "texto": "NOVA RUSSAS\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 11478,
+            "fim": 11486,
+            "texto": "Ipueiras",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 11628,
+            "fim": 11633,
+            "texto": "André",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 11637,
+            "fim": 11642,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 11697,
+            "fim": 11702,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 11882,
+            "fim": 11887,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 11922,
+            "fim": 11933,
+            "texto": "Nova Russas",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 12147,
+            "fim": 12172,
+            "texto": "André Luís Portela Amadeu",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 12239,
+            "fim": 12248,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 12389,
+            "fim": 12394,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 12660,
+            "fim": 12665,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 12944,
+            "fim": 12962,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 13025,
+            "fim": 13031,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 13278,
+            "fim": 13315,
+            "texto": "Ministério Público\ndo Estado do Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 13363,
+            "fim": 13369,
+            "texto": "RUSSAS",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 13524,
+            "fim": 13533,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 13774,
+            "fim": 13779,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 13926,
+            "fim": 13931,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 14038,
+            "fim": 14056,
+            "texto": "Rua da Barra Limpa",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 14079,
+            "fim": 14090,
+            "texto": "Dona Chagas",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 14114,
+            "fim": 14119,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 14246,
+            "fim": 14255,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 14292,
+            "fim": 14297,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 14330,
+            "fim": 14348,
+            "texto": "Geisa Felipe Alves",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 14536,
+            "fim": 14545,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 14563,
+            "fim": 14568,
+            "texto": "André",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 14763,
+            "fim": 14768,
+            "texto": "André",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 14892,
+            "fim": 14910,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 14973,
+            "fim": 14979,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 15213,
+            "fim": 15221,
+            "texto": "ISSINADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 15222,
+            "fim": 15226,
+            "texto": "TJCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 15227,
+            "fim": 15245,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 15253,
+            "fim": 15268,
+            "texto": "Estado do Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 15307,
+            "fim": 15324,
+            "texto": "NOVA RUSSAS\nCitou",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 15643,
+            "fim": 15652,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 15681,
+            "fim": 15690,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 15817,
+            "fim": 15822,
+            "texto": "André",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 15857,
+            "fim": 15864,
+            "texto": "Revelou",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 15875,
+            "fim": 15882,
+            "texto": "Gustavo",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16041,
+            "fim": 16055,
+            "texto": "Santa Quitéria",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 16252,
+            "fim": 16257,
+            "texto": "André",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 16260,
+            "fim": 16265,
+            "texto": "Geisa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 16298,
+            "fim": 16307,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16356,
+            "fim": 16371,
+            "texto": "Major Simplício",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16373,
+            "fim": 16384,
+            "texto": "Nova\nRussas",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16385,
+            "fim": 16387,
+            "texto": "Ce",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16599,
+            "fim": 16614,
+            "texto": "Major\nSimplício",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16616,
+            "fim": 16627,
+            "texto": "Nova Russas",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 16665,
+            "fim": 16674,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16736,
+            "fim": 16744,
+            "texto": "Ipueiras",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16804,
+            "fim": 16819,
+            "texto": "Major Simplício",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16862,
+            "fim": 16880,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 16943,
+            "fim": 16949,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 17183,
+            "fim": 17187,
+            "texto": "TJCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 17188,
+            "fim": 17206,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 17214,
+            "fim": 17229,
+            "texto": "Estado do Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 17268,
+            "fim": 17280,
+            "texto": "NOVA RUSSAS\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 17649,
+            "fim": 17652,
+            "texto": "STJ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 17656,
+            "fim": 17658,
+            "texto": "HC",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 17672,
+            "fim": 17674,
+            "texto": "SP",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 19149,
+            "fim": 19154,
+            "texto": "Juízo",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 19463,
+            "fim": 19468,
+            "texto": "Corte",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 19521,
+            "fim": 19526,
+            "texto": "Corte",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 19665,
+            "fim": 19683,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 19746,
+            "fim": 19752,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 19973,
+            "fim": 19981,
+            "texto": "ISSINADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 19992,
+            "fim": 20010,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 20018,
+            "fim": 20033,
+            "texto": "Estado do Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 20072,
+            "fim": 20083,
+            "texto": "NOVA RUSSAS",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 20597,
+            "fim": 20605,
+            "texto": "CUSTÓDIA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 20677,
+            "fim": 20696,
+            "texto": "NATUREZA\nDELETÉRIA\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 20735,
+            "fim": 20746,
+            "texto": "APREENDIDAS",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 20747,
+            "fim": 20761,
+            "texto": "CIRCUNSTÂNCIAS",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 20859,
+            "fim": 20866,
+            "texto": "MEDIDAS",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 20983,
+            "fim": 20989,
+            "texto": "ILEGAL",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 21183,
+            "fim": 21207,
+            "texto": "Supremo Tribunal Federal",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 21210,
+            "fim": 21213,
+            "texto": "STF",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 21258,
+            "fim": 21261,
+            "texto": "STJ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 22379,
+            "fim": 22397,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 22460,
+            "fim": 22466,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 22697,
+            "fim": 22705,
+            "texto": "ISSINADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 22706,
+            "fim": 22710,
+            "texto": "MPCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 22742,
+            "fim": 22757,
+            "texto": "Estado do Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 22796,
+            "fim": 22808,
+            "texto": "NOVA RUSSAS\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 22838,
+            "fim": 22840,
+            "texto": "HC",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 22849,
+            "fim": 22851,
+            "texto": "SP",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 22853,
+            "fim": 22856,
+            "texto": "Rel",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 22858,
+            "fim": 22886,
+            "texto": "Ministro JOEL ILAN\nPACIORNIK",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 22996,
+            "fim": 23005,
+            "texto": "FLAGRANTE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 23105,
+            "fim": 23125,
+            "texto": "PERICULUM LIBERTATIS",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 23170,
+            "fim": 23194,
+            "texto": "Supremo Tribunal Federal",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 23568,
+            "fim": 23570,
+            "texto": "RO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 23572,
+            "fim": 23575,
+            "texto": "Rel",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 23586,
+            "fim": 23599,
+            "texto": "Gilmar Mendes",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 24159,
+            "fim": 24161,
+            "texto": "HC",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 24174,
+            "fim": 24177,
+            "texto": "Rel",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 24211,
+            "fim": 24222,
+            "texto": "SEXTA TURMA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 24716,
+            "fim": 24724,
+            "texto": "INDEFIRO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 24747,
+            "fim": 24749,
+            "texto": "HC",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 24763,
+            "fim": 24766,
+            "texto": "STJ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 24913,
+            "fim": 24931,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 24994,
+            "fim": 25000,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 25235,
+            "fim": 25243,
+            "texto": "ISSINADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 25249,
+            "fim": 25253,
+            "texto": "MPCE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 25254,
+            "fim": 25272,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 25280,
+            "fim": 25295,
+            "texto": "Estado do Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 25339,
+            "fim": 25345,
+            "texto": "RUSSAS",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 25493,
+            "fim": 25500,
+            "texto": "Maconha",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 25503,
+            "fim": 25510,
+            "texto": "Cocaína",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 25857,
+            "fim": 25884,
+            "texto": "Ministério Público Estadual",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 25907,
+            "fim": 25940,
+            "texto": "ANTONIO GUILHERME PERES RODRIGUES",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 25942,
+            "fim": 25960,
+            "texto": "GEISA FELIPE ALVES",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 26082,
+            "fim": 26086,
+            "texto": "Pede",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 26100,
+            "fim": 26111,
+            "texto": "Nova Russas",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 26119,
+            "fim": 26126,
+            "texto": "Janeiro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PERSON",
+            "inicio": 26136,
+            "fim": 26179,
+            "texto": "Promotor Pablo de de Oliveira Justiça\nAlves",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 26190,
+            "fim": 26208,
+            "texto": "Ministério Público",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 26271,
+            "fim": 26277,
+            "texto": "Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 26527,
+            "fim": 26529,
+            "texto": "A9",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 26538,
+            "fim": 26546,
+            "texto": "Segmeles",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "LOCATION",
+            "inicio": 26547,
+            "fim": 26557,
+            "texto": "Cocretario",
+            "tipo": "ENDERECO"
+        }
+    ]
+}

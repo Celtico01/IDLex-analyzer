@@ -16,9 +16,9 @@ class EnderecoRecognizer(EntityRecognizer):
 
     def analyze(self, text: str, entities: list[str], nlp_artifacts: NlpArtifacts) -> list[RecognizerResult]:
         results = []
-        # --- NER---
+        # --- NER ---
         for ent in nlp_artifacts.entities:
-            if ent.label_ in ["LOCAL"]:
+            if ent.label_ in ["LOCATION"]:
                 result = RecognizerResult(
                     entity_type="ENDERECO",
                     start=ent.start_char,
@@ -26,7 +26,8 @@ class EnderecoRecognizer(EntityRecognizer):
                     score=0.85
                 )
                 results.append(result)
-
+        return results
+'''
         # --- Regex ---
         padroes = [
             r"(Rua|Avenida|Av\.?|Travessa|Estrada|Rodovia|)\s+[\w\s\-º°]+?,\s*n[º°]?\s*\d+[^,\n]*?(Bairro\s+[\w\s\-]+)?[^,\n]*?(?=(,|\n|$))",
@@ -41,5 +42,5 @@ class EnderecoRecognizer(EntityRecognizer):
                     score=0.9
                 )
                 results.append(result)
-
-        return results
+'''
+        

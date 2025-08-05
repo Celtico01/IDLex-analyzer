@@ -18,7 +18,7 @@ class PessoaRecognizer(EntityRecognizer):
         results = []
         # --- NER--- #
         for ent in nlp_artifacts.entities:
-            if ent.label_ in ["PESSOA"]:
+            if ent.label_ in ["PERSON"]:
                 result = RecognizerResult(
                     entity_type="PESSOA",
                     start=ent.start_char,
