@@ -1,0 +1,2968 @@
+Comparando 18 documentos em comum.
+
+
+===== TRUE POSITIVES (104) =====
+
+Documento: 283_DEC_81349285
+  anotacao: (3316, 3345, 'PESSOA', 'luis savio de azevedo bringel')
+  pred:     (3309, 3338, 'PESSOA', ' 2019.\nLuis Savio de Azevedo ')
+
+Documento: 283_DEC_81349285
+  anotacao: (608, 634, 'PESSOA', 'paulo\nsérgio gomes melindo')
+  pred:     (607, 633, 'PESSOA', ' PAULO\nSÉRGIO GOMES MELIND')
+
+Documento: 283_DEC_81349285
+  anotacao: (2693, 2719, 'PESSOA', 'paulo sérgio gomes melindo')
+  pred:     (2687, 2713, 'PESSOA', 'TE de PAULO SÉRGIO GOMES M')
+
+Documento: 283_DEC_81349285
+  anotacao: (730, 761, 'PESSOA', 'maria do socorro nicácio araujo')
+  pred:     (729, 760, 'PESSOA', ' MARIA DO SOCORRO NICÁCIO ARAUJ')
+
+Documento: 283_DEC_91094850
+  anotacao: (2360, 2393, 'PESSOA', 'rafaela benevides caracas pequeno')
+  pred:     (2355, 2372, 'PESSOA', '019.\nRafaela Bene')
+
+Documento: 283_DEC_91094850
+  anotacao: (468, 494, 'PESSOA', 'ose fernando do nascimento')
+  pred:     (471, 493, 'PESSOA', ' Fernando do Nasciment')
+
+Documento: 283_DEC_91094850
+  anotacao: (554, 581, 'PESSOA', 'josé fernando\ndo nascimento')
+  pred:     (553, 580, 'PESSOA', ' JOSÉ FERNANDO\nDO NASCIMENT')
+
+Documento: 159_SEN_83104641
+  anotacao: (512, 545, 'PESSOA', 'cidades kariris residencial clube')
+  pred:     (511, 538, 'PESSOA', '\nCIDADES KARIRIS RESIDENCIA')
+
+Documento: 159_SEN_83104641
+  anotacao: (392, 432, 'PESSOA', 'fernando vinicius de sa siqueira e souza')
+  pred:     (392, 432, 'PESSOA', 'Fernando Vinicius de Sa Siqueira e Souza')
+
+Documento: 283_DEN_105110798
+  anotacao: (336, 359, 'PESSOA', 'yarlei moura de freitas')
+  pred:     (336, 359, 'PESSOA', 'Yarlei Moura de Freitas')
+
+Documento: 159_SEN_92401478
+  anotacao: (1452, 1483, 'PESSOA', 'antonia neuma mota moreira dias')
+  pred:     (1449, 1480, 'PESSOA', '9.\nAntonia Neuma Mota Moreira D')
+
+Documento: 159_SEN_92401478
+  anotacao: (406, 434, 'PESSOA', 'michelle amorim sancho souza')
+  pred:     (406, 449, 'PESSOA', 'Michelle Amorim Sancho SouzaMichelle Amorim')
+
+Documento: 1116_PINI_80230742
+  anotacao: (632, 645, 'PESSOA', 'melissa guará')
+  pred:     (631, 644, 'PESSOA', '\nMelissa Guar')
+
+Documento: 283_ALE_94444283
+  anotacao: (25857, 25884, 'PESSOA', 'ministério público estadual')
+  pred:     (25846, 25879, 'PESSOA', ', requer o Ministério Público Est')
+
+Documento: 283_ALE_94444283
+  anotacao: (774, 799, 'PESSOA', 'andré luís portela amadeu')
+  pred:     (773, 798, 'PESSOA', ' ANDRÉ LUÍS PORTELA AMADE')
+
+Documento: 283_ALE_94444283
+  anotacao: (802, 820, 'PESSOA', 'geisa felipe alves')
+  pred:     (801, 819, 'PESSOA', ' GEISA FELIPE ALVE')
+
+Documento: 283_ALE_94444283
+  anotacao: (1037, 1060, 'PESSOA', 'antonio guilherme peres')
+  pred:     (1035, 1058, 'PESSOA', 'e ANTONIO GUILHERME PER')
+
+Documento: 283_ALE_94444283
+  anotacao: (3469, 3478, 'PESSOA', 'guilherme')
+  pred:     (3462, 3471, 'PESSOA', ' e que\nGu')
+
+Documento: 283_ALE_94444283
+  anotacao: (3698, 3707, 'PESSOA', 'guilherme')
+  pred:     (3690, 3699, 'PESSOA', ' de que G')
+
+Documento: 283_ALE_94444283
+  anotacao: (3982, 3991, 'PESSOA', 'guilherme')
+  pred:     (3974, 3983, 'PESSOA', 'nheiro, G')
+
+Documento: 283_ALE_94444283
+  anotacao: (4397, 4402, 'PESSOA', 'andré')
+  pred:     (4396, 4401, 'PESSOA', ' Andr')
+
+Documento: 283_ALE_94444283
+  anotacao: (6083, 6088, 'PESSOA', 'geisa')
+  pred:     (6078, 6087, 'PESSOA', 'rio, Geis')
+
+Documento: 283_ALE_94444283
+  anotacao: (7580, 7613, 'PESSOA', 'antônio guilherme peres\nrodrigues')
+  pred:     (7570, 7595, 'PESSOA', 'o acusado Antônio Guilher')
+
+Documento: 283_ALE_94444283
+  anotacao: (14292, 14297, 'PESSOA', 'geisa')
+  pred:     (14295, 14313, 'PESSOA', 'sa\nganharia com a ')
+
+Documento: 283_ALE_94444283
+  anotacao: (15643, 15652, 'PESSOA', 'guilherme')
+  pred:     (15643, 15652, 'PESSOA', 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (16260, 16265, 'PESSOA', 'geisa')
+  pred:     (16259, 16268, 'PESSOA', ' Geisa ti')
+
+Documento: 283_ALE_94444283
+  anotacao: (25907, 25940, 'PESSOA', 'antonio guilherme peres rodrigues')
+  pred:     (25901, 25926, 'PESSOA', '\nréus ANTONIO GUILHERME P')
+
+Documento: 283_ALE_94444283
+  anotacao: (3590, 3616, 'PESSOA', 'ricelle lopes\ngadelha mota')
+  pred:     (3582, 3608, 'PESSOA', 'militar Ricelle Lopes\nGade')
+
+Documento: 283_ALE_94444283
+  anotacao: (5433, 5462, 'PESSOA', 'habraão kristhian lima aguiar')
+  pred:     (5421, 5450, 'PESSOA', ' o policial Habraão Kristhian')
+
+Documento: 283_ALE_94444283
+  anotacao: (5507, 5533, 'PESSOA', 'ricelle lopes gadelha mota')
+  pred:     (5495, 5521, 'PESSOA', 'ial militar Ricelle Lopes ')
+
+Documento: 283_ALE_94444283
+  anotacao: (6262, 6289, 'PESSOA', 'raimundo cândido dos santos')
+  pred:     (6257, 6275, 'PESSOA', 'fesa Raimundo Când')
+
+Documento: 283_ALE_94444283
+  anotacao: (7085, 7105, 'PESSOA', 'antônio viana camelo')
+  pred:     (7069, 7089, 'PESSOA', 'munha de defesa Antô')
+
+Documento: 283_DEN_93879160
+  anotacao: (5032, 5057, 'PESSOA', 'camilla rolim de medeiros')
+  pred:     (5015, 5046, 'PESSOA', 'o de 2018.\nSerso\nCamilla Rolim ')
+
+Documento: 283_DEN_93879160
+  anotacao: (5178, 5205, 'PESSOA', 'capitão geraldo jesus alves')
+  pred:     (5167, 5194, 'PESSOA', 'parmini\n2.\nCAPITÃO GERALDO ')
+
+Documento: 283_DEN_93879160
+  anotacao: (5243, 5267, 'PESSOA', 'françualdo alves de lima')
+  pred:     (5232, 5256, 'PESSOA', 'ajogina\n3.\nFRANÇUALDO AL')
+
+Documento: 283_DEN_93879160
+  anotacao: (5304, 5331, 'PESSOA', 'cosmo rodrigo de sousa lima')
+  pred:     (5293, 5320, 'PESSOA', 'poginal\n4. COSMO RODRIGO DE')
+
+Documento: 283_DEN_93879160
+  anotacao: (1219, 1242, 'PESSOA', 'expedito feliz da silva')
+  pred:     (1217, 1240, 'PESSOA', 'a EXPEDITO FELIZ DA SIL')
+
+Documento: 283_DEN_93879160
+  anotacao: (5113, 5136, 'PESSOA', 'expedito feliz da silva')
+  pred:     (5102, 5125, 'PESSOA', 'ARANTES\n1. EXPEDITO FEL')
+
+Documento: 1116_PET_92540251
+  anotacao: (912, 939, 'PESSOA', 'aprígio junior campos nobre')
+  pred:     (910, 937, 'PESSOA', '9\nAprígio Junior Campos Nob')
+
+Documento: 1116_PET_92540251
+  anotacao: (389, 408, 'PESSOA', 'rui araujo de sousa')
+  pred:     (389, 408, 'PESSOA', 'RUI ARAUJO DE SOUSA')
+
+Documento: 999_PET_91319463
+  anotacao: (2202, 2226, 'PESSOA', 'robson pinheiro de sousa')
+  pred:     (2198, 2222, 'PESSOA', 'do ,Robson Pinheiro de S')
+
+Documento: 999_PET_91319463
+  anotacao: (3399, 3423, 'PESSOA', 'robson pinheiro de sousa')
+  pred:     (3392, 3416, 'PESSOA', 'tuído, Robson Pinheiro d')
+
+Documento: 999_PET_91319463
+  anotacao: (18555, 18584, 'PESSOA', 'márcia rubia batista teixeira')
+  pred:     (18568, 18597, 'PESSOA', 'Batista Teixeira\nADVOGADA\nOAB')
+
+Documento: 999_PET_91319463
+  anotacao: (2117, 2135, 'PESSOA', 'ministério público')
+  pred:     (2133, 2154, 'PESSOA', 'co, Helga Barreto Tav')
+
+Documento: 999_PET_91319463
+  anotacao: (3314, 3332, 'PESSOA', 'ministério público')
+  pred:     (3327, 3348, 'PESSOA', 'blico, Helga Barreto ')
+
+Documento: 999_PET_91319463
+  anotacao: (1912, 1932, 'PESSOA', 'ronald neves pereira')
+  pred:     (1908, 1928, 'PESSOA', 'cia Ronald Neves Per')
+
+Documento: 999_PET_91319463
+  anotacao: (4814, 4854, 'PESSOA', 'izabela mendonça de alexandre de freitas')
+  pred:     (4804, 4844, 'PESSOA', 'ei. E eu ,Izabela Mendonça de Alexandre ')
+
+Documento: 999_PET_91319463
+  anotacao: (4680, 4704, 'PESSOA', 'glaudeani alves de moura')
+  pred:     (4670, 4694, 'PESSOA', 'orme. Eu, Glaudeani Alve')
+
+Documento: 999_PET_91319463
+  anotacao: (161, 185, 'PESSOA', 'anderson da silva guedes')
+  pred:     (161, 185, 'PESSOA', 'ANDERSON DA SILVA GUEDES')
+
+Documento: 279_INQ_88114167
+  anotacao: (217, 255, 'PESSOA', 'ana ursulina tavares rodrigues de lima')
+  pred:     (217, 255, 'PESSOA', 'Ana Ursulina Tavares Rodrigues de Lima')
+
+Documento: 279_INQ_88114167
+  anotacao: (3453, 3483, 'PESSOA', 'ana ursulina tavares rodrigues')
+  pred:     (3446, 3476, 'PESSOA', 'ADO(A)\nANA URSULINA TAVARES RO')
+
+Documento: 279_INQ_88114167
+  anotacao: (4607, 4639, 'PESSOA', 'raimundo de souza andrade junior')
+  pred:     (4596, 4628, 'PESSOA', 'ícia Civil RAIMUNDO DE SOUZA AND')
+
+Documento: 279_INQ_88114167
+  anotacao: (5977, 6007, 'PESSOA', 'ana ursulína tavares rodrigues')
+  pred:     (5963, 5993, 'PESSOA', 'julho de 2016\nAna Ursulína Tav')
+
+Documento: 279_INQ_88114167
+  anotacao: (9916, 9950, 'PESSOA', 'felipe marinho correia de oliveira')
+  pred:     (9893, 9927, 'PESSOA', 'E, 03 de maio de 2017.\nFELIPE MARI')
+
+Documento: 279_INQ_88114167
+  anotacao: (11995, 12029, 'PESSOA', 'felipe marinho correia de oliveira')
+  pred:     (11967, 12001, 'PESSOA', 'ra/CE, 16 de julho de 2018.\nFelipe')
+
+Documento: 279_INQ_88114167
+  anotacao: (7276, 7294, 'PESSOA', 'joao pimentelbrito')
+  pred:     (7259, 7277, 'PESSOA', ' Agosto de 2016.\nJ')
+
+Documento: 279_INQ_88114167
+  anotacao: (3964, 3985, 'PESSOA', 'paulo jose dos santos')
+  pred:     (3955, 3976, 'PESSOA', 'FILIAÇÃO PAULO JOSE D')
+
+Documento: 279_INQ_88114167
+  anotacao: (3988, 4019, 'PESSOA', 'maria\nt\nilva bezerra dos santos')
+  pred:     (3979, 4010, 'PESSOA', 'SANTOS E MARIA\nt\nILVA BEZERRA D')
+
+Documento: 279_INQ_88114167
+  anotacao: (6337, 6382, 'PESSOA', 'francisco finezio ferreira de azevedo segundo')
+  pred:     (6322, 6367, 'PESSOA', 'a constar, eu, Francisco Finezio Ferreira de ')
+
+Documento: 279_INQ_88114167
+  anotacao: (6563, 6608, 'PESSOA', 'francisco finezio\nferreira de azevedo segundo')
+  pred:     (6548, 6593, 'PESSOA', 'ste termo. Eu, Francisco Finezio\nFerreira de ')
+
+Documento: 279_INQ_88114167
+  anotacao: (6786, 6831, 'PESSOA', 'francisco finezio\nferreira de azevedo segundo')
+  pred:     (6770, 6807, 'PESSOA', 'ra constar, eu, Francisco Finezio\nFer')
+
+Documento: 279_INQ_88114167
+  anotacao: (6877, 6922, 'PESSOA', 'francisco finezio ferreira de azevedo segundo')
+  pred:     (6861, 6898, 'PESSOA', ' digitei.\nHilch\nFrancisco Finezio Fer')
+
+Documento: 279_INQ_88114167
+  anotacao: (8310, 8361, 'PESSOA', 'anedowned shut emmalls\nrembrandt de matos esmeraldo')
+  pred:     (8306, 8342, 'PESSOA', '016\nAnedowned Shut Emmalls\nRembrandt')
+
+Documento: 279_INQ_88114167
+  anotacao: (10621, 10655, 'PESSOA', 'alessandra magala ribeirá monteiro')
+  pred:     (10597, 10631, 'PESSOA', 'CE, 19 de Maio de 2017.\nAlessandra')
+
+Documento: 279_DEC_92800402
+  anotacao: (3293, 3319, 'PESSOA', 'fabrício vasconcelos mazza')
+  pred:     (3286, 3312, 'PESSOA', ' 2019.\nFabrício Vasconcelo')
+
+Documento: 279_DEC_92800402
+  anotacao: (1985, 1993, 'PESSOA', 'mirabete')
+  pred:     (1981, 1989, 'PESSOA', '6).\nMIRA')
+
+Documento: 279_DEC_92800402
+  anotacao: (2215, 2229, 'PESSOA', 'tourinho filho')
+  pred:     (2211, 2225, 'PESSOA', 'ina TOURINHO F')
+
+Documento: 279_DEC_92800402
+  anotacao: (652, 669, 'PESSOA', 'alex matos amaral')
+  pred:     (651, 668, 'PESSOA', ' ALEX MATOS AMARA')
+
+Documento: 999_DEN_92284508
+  anotacao: (1007, 1055, 'ENDERECO', 'rua\ntenente benévolo, bairro aldeota, nesta urbe')
+  pred:     (1005, 1025, 'ENDERECO', 'a Rua\nTenente Benévo')
+
+Documento: 999_DEN_92284508
+  anotacao: (702, 727, 'PESSOA', 'francisco ribeiro de lima')
+  pred:     (701, 726, 'PESSOA', ' Francisco Ribeiro de Lim')
+
+Documento: 999_DEN_92284508
+  anotacao: (730, 750, 'PESSOA', 'irene\ncasusa de lima')
+  pred:     (729, 749, 'PESSOA', ' Irene\nCasusa de Lim')
+
+Documento: 999_DEN_92284508
+  anotacao: (2545, 2580, 'PESSOA', 'francisco carlos pereira de andrade')
+  pred:     (2540, 2575, 'PESSOA', '017.\nFRANCISCO CARLOS PEREIRA DE AN')
+
+Documento: 999_DEN_92284508
+  anotacao: (262, 283, 'PESSOA', 'renato cazuza de lima')
+  pred:     (262, 283, 'PESSOA', 'Renato Cazuza de Lima')
+
+Documento: 999_DEN_92284508
+  anotacao: (636, 657, 'PESSOA', 'renato cazuza de lima')
+  pred:     (635, 656, 'PESSOA', '\nRENATO CAZUZA DE LIM')
+
+Documento: 999_DEN_92284508
+  anotacao: (1057, 1078, 'PESSOA', 'renato cazuza de lima')
+  pred:     (1055, 1076, 'PESSOA', ', RENATO CAZUZA DE LI')
+
+Documento: 999_DEN_92284508
+  anotacao: (1292, 1313, 'PESSOA', 'renato\ncazuza de lima')
+  pred:     (1290, 1311, 'PESSOA', 'r RENATO\nCAZUZA DE LI')
+
+Documento: 999_DEN_92284508
+  anotacao: (1481, 1502, 'PESSOA', 'renato cazuza de lima')
+  pred:     (1478, 1499, 'PESSOA', 's, RENATO CAZUZA DE L')
+
+Documento: 999_DEN_92284508
+  anotacao: (1666, 1687, 'PESSOA', 'renato cazuza de lima')
+  pred:     (1663, 1684, 'PESSOA', 'eu\nRENATO CAZUZA DE L')
+
+Documento: 999_DEN_92284508
+  anotacao: (1771, 1792, 'PESSOA', 'renato\ncazuza de lima')
+  pred:     (1768, 1789, 'PESSOA', 'l, RENATO\nCAZUZA DE L')
+
+Documento: 999_DEN_92284508
+  anotacao: (2043, 2064, 'PESSOA', 'renato cazuza de\nlima')
+  pred:     (2039, 2060, 'PESSOA', ' de RENATO CAZUZA DE\n')
+
+Documento: 999_DEN_92284508
+  anotacao: (2389, 2417, 'PESSOA', 'geraldo santos feitosa filho')
+  pred:     (2384, 2412, 'PESSOA', ';\n2) GERALDO SANTOS FEITOSA ')
+
+Documento: 999_DEN_92284508
+  anotacao: (2432, 2459, 'PESSOA', 'regimildo amarante da silva')
+  pred:     (2427, 2454, 'PESSOA', ';\n3) REGIMILDO AMARANTE DA ')
+
+Documento: 999_DEN_92284508
+  anotacao: (2474, 2498, 'PESSOA', 'jefferson araújo martins')
+  pred:     (2469, 2493, 'PESSOA', ';\n4) JEFFERSON ARAÚJO MA')
+
+Documento: 999_DEN_92284508
+  anotacao: (1175, 1196, 'PESSOA', 'lucas parente andrade')
+  pred:     (1173, 1194, 'PESSOA', 'a LUCAS PARENTE ANDRA')
+
+Documento: 999_DEN_92284508
+  anotacao: (1210, 1231, 'PESSOA', 'lucas parente andrade')
+  pred:     (1208, 1229, 'PESSOA', ', LUCAS PARENTE ANDRA')
+
+Documento: 999_DEN_92284508
+  anotacao: (1633, 1654, 'PESSOA', 'lucas parente andrade')
+  pred:     (1630, 1651, 'PESSOA', 'o.\nLUCAS PARENTE ANDR')
+
+Documento: 999_DEN_92284508
+  anotacao: (2353, 2374, 'PESSOA', 'lucas parente andrade')
+  pred:     (2348, 2369, 'PESSOA', ':\n1) LUCAS PARENTE AN')
+
+Documento: 1116_PINI_125216768
+  anotacao: (917, 971, 'ENDERECO', 'rua francisco pedro da silva, 58 - centro - palhano/ce')
+  pred:     (915, 943, 'ENDERECO', ': RUA FRANCISCO PEDRO DA SIL')
+
+Documento: 1116_PINI_125216768
+  anotacao: (2690, 2744, 'ENDERECO', 'rua francisco pedro da silva, 58 - centro - palhano/ce')
+  pred:     (2719, 2725, 'ENDERECO', ' 58 - ')
+
+Documento: 1116_PINI_125216768
+  anotacao: (846, 873, 'PESSOA', 'nilbamar da silva rodrigues')
+  pred:     (845, 872, 'PESSOA', ' NILBAMAR DA SILVA RODRIGUE')
+
+Documento: 999_SEN_90023409
+  anotacao: (6220, 6240, 'PESSOA', 'raimundo lucena neto')
+  pred:     (6207, 6227, 'PESSOA', 'iro de 2018.\nRaimund')
+
+Documento: 999_SEN_90023409
+  anotacao: (385, 411, 'PESSOA', 'marcio cassiano dos santos')
+  pred:     (385, 411, 'PESSOA', 'Marcio Cassiano dos Santos')
+
+Documento: 999_SEN_90023409
+  anotacao: (478, 504, 'PESSOA', 'márcio cassiano dos\nsantos')
+  pred:     (477, 503, 'PESSOA', ' Márcio Cassiano dos\nSanto')
+
+Documento: 999_SEN_90023409
+  anotacao: (1038, 1064, 'PESSOA', 'márcio cassiano dos santos')
+  pred:     (1036, 1062, 'PESSOA', 'r Márcio Cassiano dos Sant')
+
+Documento: 999_SEN_90023409
+  anotacao: (1087, 1093, 'PESSOA', 'titela')
+  pred:     (1085, 1091, 'PESSOA', ' "Tite')
+
+Documento: 999_SEN_90023409
+  anotacao: (5599, 5625, 'PESSOA', 'márcio cassiano dos santos')
+  pred:     (5587, 5613, 'PESSOA', ', pronuncio Márcio Cassian')
+
+Documento: 999_SEN_90023409
+  anotacao: (3308, 3336, 'PESSOA', 'maria tereza da silva santos')
+  pred:     (3301, 3329, 'PESSOA', 'enhora Maria Tereza da Silva')
+
+Documento: 999_SEN_90023409
+  anotacao: (872, 902, 'PESSOA', 'antônio\ncarlos da silva santos')
+  pred:     (871, 894, 'PESSOA', ' Antônio\nCarlos da Silv')
+
+Documento: 283_DEC_107630371
+  anotacao: (521, 550, 'PESSOA', 'joão márcio da silva ferreira')
+  pred:     (520, 549, 'PESSOA', '\nJoão Márcio da Silva Ferreir')
+
+Documento: 283_DEC_107630371
+  anotacao: (553, 582, 'PESSOA', 'francisco elso epifânio alves')
+  pred:     (552, 581, 'PESSOA', ' Francisco Elso Epifânio Alve')
+
+Documento: 283_DEC_107630371
+  anotacao: (745, 774, 'PESSOA', 'francisco elso\nepifânio alves')
+  pred:     (744, 773, 'PESSOA', ' Francisco Elso\nEpifânio Alve')
+
+Documento: 283_DEC_107630371
+  anotacao: (776, 806, 'PESSOA', 'j oão márcio da silva ferreira')
+  pred:     (777, 805, 'PESSOA', ' oão Márcio da Silva Ferreir')
+
+Documento: 999_PET_94444899
+  anotacao: (873, 890, 'PESSOA', 'elton alves gurge')
+  pred:     (872, 890, 'PESSOA', '\nElton Alves Gurge')
+
+Documento: 999_PET_94444899
+  anotacao: (223, 244, 'PESSOA', 'jose ribamar de souza')
+  pred:     (223, 244, 'PESSOA', 'JOSE RIBAMAR DE SOUZA')
+
+===== FALSE POSITIVES (531) =====
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (29, 44, 'ENDERECO', 'ESTADO DO CEARÁ')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (49, 67, 'ENDERECO', 'Comarca de Mauriti')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (68, 100, 'ENDERECO', 'Vara Única da Comarca de Mauriti')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (180, 190, 'ENDERECO', 'Mauriti-CE')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (201, 219, 'PESSOA', 'mauriti@tjcejus.br')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (101, 126, 'ENDERECO', 'Rua Capitão Miguel Dantas')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (45, 48, 'ENDERECO', 'SAJ')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (489, 515, 'PESSOA', '\nPaulo Sergio Gomes Melind')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (465, 479, 'ENDERECO', ' Brejo Santo/c')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (984, 1000, 'ENDERECO', 'e BREJO SANTO/CE')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (981, 983, 'ENDERECO', 'e ')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (2656, 2664, 'PESSOA', 'sta, HOM')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (3224, 3249, 'ENDERECO', 'e-se à Comarca de BREJO S')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (3276, 3283, 'ENDERECO', 'ários.\n')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (3283, 3284, 'ENDERECO', 'M')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (3284, 3286, 'ENDERECO', 'au')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (20, 35, 'ENDERECO', 'ESTADO DO CEARÀ')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (36, 55, 'ENDERECO', 'Comarca de Ararendá')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (104, 133, 'ENDERECO', 'Rua Prefeito Francisco Landim')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (186, 194, 'PESSOA', 'Ararenda')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (451, 456, 'ENDERECO', ' Cear')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (448, 450, 'ENDERECO', ' d')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (2042, 2057, 'ENDERECO', ' DO ESTADO DO C')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (2058, 2077, 'ENDERECO', 'ARÁ\nComarca de Arar')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (2112, 2141, 'ENDERECO', 'ndá\nRua Prefeito Francisco La')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (2194, 2205, 'ENDERECO', '00, Ararend')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (2216, 2235, 'ENDERECO', 'il:\nararenda@tjceju')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (2318, 2326, 'ENDERECO', 'ios.\nAra')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (2326, 2327, 'ENDERECO', 'r')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (2327, 2329, 'ENDERECO', 'en')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (2373, 2380, 'ENDERECO', 'ides Ca')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (29, 44, 'ENDERECO', 'ESTADO DO CEARÁ')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (54, 73, 'ENDERECO', 'Comarca de Barbalha')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (174, 185, 'ENDERECO', 'Barbalha-CE')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (196, 217, 'PESSOA', 'barbalha.2@tjcejus.br')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (349, 363, 'ENDERECO', 'Cidade Kariris')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (105, 108, 'ENDERECO', 'Rua')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (74, 104, 'ENDERECO', '2aV ara da Comarca de Barbalha')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (109, 121, 'ENDERECO', 'Zuca Sampaio')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (560, 600, 'PESSOA', ' FERNANDO VINÍCIUS\nDE SÁ SIQUEIRA E SOUZ')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (1295, 1303, 'ENDERECO', '.\nBarbal')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (1330, 1339, 'PESSOA', '.\nMarceli')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (1303, 1304, 'ENDERECO', 'h')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (1304, 1306, 'ENDERECO', 'a/')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (1339, 1358, 'PESSOA', 'no Emidio Maciel Fi')
+
+Documento: 283_DEN_105110798
+  anotacao: ---
+  pred:     (0, 7, 'ENDERECO', 'Quixadá')
+
+Documento: 283_DEN_105110798
+  anotacao: ---
+  pred:     (109, 126, 'PESSOA', 'STATIONARY DE\nFag')
+
+Documento: 283_DEN_105110798
+  anotacao: ---
+  pred:     (260, 279, 'ENDERECO', 'Regional de\nQuixadá')
+
+Documento: 283_DEN_105110798
+  anotacao: ---
+  pred:     (299, 321, 'ENDERECO', 'Regional de Quixadá-CE')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (20, 35, 'ENDERECO', 'ESTADO DO CEARÀ')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (36, 56, 'ENDERECO', 'Comarca de Fortaleza')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (156, 165, 'ENDERECO', 'Água Fria')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (189, 201, 'ENDERECO', 'Fortaleza-CE')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (100, 117, 'ENDERECO', 'Rua Desembargador')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (118, 146, 'PESSOA', 'Floriano Benevides Magalhaes')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (363, 394, 'ENDERECO', 'Condomínio do Edifício C. Rolim')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (449, 461, 'PESSOA', ' Sancho\nSouz')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (1411, 1420, 'ENDERECO', 'I.\nFortal')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (1420, 1421, 'ENDERECO', 'e')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (1421, 1423, 'ENDERECO', 'za')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (13, 22, 'ENDERECO', 'Maracanaú')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (257, 279, 'ENDERECO', 'MUNICÍPIO DE MARACANAÚ')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (520, 529, 'ENDERECO', '\nMaracana')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (856, 879, 'ENDERECO', ' Conjunto Novo Maracana')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (892, 897, 'ENDERECO', ' Cear')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (881, 891, 'ENDERECO', ' Maracanaú')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (645, 657, 'ENDERECO', '\nMaracanau-C')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (789, 814, 'ENDERECO', '\nPalácio Antônio Gonçalve')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (276, 309, 'PESSOA', 'ANTONIO GUILHERME PERES RODRIGUES')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (311, 329, 'PESSOA', 'GEISA FELIPE ALVES')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (331, 356, 'PESSOA', 'ANDRÉ LUÍS PORTELA AMADEU')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (120, 141, 'ENDERECO', 'COMARCADE NOVA RUSSAS')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (192, 227, 'ENDERECO', '2 VARA DA\nCOMARCA DE NOVA RUSSAS-CE')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (1393, 1415, 'ENDERECO', 'DA COMARCA DE NOVA RUS')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (2875, 2897, 'ENDERECO', 'ÇA DA COMARCA DE NOVA ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (3393, 3398, 'PESSOA', 'cusad')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (3407, 3413, 'ENDERECO', 'eio de')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (3450, 3455, 'PESSOA', 'as co')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (4013, 4024, 'ENDERECO', 'do para Nov')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (3838, 3847, 'ENDERECO', 'dade de\nE')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (3729, 3756, 'ENDERECO', 'fico na localidade Major Si')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (4091, 4100, 'ENDERECO', 'ender em ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (4131, 4140, 'PESSOA', 'unha que ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (4205, 4210, 'PESSOA', ' cham')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (4347, 4356, 'PESSOA', 'a em que ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (4388, 4393, 'PESSOA', 'ontra')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (4219, 4226, 'PESSOA', ' (vulgo')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (4902, 4913, 'ENDERECO', 'OMARCA DE N')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (4891, 4898, 'ENDERECO', 'USTIÇA ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (4988, 4997, 'PESSOA', 'ntregues ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5029, 5034, 'PESSOA', 'poent')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5065, 5071, 'ENDERECO', 'que er')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5083, 5094, 'ENDERECO', 'e foi para ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5131, 5136, 'PESSOA', 'droga')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5218, 5223, 'PESSOA', 'já ab')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5312, 5323, 'ENDERECO', 'alidade de ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5381, 5398, 'ENDERECO', 'tráfico, em Santa')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5568, 5573, 'PESSOA', 'sidên')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5711, 5716, 'PESSOA', ' ela ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5781, 5786, 'PESSOA', 'cimen')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5820, 5827, 'PESSOA', 'ante ch')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5918, 5923, 'PESSOA', ', adu')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (6070, 6075, 'PESSOA', 'o con')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (6290, 6299, 'PESSOA', ' informou')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (6399, 6408, 'PESSOA', 'nheciment')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (6927, 6932, 'PESSOA', 'que n')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (6936, 6941, 'PESSOA', 'onhec')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (6986, 6995, 'PESSOA', 'onhecimen')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (7103, 7112, 'PESSOA', 'lo, afirm')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (6877, 6888, 'ENDERECO', 'A DA COMARC')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (6874, 6876, 'ENDERECO', 'TI')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (6765, 6767, 'PESSOA', '==')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (7376, 7388, 'ENDERECO', 'strito para ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (7423, 7428, 'PESSOA', ' que ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (7432, 7437, 'PESSOA', 'conhe')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (7458, 7467, 'PESSOA', 'r fim, ci')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (7563, 7570, 'PESSOA', 'icial, ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (7684, 7695, 'ENDERECO', 'or\nSimplíci')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (7663, 7678, 'ENDERECO', 'do do distrito ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (7727, 7736, 'ENDERECO', ' na local')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (8466, 8475, 'PESSOA', 'do ele ch')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (9284, 9293, 'PESSOA', 'quisição.')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (9023, 9045, 'ENDERECO', 'MOTORIA DE JUSTIÇA DA ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (9333, 9341, 'ENDERECO', 'ia compr')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (9342, 9344, 'ENDERECO', 'do')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (9443, 9451, 'ENDERECO', 'entes, p')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (9629, 9634, 'PESSOA', 'ortan')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (9341, 9342, 'ENDERECO', 'a')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (9588, 9603, 'PESSOA', 'ria levar\na dro')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (9825, 9834, 'PESSOA', 'ais compr')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (9902, 9907, 'PESSOA', 'beram')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (9910, 9915, 'PESSOA', 'e se ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (10127, 10136, 'PESSOA', 'ou à saúd')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (10139, 10144, 'PESSOA', 'os\nac')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (10186, 10191, 'PESSOA', 'ue nã')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (10299, 10304, 'PESSOA', ', a p')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (10307, 10312, 'PESSOA', 'ri, c')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (10727, 10732, 'PESSOA', 's\nmen')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (11450, 11458, 'ENDERECO', 'ssinar, ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (11205, 11216, 'ENDERECO', 'IA DE JUSTI')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (11194, 11204, 'ENDERECO', '\n2 PROMOTO')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (11599, 11604, 'PESSOA', ' vida')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (11608, 11613, 'PESSOA', 'o sou')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (11668, 11673, 'PESSOA', 'o. Ma')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (11853, 11858, 'PESSOA', 'o não')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (11893, 11904, 'ENDERECO', 'lha, nem se')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (12117, 12142, 'PESSOA', 'tinadas ao tráfico.\nO\nacu')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (12209, 12218, 'PESSOA', ' e que nã')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (12629, 12634, 'PESSOA', ' seu.')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (13267, 13282, 'ENDERECO', 'f\nTAI\nMPCE\nMini')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (13491, 13500, 'PESSOA', 'oube info')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (13314, 13336, 'ENDERECO', 'á\nSAJ\n2 PROMOTORIA DE ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (13740, 13745, 'PESSOA', 'das a')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (13892, 13897, 'PESSOA', ' a\nco')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (14004, 14022, 'ENDERECO', 'hava como servente')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (14080, 14085, 'PESSOA', 'ona C')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (14045, 14049, 'PESSOA', 'Barr')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (14050, 14056, 'PESSOA', ' Limpa')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (14211, 14220, 'PESSOA', 'afirmando')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (14257, 14262, 'PESSOA', 'm tro')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (14501, 14510, 'PESSOA', 'ue não te')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (14528, 14533, 'PESSOA', 'nto c')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (14727, 14732, 'PESSOA', 'tava ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (15259, 15281, 'ENDERECO', ' do Ceará\n2 PROMOTORIA')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (15605, 15614, 'PESSOA', 'ar a outr')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (15779, 15784, 'PESSOA', ' nunc')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (15837, 15844, 'PESSOA', 'xistênc')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16002, 16016, 'ENDERECO', 'ia, apesar de ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16213, 16218, 'PESSOA', 'ão pa')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16221, 16226, 'PESSOA', 'o\ntrá')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16334, 16348, 'ENDERECO', 'as para o dist')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16317, 16332, 'ENDERECO', 'transportava dr')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16521, 16530, 'PESSOA', 'haviam\nre')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16559, 16574, 'ENDERECO', 'e GUILHERME est')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16576, 16587, 'ENDERECO', 'a traficand')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16625, 16634, 'PESSOA', 'as, há ce')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16696, 16704, 'ENDERECO', 'a droga ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16719, 16724, 'PESSOA', ', qua')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16727, 16737, 'PESSOA', ' ia para I')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16764, 16779, 'ENDERECO', ' e ANDRÉ LUÍS p')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (17227, 17238, 'ENDERECO', 'rá\n2 PROMOT')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (17224, 17226, 'ENDERECO', 'Ce')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (19980, 19985, 'ENDERECO', 'O 55 ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (20021, 20035, 'ENDERECO', 'ado do Ceará\n2')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (22813, 22832, 'PESSOA', 's corpus não conhec')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (22731, 22753, 'ENDERECO', 'ico\nSAJ\ndo Estado do C')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (23531, 23544, 'PESSOA', 'o de flagrant')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (24131, 24152, 'PESSOA', '.\n[...] 5. Ordem dene')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (25264, 25286, 'ENDERECO', ' Público\nSAJ\ndo Estado')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (25881, 25899, 'PESSOA', 'ual a condenação d')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (26039, 26050, 'ENDERECO', 'a Lei n° 11')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (26084, 26112, 'PESSOA', 'de deferimento.\nNova Russas,')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (67, 82, 'ENDERECO', 'ESTADO DO CEARÁ')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (192, 226, 'ENDERECO', 'VARA\nÚNICA DA COMARCA DE IPAUMIRIM')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (116, 125, 'ENDERECO', 'IPAUMIRIM')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (559, 591, 'PESSOA', '\nERLISSON HENRIQUE NOE DOS SANTO')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (662, 672, 'ENDERECO', ' Cajazeira')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (672, 673, 'ENDERECO', 's')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (673, 675, 'ENDERECO', '/P')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (709, 732, 'PESSOA', ' MILSLENE NOE DOS SANTO')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (826, 836, 'ENDERECO', ' Cajazeira')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (836, 837, 'ENDERECO', 's')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (837, 839, 'ENDERECO', '/P')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (806, 824, 'ENDERECO', '\nRonaldo Cunha Lim')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (746, 770, 'ENDERECO', ' rua Vicente Feitosa Net')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (960, 965, 'ENDERECO', 'a BR2')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (980, 989, 'ENDERECO', 'e Ipaumir')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (931, 955, 'ENDERECO', 'a\nladeira do Sítio Pocin')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1448, 1468, 'ENDERECO', 'de Cachoeira dos Índ')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1486, 1495, 'ENDERECO', 'de Ipaumi')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1563, 1569, 'ENDERECO', 'na BR ')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1604, 1613, 'ENDERECO', 'de Ipaumi')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1496, 1498, 'ENDERECO', 'im')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1533, 1558, 'ENDERECO', 'na ladeira do Sítio Pocin')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1495, 1496, 'ENDERECO', 'r')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1952, 1962, 'ENDERECO', ' de Cajaze')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1963, 1965, 'ENDERECO', 'ra')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (2013, 2028, 'ENDERECO', 'Ple\nESTADO DO C')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1962, 1963, 'ENDERECO', 'i')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (2062, 2071, 'ENDERECO', ' DE IPAUM')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (2457, 2467, 'ENDERECO', 'l em Cajaz')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (2467, 2468, 'ENDERECO', 'e')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (2468, 2470, 'ENDERECO', 'ir')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (2812, 2839, 'PESSOA', 'unhas CAPITÃO GERALDO JESUS')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (2851, 2875, 'PESSOA', ' 04),\nFRANÇUALDO ALVES D')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (2888, 2915, 'PESSOA', '05) e COSMO RODRIGO DE SOUS')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (3938, 3959, 'ENDERECO', '=======\n04 de\nESTADO ')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (4475, 4507, 'PESSOA', 'IA contra ERLISSON HENRIQUE NOE ')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (4977, 4986, 'ENDERECO', 's adiante')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (4986, 4987, 'ENDERECO', '.')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (4987, 4989, 'ENDERECO', '\nI')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (37, 45, 'ENDERECO', 'BANABUIÙ')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (67, 75, 'ENDERECO', 'BANABUIÚ')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (108, 122, 'ENDERECO', 'Queiroz Pessoa')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (148, 159, 'ENDERECO', 'Banabuiú-CE')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (325, 333, 'ENDERECO', 'BANABUIÚ')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (424, 432, 'ENDERECO', 'BANABUIÚ')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (31, 36, 'ENDERECO', 'Ceará')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (322, 324, 'ENDERECO', 'DE')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (489, 511, 'ENDERECO', ' Avenida Queiroz Pesso')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (878, 886, 'ENDERECO', '\nBanabui')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (529, 538, 'ENDERECO', ' Banabuiú')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (539, 544, 'ENDERECO', ' Cear')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (0, 15, 'PESSOA', 'MÁRCIA\nTEIXEIRA')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (322, 328, 'ENDERECO', 'Cariri')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (332, 347, 'ENDERECO', 'Estado do Ceará')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (115, 124, 'ENDERECO', 'IGUATU-CE')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (1371, 1380, 'ENDERECO', ' - Tabole')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (1383, 1389, 'ENDERECO', ' - Igu')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (1398, 1413, 'PESSOA', 'rá\nMÁRCIA\nTEIXE')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (1348, 1363, 'ENDERECO', '00\nRua Pedro Go')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (1392, 1397, 'ENDERECO', ' - Ce')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (1390, 1391, 'ENDERECO', 't')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (3115, 3122, 'PESSOA', 'se dos ')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (3598, 3627, 'PESSOA', 'todiado\nmarciateixeiraadv@out')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (3695, 3704, 'ENDERECO', ', 327 - T')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (3707, 3713, 'ENDERECO', 'leiro ')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (3797, 3812, 'PESSOA', '=======\nMÁRCIA\n')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (3672, 3687, 'ENDERECO', '72-2600\nRua Ped')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (3716, 3721, 'ENDERECO', 'guatu')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (3705, 3706, 'ENDERECO', 'b')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (3714, 3715, 'ENDERECO', ' ')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (6006, 6035, 'PESSOA', 'mina a lei".\nmarciateixeiraad')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (6081, 6096, 'ENDERECO', ' 9 8872-2600\nRu')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (6206, 6221, 'PESSOA', '============\nMÁ')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (6104, 6115, 'ENDERECO', 'Gomes, 327 ')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (6116, 6124, 'ENDERECO', ' Tabolei')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (6125, 6130, 'ENDERECO', 'o - I')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (8227, 8238, 'PESSOA', ' Relator Mi')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (8338, 8353, 'ENDERECO', '124 I 9 8872-26')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (8463, 8469, 'PESSOA', '======')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (8373, 8387, 'ENDERECO', '327 - Taboleir')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (8361, 8372, 'ENDERECO', 'edro Gomes,')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (8469, 8487, 'PESSOA', '===========\nMÁRCIA')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (9842, 9864, 'ENDERECO', 'tos Humanos (pacto de ')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (9876, 9882, 'ENDERECO', 'Costa ')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (10421, 10436, 'ENDERECO', '614-0124 I 9 88')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (10546, 10561, 'PESSOA', '===============')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (10444, 10455, 'ENDERECO', 'Rua Pedro G')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (10456, 10470, 'ENDERECO', 'mes, 327 - Tab')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (11182, 11199, 'PESSOA', ' de prisão\npreven')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (12131, 12134, 'PESSOA', ' ex')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (12637, 12646, 'ENDERECO', '2600\nRua ')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (12649, 12655, 'ENDERECO', 'ro Gom')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (12739, 12754, 'PESSOA', '===============')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (12614, 12629, 'ENDERECO', 'I 9 9614-0124 I')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (12658, 12663, 'ENDERECO', ' 327 ')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (12647, 12648, 'ENDERECO', 'e')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (12656, 12657, 'ENDERECO', 's')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (12940, 12968, 'PESSOA', '(RHC no. 20.566-BA, El.\nMin.')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (14684, 14713, 'PESSOA', 'urisprudência. HC 101357-MC/S')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (14758, 14773, 'ENDERECO', '2620 I 9 9614-0')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (14781, 14790, 'ENDERECO', '8872-2600')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (14883, 14898, 'PESSOA', 'NA=============')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (14791, 14792, 'ENDERECO', 'R')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (14802, 14807, 'ENDERECO', 'omes,')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (14793, 14801, 'ENDERECO', 'a Pedro ')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (15599, 15614, 'PESSOA', 'para serem\naten')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (15614, 15620, 'PESSOA', 'didas.')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (16862, 16877, 'ENDERECO', '581-2620 I 9 96')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (16897, 16903, 'ENDERECO', '0\nRua ')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (16885, 16894, 'ENDERECO', 'I 9 8872-')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (16906, 16911, 'ENDERECO', 'ro Go')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (16904, 16905, 'ENDERECO', 'e')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (16985, 17000, 'PESSOA', 'A_PAGINA=======')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (17122, 17134, 'PESSOA', 'dor de rua. ')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (17196, 17210, 'PESSOA', '09/2009)\nMerec')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (17421, 17435, 'PESSOA', ' juiz é medida')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (18481, 18487, 'ENDERECO', 'Justiç')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (18513, 18542, 'PESSOA', 'erimento.\nIguatu, 07 de Novem')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (18677, 18683, 'ENDERECO', '2-2600')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (18665, 18674, 'ENDERECO', '0124 I 9 ')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (18686, 18691, 'ENDERECO', 'a Ped')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (18642, 18657, 'ENDERECO', '(88)3581-2620 I')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (18684, 18685, 'ENDERECO', 'R')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (18321, 18327, 'PESSOA', 'CUSADO')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (29, 44, 'ENDERECO', 'ESTADO DO CEARÁ')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (54, 74, 'ENDERECO', 'Comarca de Fortaleza')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (157, 166, 'ENDERECO', 'Água Fria')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (206, 218, 'ENDERECO', 'Fortaleza-CE')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (283, 309, 'PESSOA', 'Ana Paula Feitosa Oliveira')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (120, 148, 'PESSOA', 'Floriano Benevides Magalhaes')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (102, 119, 'ENDERECO', 'Rua Desembargador')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (554, 569, 'ENDERECO', '\nEstado do Cear')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (702, 714, 'ENDERECO', ' Fortaleza-C')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (630, 640, 'ENDERECO', '\nRua Nelso')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (666, 684, 'PESSOA', ' Luciano Cavalcant')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (782, 802, 'ENDERECO', ' Comarca de\nFortalez')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (641, 648, 'PESSOA', ' Studar')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (1030, 1055, 'ENDERECO', 'a Comarca de Fortaleza - ')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (1236, 1241, 'ENDERECO', 'L E-S')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (1372, 1381, 'ENDERECO', 'O.\nFortal')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (1381, 1382, 'ENDERECO', 'e')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (1382, 1384, 'ENDERECO', 'za')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (11, 26, 'ENDERECO', 'ESTADO DO CEARÁ')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (152, 166, 'ENDERECO', 'BREJO SANTO/CE')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (190, 196, 'ENDERECO', 'AURORA')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (318, 327, 'ENDERECO', 'Aurora/CE')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (196, 197, 'ENDERECO', '/')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (197, 199, 'ENDERECO', 'CE')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (635, 664, 'PESSOA', ' JOÃO PAULO BEZERRA DOS SANTO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (572, 577, 'PESSOA', ' FURT')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (1501, 1507, 'ENDERECO', 'l.\nAur')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (1555, 1593, 'PESSOA', ' E\nAna Ursulinz Tavares Rodrigues de L')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (1625, 1640, 'ENDERECO', 'DO ESTADO DO CE')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (1726, 1732, 'ENDERECO', 'DE AUR')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (1508, 1509, 'ENDERECO', 'r')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (1510, 1512, 'ENDERECO', ' -')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (1942, 1959, 'ENDERECO', 'ia: SIT LOGRADORZ')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (1960, 1980, 'ENDERECO', 'NHO\nZONA RURAL AUROR')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (2633, 2642, 'ENDERECO', 'e de Auro')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3104, 3133, 'PESSOA', 'ome : JOAO PAULO BEZERRA DOS ')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3144, 3161, 'ENDERECO', 'reço : SIT LOGRAD')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3171, 3181, 'ENDERECO', 'irro\n: ZON')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3197, 3213, 'ENDERECO', 'o/UF : AURORA CE')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3312, 3346, 'PESSOA', 'STRO\n#\nMARIA ROSILENE PEREIRA DE O')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3395, 3399, 'PESSOA', 'MAÇÃ')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3400, 3417, 'PESSOA', ': soae Parlo bene')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3521, 3527, 'ENDERECO', 'PAL DE')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3706, 3721, 'ENDERECO', 'PÚBLICA.\nESTADO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3773, 3798, 'PESSOA', 'ÂNIA\nsoa Paula Beganing d')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3915, 3944, 'PESSOA', 'ADE\nNOME JOAO PAULO BEZERRA D')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (4042, 4051, 'ENDERECO', 'ASCIMENTO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (4106, 4112, 'ENDERECO', '7 F\n12')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (4138, 4150, 'ENDERECO', 's B, Cost\nFO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (4287, 4302, 'ENDERECO', '=====\nthe\nESTAD')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (4403, 4412, 'ENDERECO', 'ICIPAL DE')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (4112, 4113, 'ENDERECO', '0')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (5397, 5402, 'ENDERECO', 'munic')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (5403, 5405, 'ENDERECO', 'pi')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (5402, 5403, 'ENDERECO', 'í')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (5932, 5938, 'ENDERECO', 'o.\nCUM')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (6095, 6110, 'ENDERECO', '=============\nE')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (6211, 6220, 'ENDERECO', ' MUNICIPA')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (5938, 5939, 'ENDERECO', 'P')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (5939, 5941, 'ENDERECO', 'RA')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (6733, 6739, 'ENDERECO', 'r Judi')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (6739, 6740, 'ENDERECO', 'c')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (6855, 6860, 'PESSOA', 'vil, ')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7008, 7023, 'ENDERECO', '===============')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (6740, 6742, 'ENDERECO', 'iá')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7044, 7061, 'ENDERECO', 'UNAL DE JUSTIÇA\nC')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7089, 7108, 'ENDERECO', 'de Vara Única - Rua')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7115, 7120, 'ENDERECO', 'osé L')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7227, 7236, 'ENDERECO', 'xp. Neces')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7665, 7694, 'PESSOA', ' teve como vítima\nJoão Paulo ')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (8262, 8268, 'PESSOA', 'cidaçã')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (8662, 8677, 'ENDERECO', '===============')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (8822, 8833, 'ENDERECO', 'EGACIA MUNI')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (9862, 9868, 'ENDERECO', 's form')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (10029, 10033, 'PESSOA', '====')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (9868, 9869, 'ENDERECO', 'a')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (9869, 9871, 'ENDERECO', 'li')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (10566, 10575, 'ENDERECO', 'mos em qu')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (10738, 10753, 'ENDERECO', '===============')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (10894, 10900, 'ENDERECO', '1. DEL')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (10903, 10905, 'ENDERECO', 'CI')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (10901, 10902, 'ENDERECO', 'G')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (11935, 11941, 'ENDERECO', 'pós as')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (11942, 11944, 'ENDERECO', 'fo')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (11941, 11942, 'ENDERECO', ' ')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (12273, 12279, 'ENDERECO', 'UNICIP')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (12346, 12375, 'PESSOA', 'OR: NÃO IDENTIFICADO\nVÍTIMA: ')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (12280, 12285, 'ENDERECO', 'L DE ')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (12279, 12280, 'ENDERECO', 'A')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (12286, 12287, 'ENDERECO', 'O')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (12288, 12290, 'ENDERECO', 'ÍC')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (12462, 12477, 'ENDERECO', 'RASILEIRO)\nA PO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (12500, 12530, 'PESSOA', 'O CEARÁ, através do Exmo. Sr. ')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (12628, 12630, 'ENDERECO', 'de')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (12631, 12642, 'ENDERECO', 'Polícia\nCiv')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (13317, 13336, 'ENDERECO', 'a 29 de julho de 20')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (13337, 13347, 'ENDERECO', '5, 12h, no')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (13356, 13358, 'ENDERECO', 'gr')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (13349, 13356, 'ENDERECO', 'ítio Lo')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (15038, 15044, 'ENDERECO', 'ACIA M')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (15045, 15050, 'ENDERECO', 'NICIP')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (15044, 15045, 'ENDERECO', 'U')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (15051, 15052, 'ENDERECO', 'L')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (15053, 15055, 'ENDERECO', 'DE')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (16868, 16874, 'ENDERECO', 'ELEGAC')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (16875, 16880, 'ENDERECO', 'A MUN')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (16874, 16875, 'ENDERECO', 'I')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (16883, 16885, 'ENDERECO', 'PA')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (16881, 16882, 'ENDERECO', 'C')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (17447, 17453, 'ENDERECO', 'dência')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (17563, 17569, 'ENDERECO', 'PERETA')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (17569, 17570, 'ENDERECO', 'R')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (17570, 17575, 'ENDERECO', ' Tarc')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (17477, 17521, 'PESSOA', 'rio Final.\nAurora, 03 de outubro de 2019\nPAU')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (17576, 17577, 'ENDERECO', 's')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (17578, 17580, 'ENDERECO', 'DE')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (20, 35, 'ENDERECO', 'ESTADO DO CEARÀ')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (36, 56, 'ENDERECO', 'Comarca de Fortaleza')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (160, 169, 'ENDERECO', 'Agua Fria')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (199, 211, 'ENDERECO', 'Fortaleza-CE')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (123, 151, 'PESSOA', 'Floriano Benevides Magalhaes')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (105, 122, 'ENDERECO', 'Rua Desembargador')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (1859, 1877, 'PESSOA', '(in MAÑAS, Carlos ')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2286, 2301, 'ENDERECO', 'O DO ESTADO DO ')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2302, 2322, 'ENDERECO', 'EARÀ\nComarca de Fort')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2411, 2420, 'ENDERECO', '220, Água')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2460, 2472, 'ENDERECO', '720,\nFortale')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2356, 2373, 'ENDERECO', 'rau)\nRua Desembar')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2374, 2402, 'PESSOA', 'ador Floriano Benevides Maga')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (3248, 3257, 'ENDERECO', 'árias.\nFo')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (3257, 3258, 'ENDERECO', 'r')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (3258, 3260, 'ENDERECO', 'ta')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (47, 67, 'ENDERECO', 'COMARCA DE FORTALEZA')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (786, 795, 'ENDERECO', '\nFortalez')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (812, 826, 'ENDERECO', ' Rua José Vila')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (861, 870, 'ENDERECO', ' Fortalez')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (795, 796, 'ENDERECO', 'a')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (796, 798, 'ENDERECO', '/C')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (870, 871, 'ENDERECO', 'a')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (871, 873, 'ENDERECO', '/C')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (851, 859, 'ENDERECO', ' Meirele')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (896, 911, 'ENDERECO', 'O ESTADO DO CEA')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (912, 932, 'ENDERECO', 'Á\nCOMARCA DE FORTALE')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (1034, 1041, 'ENDERECO', 'o Aldeo')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (2505, 2514, 'ENDERECO', '10).\nFort')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (2514, 2515, 'ENDERECO', 'a')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (2515, 2517, 'ENDERECO', 'le')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (119, 139, 'PESSOA', 'MUNICIPIO DE PALHANO')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (199, 214, 'ENDERECO', 'Estado do Ceará')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (271, 297, 'ENDERECO', 'Avenida Possidônio Barreto')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (315, 328, 'ENDERECO', 'Palhano-Ceará')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (378, 401, 'PESSOA', 'IVANILDO NUNES DA SILVA')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (71, 116, 'ENDERECO', 'Vara da Fazenda Pública da Comarca de Palhano')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (522, 534, 'ENDERECO', ' alhano-Cear')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (446, 453, 'PESSOA', '\nPalhan')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (482, 505, 'PESSOA', ' Rodrigues do Nasciment')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (470, 481, 'ENDERECO', ' rua Joaqui')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (894, 904, 'ENDERECO', '3\nSSTADO\nA')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (950, 956, 'ENDERECO', '- CENT')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (959, 966, 'ENDERECO', '- Palha')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (967, 969, 'ENDERECO', 'o/')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (966, 967, 'ENDERECO', 'n')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (2684, 2712, 'ENDERECO', '01. 6\nRUA FRANCISCO PEDRO DA')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (2728, 2735, 'ENDERECO', 'TRO - P')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (2828, 2835, 'ENDERECO', 'mento\nP')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (2736, 2738, 'ENDERECO', 'lh')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (2735, 2736, 'ENDERECO', 'a')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (2726, 2727, 'ENDERECO', 'E')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (29, 44, 'ENDERECO', 'ESTADO DO CEARÁ')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (54, 74, 'ENDERECO', 'Comarca de Fortaleza')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (145, 154, 'ENDERECO', 'Água Fria')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (194, 206, 'ENDERECO', 'Fortaleza-CE')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (107, 135, 'PESSOA', 'Floriano Benevides Magalhaes')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (93, 106, 'ENDERECO', 'Desembargador')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (736, 753, 'ENDERECO', ' Parque Santa Ros')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (755, 767, 'ENDERECO', ' Fortaleza-C')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (688, 708, 'ENDERECO', ' Rua Professor Cabra')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (894, 900, 'PESSOA', 'a Sant')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (2749, 2764, 'ENDERECO', 'IO DO ESTADO DO')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (2765, 2785, 'ENDERECO', 'CEARÁ\nComarca de For')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (2857, 2866, 'ENDERECO', ' 220, Águ')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (2906, 2918, 'ENDERECO', '8990,\nFortal')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (2949, 2960, 'PESSOA', 'us.br\nJORGE')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (2805, 2818, 'ENDERECO', 'i\nRua Desemba')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (2819, 2847, 'PESSOA', 'gador Floriano Benevides Mag')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (3372, 3378, 'PESSOA', '\nseria')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (3782, 3795, 'PESSOA', 'inistro NEFI ')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (3822, 3837, 'PESSOA', 'Leciona Eugênio')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (3897, 3906, 'ENDERECO', 'A\ntlas, S')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (4596, 4609, 'PESSOA', ' Ministro NEF')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (5791, 5821, 'PESSOA', 'e foi vítima Antônio Carlos da')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (6168, 6177, 'ENDERECO', ' CPP.\nP.R')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (6178, 6180, 'ENDERECO', 'I.')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (6177, 6178, 'ENDERECO', '.')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (20, 35, 'ENDERECO', 'ESTADO DO CEARÀ')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (36, 56, 'ENDERECO', 'Comarca de Fortaleza')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (170, 179, 'ENDERECO', 'Água Fria')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (203, 215, 'ENDERECO', 'Fortaleza-CE')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (132, 160, 'PESSOA', 'Floriano Benevides Magalhaes')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (114, 131, 'ENDERECO', 'Rua Desembargador')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (2269, 2284, 'ENDERECO', 'O DO ESTADO DO ')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (2285, 2305, 'ENDERECO', 'EARÀ\nComarca de Fort')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (2405, 2414, 'ENDERECO', '220, Água')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (2454, 2466, 'ENDERECO', '063,\nFortale')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (2349, 2366, 'ENDERECO', 'osas\nRua Desembar')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (2367, 2395, 'PESSOA', 'ador Floriano Benevides Maga')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (2697, 2706, 'ENDERECO', 'rios.\nFor')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (2707, 2709, 'ENDERECO', 'al')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (2706, 2707, 'ENDERECO', 't')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (95, 104, 'ENDERECO', 'Fortaleza')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (11, 26, 'ENDERECO', 'ESTADO DO CEARÁ')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (1058, 1067, 'ENDERECO', '0\nFortale')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (983, 1002, 'ENDERECO', 's\nAv. Heráclito Gra')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (1068, 1069, 'ENDERECO', 'a')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (1070, 1075, 'ENDERECO', '- Cea')
+
+===== FALSE NEGATIVES (103) =====
+
+Documento: 283_DEC_91094850
+  anotacao: (502, 529, 'PESSOA', 'ministério público estadual')
+  pred:     ---
+
+Documento: 159_SEN_83104641
+  anotacao: (349, 380, 'PESSOA', 'cidade kariris residencial club')
+  pred:     ---
+
+Documento: 159_SEN_92401478
+  anotacao: (363, 394, 'PESSOA', 'condomínio do edifício c. rolim')
+  pred:     ---
+
+Documento: 1116_PINI_80230742
+  anotacao: (841, 913, 'ENDERECO', 'rua 01, n° 652, conjunto novo maracanaú, maracanaú, ceará\ncep 61.905-430')
+  pred:     ---
+
+Documento: 1116_PINI_80230742
+  anotacao: (257, 279, 'PESSOA', 'município de maracanaú')
+  pred:     ---
+
+Documento: 1116_PINI_80230742
+  anotacao: (320, 351, 'PESSOA', 'procuradoria-geral do município')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (360, 397, 'PESSOA', 'ministério público do estado do ceará')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (5833, 5840, 'PESSOA', 'gustavo')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (15875, 15882, 'PESSOA', 'gustavo')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (26145, 26179, 'PESSOA', 'pablo de de oliveira justiça\nalves')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (1419, 1428, 'PESSOA', 'rodrigues')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (3400, 3405, 'PESSOA', 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (3457, 3462, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (4140, 4149, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (4214, 4219, 'PESSOA', 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (4227, 4236, 'PESSOA', '"gigante"')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (4356, 4365, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (4405, 4410, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (4999, 5008, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (5040, 5045, 'PESSOA', 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (5142, 5147, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (5229, 5234, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (5580, 5585, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (5723, 5728, 'PESSOA', 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (5793, 5798, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (5931, 5936, 'PESSOA', 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (6091, 6100, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (6304, 6313, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (6413, 6422, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (6943, 6948, 'PESSOA', 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (6952, 6957, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (7002, 7011, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (7119, 7128, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (7440, 7445, 'PESSOA', 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (7449, 7454, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (7475, 7484, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (8440, 8449, 'PESSOA', '"gigante"')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (8486, 8495, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (9306, 9315, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (9652, 9657, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (9849, 9858, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (9926, 9931, 'PESSOA', 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (9934, 9939, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (10151, 10160, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (10163, 10168, 'PESSOA', 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (10210, 10215, 'PESSOA', 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (10324, 10329, 'PESSOA', 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (10332, 10337, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (10753, 10758, 'PESSOA', 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (11628, 11633, 'PESSOA', 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (11637, 11642, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (11697, 11702, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (11882, 11887, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (12147, 12172, 'PESSOA', 'andré luís portela amadeu')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (12239, 12248, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (12389, 12394, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (12660, 12665, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (13524, 13533, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (13774, 13779, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (13926, 13931, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (14114, 14119, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (14246, 14255, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (14330, 14348, 'PESSOA', 'geisa felipe alves')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (14536, 14545, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (14563, 14568, 'PESSOA', 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (14763, 14768, 'PESSOA', 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (15681, 15690, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (15817, 15822, 'PESSOA', 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (16252, 16257, 'PESSOA', 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (16298, 16307, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (16561, 16570, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (16665, 16674, 'PESSOA', 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (16759, 16764, 'PESSOA', 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (16767, 16772, 'PESSOA', 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (25942, 25960, 'PESSOA', 'geisa felipe alves')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (25962, 25987, 'PESSOA', 'andré luis portela amadeu')
+  pred:     ---
+
+Documento: 283_DEN_93879160
+  anotacao: (747, 840, 'ENDERECO', 'rua vicente feitosa neto, s/n, quadra 19-a, lote 13, bairro\nronaldo cunha lima, cajazeiras/pb')
+  pred:     ---
+
+Documento: 283_DEN_93879160
+  anotacao: (2818, 2929, 'PESSOA', 'capitão geraldo jesus alves (fls. 04),\nfrançualdo alves de lima (fls. 05) e cosmo rodrigo de sousa lima\n(60/61)')
+  pred:     ---
+
+Documento: 1116_PET_92540251
+  anotacao: (490, 545, 'ENDERECO', 'avenida queiroz pessoa, n° 435, centro, banabuiú, ceará')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (2702, 2720, 'PESSOA', 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (3006, 3024, 'PESSOA', 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (4116, 4134, 'PESSOA', 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (4421, 4439, 'PESSOA', 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (5221, 5239, 'PESSOA', 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (5388, 5406, 'PESSOA', 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (5569, 5587, 'PESSOA', 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (5807, 5825, 'PESSOA', 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (7207, 7225, 'PESSOA', 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (2137, 2158, 'PESSOA', 'helga barreto tavares')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (3334, 3355, 'PESSOA', 'helga barreto tavares')
+  pred:     ---
+
+Documento: 7_DES_106028741
+  anotacao: (456, 543, 'PESSOA', 'associação dos servidores do ministério público do estado do\nceará - a ssempece e outro')
+  pred:     ---
+
+Documento: 7_DES_106028741
+  anotacao: (29, 44, 'PESSOA', 'estado do ceará')
+  pred:     ---
+
+Documento: 7_DES_106028741
+  anotacao: (555, 570, 'PESSOA', 'estado do ceará')
+  pred:     ---
+
+Documento: 279_INQ_88114167
+  anotacao: (3151, 3220, 'ENDERECO', 'sit logradorzinho\nbairro\n: zona rural\nmunicípio/uf : aurora ce brasil')
+  pred:     ---
+
+Documento: 279_INQ_88114167
+  anotacao: (17518, 17577, 'PESSOA', 'paulo hernesto pereira tavares\njern herwesco peretar tarces')
+  pred:     ---
+
+Documento: 999_DEN_92284508
+  anotacao: (813, 874, 'ENDERECO', 'rua josé vilar n° 495, casa\n74, bairro meireles, fortaleza/ce')
+  pred:     ---
+
+Documento: 1116_PINI_125216768
+  anotacao: (271, 328, 'ENDERECO', 'avenida possidônio barreto, n° 330, centro, palhano-ceará')
+  pred:     ---
+
+Documento: 999_SEN_90023409
+  anotacao: (689, 768, 'ENDERECO', 'rua professor cabral,\npróximo ao número 390, no parque santa rosa, fortaleza-ce')
+  pred:     ---
+
+Documento: 999_SEN_90023409
+  anotacao: (422, 439, 'PESSOA', 'órgão ministerial')
+  pred:     ---
+
+Documento: 999_SEN_90023409
+  anotacao: (1308, 1326, 'PESSOA', 'ministério público')
+  pred:     ---
+
+Documento: 999_SEN_90023409
+  anotacao: (5964, 5982, 'PESSOA', 'ministério público')
+  pred:     ---
+
+Documento: 999_SEN_90023409
+  anotacao: (3379, 3385, 'PESSOA', 'titela')
+  pred:     ---
+
+Documento: 283_DEC_107630371
+  anotacao: (2185, 2191, 'PESSOA', 'pefoce')
+  pred:     ---
+
+===== MÉTRICAS =====
+True Positives: 104
+False Positives: 531
+False Negatives: 103
+Precision: 0.1638
+Recall: 0.5024
+F1 Score: 0.2470

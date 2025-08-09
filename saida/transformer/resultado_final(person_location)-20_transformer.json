@@ -1,0 +1,5698 @@
+{
+    "279_DEC_92800402": [
+        {
+            "entidade": "ENDERECO",
+            "inicio": 20,
+            "fim": 35,
+            "score": 1.0,
+            "texto": "ESTADO DO CEARÀ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 36,
+            "fim": 56,
+            "score": 1.0,
+            "texto": "Comarca de Fortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 160,
+            "fim": 169,
+            "score": 1.0,
+            "texto": "Agua Fria",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 199,
+            "fim": 211,
+            "score": 1.0,
+            "texto": "Fortaleza-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 123,
+            "fim": 151,
+            "score": 0.9700000286102295,
+            "texto": "Floriano Benevides Magalhaes",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 105,
+            "fim": 122,
+            "score": 0.9599999785423279,
+            "texto": "Rua Desembargador",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 651,
+            "fim": 668,
+            "score": 1.0,
+            "texto": " ALEX MATOS AMARA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1859,
+            "fim": 1877,
+            "score": 1.0,
+            "texto": "(in MAÑAS, Carlos ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1981,
+            "fim": 1989,
+            "score": 1.0,
+            "texto": "6).\nMIRA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2211,
+            "fim": 2225,
+            "score": 1.0,
+            "texto": "ina TOURINHO F",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2286,
+            "fim": 2301,
+            "score": 1.0,
+            "texto": "O DO ESTADO DO ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2302,
+            "fim": 2322,
+            "score": 1.0,
+            "texto": "EARÀ\nComarca de Fort",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2411,
+            "fim": 2420,
+            "score": 1.0,
+            "texto": "220, Água",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2460,
+            "fim": 2472,
+            "score": 1.0,
+            "texto": "720,\nFortale",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2356,
+            "fim": 2373,
+            "score": 0.9800000190734863,
+            "texto": "rau)\nRua Desembar",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2374,
+            "fim": 2402,
+            "score": 0.949999988079071,
+            "texto": "ador Floriano Benevides Maga",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3248,
+            "fim": 3257,
+            "score": 1.0,
+            "texto": "árias.\nFo",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3286,
+            "fim": 3312,
+            "score": 1.0,
+            "texto": " 2019.\nFabrício Vasconcelo",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3257,
+            "fim": 3258,
+            "score": 0.9900000095367432,
+            "texto": "r",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3258,
+            "fim": 3260,
+            "score": 0.9900000095367432,
+            "texto": "ta",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "1116_PET_92540251": [
+        {
+            "entidade": "ENDERECO",
+            "inicio": 37,
+            "fim": 45,
+            "score": 1.0,
+            "texto": "BANABUIÙ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 67,
+            "fim": 75,
+            "score": 1.0,
+            "texto": "BANABUIÚ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 108,
+            "fim": 122,
+            "score": 1.0,
+            "texto": "Queiroz Pessoa",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 148,
+            "fim": 159,
+            "score": 1.0,
+            "texto": "Banabuiú-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 325,
+            "fim": 333,
+            "score": 1.0,
+            "texto": "BANABUIÚ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 389,
+            "fim": 408,
+            "score": 1.0,
+            "texto": "RUI ARAUJO DE SOUSA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 424,
+            "fim": 432,
+            "score": 1.0,
+            "texto": "BANABUIÚ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 31,
+            "fim": 36,
+            "score": 0.8899999856948853,
+            "texto": "Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 322,
+            "fim": 324,
+            "score": 0.5,
+            "texto": "DE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 489,
+            "fim": 511,
+            "score": 1.0,
+            "texto": " Avenida Queiroz Pesso",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 878,
+            "fim": 886,
+            "score": 1.0,
+            "texto": "\nBanabui",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 529,
+            "fim": 538,
+            "score": 0.9900000095367432,
+            "texto": " Banabuiú",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 539,
+            "fim": 544,
+            "score": 0.6700000166893005,
+            "texto": " Cear",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 910,
+            "fim": 937,
+            "score": 1.0,
+            "texto": "9\nAprígio Junior Campos Nob",
+            "tipo": "PESSOA"
+        }
+    ],
+    "283_DEN_93879160": [
+        {
+            "entidade": "ENDERECO",
+            "inicio": 67,
+            "fim": 82,
+            "score": 1.0,
+            "texto": "ESTADO DO CEARÁ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 192,
+            "fim": 226,
+            "score": 1.0,
+            "texto": "VARA\nÚNICA DA COMARCA DE IPAUMIRIM",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 116,
+            "fim": 125,
+            "score": 0.9599999785423279,
+            "texto": "IPAUMIRIM",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 559,
+            "fim": 591,
+            "score": 1.0,
+            "texto": "\nERLISSON HENRIQUE NOE DOS SANTO",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 662,
+            "fim": 672,
+            "score": 1.0,
+            "texto": " Cajazeira",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 672,
+            "fim": 673,
+            "score": 1.0,
+            "texto": "s",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 673,
+            "fim": 675,
+            "score": 1.0,
+            "texto": "/P",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 709,
+            "fim": 732,
+            "score": 1.0,
+            "texto": " MILSLENE NOE DOS SANTO",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 826,
+            "fim": 836,
+            "score": 1.0,
+            "texto": " Cajazeira",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 836,
+            "fim": 837,
+            "score": 1.0,
+            "texto": "s",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 837,
+            "fim": 839,
+            "score": 1.0,
+            "texto": "/P",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 806,
+            "fim": 824,
+            "score": 0.9599999785423279,
+            "texto": "\nRonaldo Cunha Lim",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 746,
+            "fim": 770,
+            "score": 0.8799999952316284,
+            "texto": " rua Vicente Feitosa Net",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 960,
+            "fim": 965,
+            "score": 1.0,
+            "texto": "a BR2",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 980,
+            "fim": 989,
+            "score": 1.0,
+            "texto": "e Ipaumir",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1217,
+            "fim": 1240,
+            "score": 1.0,
+            "texto": "a EXPEDITO FELIZ DA SIL",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 931,
+            "fim": 955,
+            "score": 0.8600000143051147,
+            "texto": "a\nladeira do Sítio Pocin",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1448,
+            "fim": 1468,
+            "score": 1.0,
+            "texto": "de Cachoeira dos Índ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1486,
+            "fim": 1495,
+            "score": 1.0,
+            "texto": "de Ipaumi",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1563,
+            "fim": 1569,
+            "score": 1.0,
+            "texto": "na BR ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1604,
+            "fim": 1613,
+            "score": 1.0,
+            "texto": "de Ipaumi",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1496,
+            "fim": 1498,
+            "score": 0.9100000262260437,
+            "texto": "im",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1533,
+            "fim": 1558,
+            "score": 0.7799999713897705,
+            "texto": "na ladeira do Sítio Pocin",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1495,
+            "fim": 1496,
+            "score": 0.7699999809265137,
+            "texto": "r",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1952,
+            "fim": 1962,
+            "score": 1.0,
+            "texto": " de Cajaze",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1963,
+            "fim": 1965,
+            "score": 1.0,
+            "texto": "ra",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2013,
+            "fim": 2028,
+            "score": 1.0,
+            "texto": "Ple\nESTADO DO C",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1962,
+            "fim": 1963,
+            "score": 0.8700000047683716,
+            "texto": "i",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2062,
+            "fim": 2071,
+            "score": 0.7400000095367432,
+            "texto": " DE IPAUM",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2457,
+            "fim": 2467,
+            "score": 1.0,
+            "texto": "l em Cajaz",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2467,
+            "fim": 2468,
+            "score": 1.0,
+            "texto": "e",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2468,
+            "fim": 2470,
+            "score": 1.0,
+            "texto": "ir",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2812,
+            "fim": 2839,
+            "score": 1.0,
+            "texto": "unhas CAPITÃO GERALDO JESUS",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2851,
+            "fim": 2875,
+            "score": 1.0,
+            "texto": " 04),\nFRANÇUALDO ALVES D",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2888,
+            "fim": 2915,
+            "score": 1.0,
+            "texto": "05) e COSMO RODRIGO DE SOUS",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3938,
+            "fim": 3959,
+            "score": 0.9399999976158142,
+            "texto": "=======\n04 de\nESTADO ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 4475,
+            "fim": 4507,
+            "score": 1.0,
+            "texto": "IA contra ERLISSON HENRIQUE NOE ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 4977,
+            "fim": 4986,
+            "score": 1.0,
+            "texto": "s adiante",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5015,
+            "fim": 5046,
+            "score": 1.0,
+            "texto": "o de 2018.\nSerso\nCamilla Rolim ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5102,
+            "fim": 5125,
+            "score": 1.0,
+            "texto": "ARANTES\n1. EXPEDITO FEL",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5167,
+            "fim": 5194,
+            "score": 1.0,
+            "texto": "parmini\n2.\nCAPITÃO GERALDO ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5232,
+            "fim": 5256,
+            "score": 1.0,
+            "texto": "ajogina\n3.\nFRANÇUALDO AL",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5293,
+            "fim": 5320,
+            "score": 1.0,
+            "texto": "poginal\n4. COSMO RODRIGO DE",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 4986,
+            "fim": 4987,
+            "score": 0.9300000071525574,
+            "texto": ".",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 4987,
+            "fim": 4989,
+            "score": 0.8700000047683716,
+            "texto": "\nI",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "283_DEN_105110798": [
+        {
+            "entidade": "ENDERECO",
+            "inicio": 0,
+            "fim": 7,
+            "score": 1.0,
+            "texto": "Quixadá",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 109,
+            "fim": 126,
+            "score": 1.0,
+            "texto": "STATIONARY DE\nFag",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 336,
+            "fim": 359,
+            "score": 1.0,
+            "texto": "Yarlei Moura de Freitas",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 260,
+            "fim": 279,
+            "score": 0.9100000262260437,
+            "texto": "Regional de\nQuixadá",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 299,
+            "fim": 321,
+            "score": 0.8399999737739563,
+            "texto": "Regional de Quixadá-CE",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "283_DEC_81349285": [
+        {
+            "entidade": "ENDERECO",
+            "inicio": 29,
+            "fim": 44,
+            "score": 1.0,
+            "texto": "ESTADO DO CEARÁ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 49,
+            "fim": 67,
+            "score": 1.0,
+            "texto": "Comarca de Mauriti",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 68,
+            "fim": 100,
+            "score": 1.0,
+            "texto": "Vara Única da Comarca de Mauriti",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 180,
+            "fim": 190,
+            "score": 1.0,
+            "texto": "Mauriti-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 201,
+            "fim": 219,
+            "score": 0.9900000095367432,
+            "texto": "mauriti@tjcejus.br",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 101,
+            "fim": 126,
+            "score": 0.9800000190734863,
+            "texto": "Rua Capitão Miguel Dantas",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 45,
+            "fim": 48,
+            "score": 0.8600000143051147,
+            "texto": "SAJ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 489,
+            "fim": 515,
+            "score": 1.0,
+            "texto": "\nPaulo Sergio Gomes Melind",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 607,
+            "fim": 633,
+            "score": 1.0,
+            "texto": " PAULO\nSÉRGIO GOMES MELIND",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 729,
+            "fim": 760,
+            "score": 1.0,
+            "texto": " MARIA DO SOCORRO NICÁCIO ARAUJ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 465,
+            "fim": 479,
+            "score": 0.9900000095367432,
+            "texto": " Brejo Santo/c",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 984,
+            "fim": 1000,
+            "score": 0.9900000095367432,
+            "texto": "e BREJO SANTO/CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 981,
+            "fim": 983,
+            "score": 0.800000011920929,
+            "texto": "e ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2656,
+            "fim": 2664,
+            "score": 0.9900000095367432,
+            "texto": "sta, HOM",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2687,
+            "fim": 2713,
+            "score": 1.0,
+            "texto": "TE de PAULO SÉRGIO GOMES M",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3224,
+            "fim": 3249,
+            "score": 1.0,
+            "texto": "e-se à Comarca de BREJO S",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3276,
+            "fim": 3283,
+            "score": 1.0,
+            "texto": "ários.\n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3283,
+            "fim": 3284,
+            "score": 1.0,
+            "texto": "M",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3284,
+            "fim": 3286,
+            "score": 1.0,
+            "texto": "au",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3309,
+            "fim": 3338,
+            "score": 0.9900000095367432,
+            "texto": " 2019.\nLuis Savio de Azevedo ",
+            "tipo": "PESSOA"
+        }
+    ],
+    "279_INQ_88114167": [
+        {
+            "entidade": "ENDERECO",
+            "inicio": 11,
+            "fim": 26,
+            "score": 1.0,
+            "texto": "ESTADO DO CEARÁ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 152,
+            "fim": 166,
+            "score": 1.0,
+            "texto": "BREJO SANTO/CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 190,
+            "fim": 196,
+            "score": 1.0,
+            "texto": "AURORA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 217,
+            "fim": 255,
+            "score": 1.0,
+            "texto": "Ana Ursulina Tavares Rodrigues de Lima",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 318,
+            "fim": 327,
+            "score": 0.7799999713897705,
+            "texto": "Aurora/CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 196,
+            "fim": 197,
+            "score": 0.7200000286102295,
+            "texto": "/",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 197,
+            "fim": 199,
+            "score": 0.6899999976158142,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 635,
+            "fim": 664,
+            "score": 1.0,
+            "texto": " JOÃO PAULO BEZERRA DOS SANTO",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 572,
+            "fim": 577,
+            "score": 0.47999998927116394,
+            "texto": " FURT",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1501,
+            "fim": 1507,
+            "score": 1.0,
+            "texto": "l.\nAur",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1555,
+            "fim": 1593,
+            "score": 1.0,
+            "texto": " E\nAna Ursulinz Tavares Rodrigues de L",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1625,
+            "fim": 1640,
+            "score": 0.9700000286102295,
+            "texto": "DO ESTADO DO CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1726,
+            "fim": 1732,
+            "score": 0.8999999761581421,
+            "texto": "DE AUR",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1508,
+            "fim": 1509,
+            "score": 0.8500000238418579,
+            "texto": "r",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1510,
+            "fim": 1512,
+            "score": 0.699999988079071,
+            "texto": " -",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1942,
+            "fim": 1959,
+            "score": 1.0,
+            "texto": "ia: SIT LOGRADORZ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1960,
+            "fim": 1980,
+            "score": 1.0,
+            "texto": "NHO\nZONA RURAL AUROR",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2633,
+            "fim": 2642,
+            "score": 1.0,
+            "texto": "e de Auro",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3104,
+            "fim": 3133,
+            "score": 1.0,
+            "texto": "ome : JOAO PAULO BEZERRA DOS ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3144,
+            "fim": 3161,
+            "score": 1.0,
+            "texto": "reço : SIT LOGRAD",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3171,
+            "fim": 3181,
+            "score": 1.0,
+            "texto": "irro\n: ZON",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3197,
+            "fim": 3213,
+            "score": 1.0,
+            "texto": "o/UF : AURORA CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3312,
+            "fim": 3346,
+            "score": 1.0,
+            "texto": "STRO\n#\nMARIA ROSILENE PEREIRA DE O",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3446,
+            "fim": 3476,
+            "score": 1.0,
+            "texto": "ADO(A)\nANA URSULINA TAVARES RO",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3395,
+            "fim": 3399,
+            "score": 0.9900000095367432,
+            "texto": "MAÇÃ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3400,
+            "fim": 3417,
+            "score": 0.949999988079071,
+            "texto": ": soae Parlo bene",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3521,
+            "fim": 3527,
+            "score": 0.7900000214576721,
+            "texto": "PAL DE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3706,
+            "fim": 3721,
+            "score": 1.0,
+            "texto": "PÚBLICA.\nESTADO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3773,
+            "fim": 3798,
+            "score": 1.0,
+            "texto": "ÂNIA\nsoa Paula Beganing d",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3915,
+            "fim": 3944,
+            "score": 1.0,
+            "texto": "ADE\nNOME JOAO PAULO BEZERRA D",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3955,
+            "fim": 3976,
+            "score": 1.0,
+            "texto": "FILIAÇÃO PAULO JOSE D",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3979,
+            "fim": 4010,
+            "score": 1.0,
+            "texto": "SANTOS E MARIA\nt\nILVA BEZERRA D",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 4042,
+            "fim": 4051,
+            "score": 1.0,
+            "texto": "ASCIMENTO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 4106,
+            "fim": 4112,
+            "score": 1.0,
+            "texto": "7 F\n12",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 4138,
+            "fim": 4150,
+            "score": 1.0,
+            "texto": "s B, Cost\nFO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 4287,
+            "fim": 4302,
+            "score": 1.0,
+            "texto": "=====\nthe\nESTAD",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 4403,
+            "fim": 4412,
+            "score": 1.0,
+            "texto": "ICIPAL DE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 4112,
+            "fim": 4113,
+            "score": 0.8700000047683716,
+            "texto": "0",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 4596,
+            "fim": 4628,
+            "score": 1.0,
+            "texto": "ícia Civil RAIMUNDO DE SOUZA AND",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 5397,
+            "fim": 5402,
+            "score": 1.0,
+            "texto": "munic",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 5403,
+            "fim": 5405,
+            "score": 0.949999988079071,
+            "texto": "pi",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 5402,
+            "fim": 5403,
+            "score": 0.8500000238418579,
+            "texto": "í",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 5932,
+            "fim": 5938,
+            "score": 1.0,
+            "texto": "o.\nCUM",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5963,
+            "fim": 5993,
+            "score": 1.0,
+            "texto": "julho de 2016\nAna Ursulína Tav",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6095,
+            "fim": 6110,
+            "score": 1.0,
+            "texto": "=============\nE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6211,
+            "fim": 6220,
+            "score": 1.0,
+            "texto": " MUNICIPA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 5938,
+            "fim": 5939,
+            "score": 0.9599999785423279,
+            "texto": "P",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 5939,
+            "fim": 5941,
+            "score": 0.9100000262260437,
+            "texto": "RA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 6322,
+            "fim": 6367,
+            "score": 1.0,
+            "texto": "a constar, eu, Francisco Finezio Ferreira de ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 6548,
+            "fim": 6593,
+            "score": 1.0,
+            "texto": "ste termo. Eu, Francisco Finezio\nFerreira de ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6733,
+            "fim": 6739,
+            "score": 1.0,
+            "texto": "r Judi",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6739,
+            "fim": 6740,
+            "score": 1.0,
+            "texto": "c",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 6770,
+            "fim": 6807,
+            "score": 1.0,
+            "texto": "ra constar, eu, Francisco Finezio\nFer",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 6855,
+            "fim": 6860,
+            "score": 1.0,
+            "texto": "vil, ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 6861,
+            "fim": 6898,
+            "score": 1.0,
+            "texto": " digitei.\nHilch\nFrancisco Finezio Fer",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 7008,
+            "fim": 7023,
+            "score": 1.0,
+            "texto": "===============",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6740,
+            "fim": 6742,
+            "score": 0.9900000095367432,
+            "texto": "iá",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 7044,
+            "fim": 7061,
+            "score": 0.9900000095367432,
+            "texto": "UNAL DE JUSTIÇA\nC",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 7089,
+            "fim": 7108,
+            "score": 0.9900000095367432,
+            "texto": "de Vara Única - Rua",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 7115,
+            "fim": 7120,
+            "score": 0.9900000095367432,
+            "texto": "osé L",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 7227,
+            "fim": 7236,
+            "score": 1.0,
+            "texto": "xp. Neces",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 7259,
+            "fim": 7277,
+            "score": 1.0,
+            "texto": " Agosto de 2016.\nJ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 7665,
+            "fim": 7694,
+            "score": 1.0,
+            "texto": " teve como vítima\nJoão Paulo ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 8306,
+            "fim": 8342,
+            "score": 0.9900000095367432,
+            "texto": "016\nAnedowned Shut Emmalls\nRembrandt",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 8262,
+            "fim": 8268,
+            "score": 0.6000000238418579,
+            "texto": "cidaçã",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 8662,
+            "fim": 8677,
+            "score": 1.0,
+            "texto": "===============",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 8822,
+            "fim": 8833,
+            "score": 0.7699999809265137,
+            "texto": "EGACIA MUNI",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 9862,
+            "fim": 9868,
+            "score": 1.0,
+            "texto": "s form",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 9893,
+            "fim": 9927,
+            "score": 1.0,
+            "texto": "E, 03 de maio de 2017.\nFELIPE MARI",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 10029,
+            "fim": 10033,
+            "score": 1.0,
+            "texto": "====",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 9868,
+            "fim": 9869,
+            "score": 0.8899999856948853,
+            "texto": "a",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 9869,
+            "fim": 9871,
+            "score": 0.8500000238418579,
+            "texto": "li",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 10597,
+            "fim": 10631,
+            "score": 1.0,
+            "texto": "CE, 19 de Maio de 2017.\nAlessandra",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 10566,
+            "fim": 10575,
+            "score": 0.7900000214576721,
+            "texto": "mos em qu",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 10738,
+            "fim": 10753,
+            "score": 1.0,
+            "texto": "===============",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 10894,
+            "fim": 10900,
+            "score": 1.0,
+            "texto": "1. DEL",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 10903,
+            "fim": 10905,
+            "score": 0.8600000143051147,
+            "texto": "CI",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 10901,
+            "fim": 10902,
+            "score": 0.7599999904632568,
+            "texto": "G",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 11935,
+            "fim": 11941,
+            "score": 1.0,
+            "texto": "pós as",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 11967,
+            "fim": 12001,
+            "score": 1.0,
+            "texto": "ra/CE, 16 de julho de 2018.\nFelipe",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 11942,
+            "fim": 11944,
+            "score": 0.800000011920929,
+            "texto": "fo",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 11941,
+            "fim": 11942,
+            "score": 0.7599999904632568,
+            "texto": " ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 12273,
+            "fim": 12279,
+            "score": 1.0,
+            "texto": "UNICIP",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 12346,
+            "fim": 12375,
+            "score": 1.0,
+            "texto": "OR: NÃO IDENTIFICADO\nVÍTIMA: ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 12280,
+            "fim": 12285,
+            "score": 0.9800000190734863,
+            "texto": "L DE ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 12279,
+            "fim": 12280,
+            "score": 0.9300000071525574,
+            "texto": "A",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 12286,
+            "fim": 12287,
+            "score": 0.6800000071525574,
+            "texto": "O",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 12288,
+            "fim": 12290,
+            "score": 0.550000011920929,
+            "texto": "ÍC",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 12462,
+            "fim": 12477,
+            "score": 1.0,
+            "texto": "RASILEIRO)\nA PO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 12500,
+            "fim": 12530,
+            "score": 1.0,
+            "texto": "O CEARÁ, através do Exmo. Sr. ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 12628,
+            "fim": 12630,
+            "score": 0.9100000262260437,
+            "texto": "de",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 12631,
+            "fim": 12642,
+            "score": 0.8899999856948853,
+            "texto": "Polícia\nCiv",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 13317,
+            "fim": 13336,
+            "score": 1.0,
+            "texto": "a 29 de julho de 20",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 13337,
+            "fim": 13347,
+            "score": 1.0,
+            "texto": "5, 12h, no",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 13356,
+            "fim": 13358,
+            "score": 0.8500000238418579,
+            "texto": "gr",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 13349,
+            "fim": 13356,
+            "score": 0.7699999809265137,
+            "texto": "ítio Lo",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 15038,
+            "fim": 15044,
+            "score": 1.0,
+            "texto": "ACIA M",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 15045,
+            "fim": 15050,
+            "score": 1.0,
+            "texto": "NICIP",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 15044,
+            "fim": 15045,
+            "score": 0.9900000095367432,
+            "texto": "U",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 15051,
+            "fim": 15052,
+            "score": 0.949999988079071,
+            "texto": "L",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 15053,
+            "fim": 15055,
+            "score": 0.949999988079071,
+            "texto": "DE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 16868,
+            "fim": 16874,
+            "score": 1.0,
+            "texto": "ELEGAC",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 16875,
+            "fim": 16880,
+            "score": 0.9900000095367432,
+            "texto": "A MUN",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 16874,
+            "fim": 16875,
+            "score": 0.949999988079071,
+            "texto": "I",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 16883,
+            "fim": 16885,
+            "score": 0.7400000095367432,
+            "texto": "PA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 16881,
+            "fim": 16882,
+            "score": 0.5099999904632568,
+            "texto": "C",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 17447,
+            "fim": 17453,
+            "score": 1.0,
+            "texto": "dência",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 17563,
+            "fim": 17569,
+            "score": 1.0,
+            "texto": "PERETA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 17569,
+            "fim": 17570,
+            "score": 1.0,
+            "texto": "R",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 17570,
+            "fim": 17575,
+            "score": 1.0,
+            "texto": " Tarc",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 17477,
+            "fim": 17521,
+            "score": 0.9800000190734863,
+            "texto": "rio Final.\nAurora, 03 de outubro de 2019\nPAU",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 17576,
+            "fim": 17577,
+            "score": 0.9599999785423279,
+            "texto": "s",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 17578,
+            "fim": 17580,
+            "score": 0.949999988079071,
+            "texto": "DE",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "159_SEN_92401478": [
+        {
+            "entidade": "ENDERECO",
+            "inicio": 20,
+            "fim": 35,
+            "score": 1.0,
+            "texto": "ESTADO DO CEARÀ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 36,
+            "fim": 56,
+            "score": 1.0,
+            "texto": "Comarca de Fortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 156,
+            "fim": 165,
+            "score": 1.0,
+            "texto": "Água Fria",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 189,
+            "fim": 201,
+            "score": 1.0,
+            "texto": "Fortaleza-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 406,
+            "fim": 449,
+            "score": 1.0,
+            "texto": "Michelle Amorim Sancho SouzaMichelle Amorim",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 100,
+            "fim": 117,
+            "score": 0.9599999785423279,
+            "texto": "Rua Desembargador",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 118,
+            "fim": 146,
+            "score": 0.9599999785423279,
+            "texto": "Floriano Benevides Magalhaes",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 363,
+            "fim": 394,
+            "score": 0.9300000071525574,
+            "texto": "Condomínio do Edifício C. Rolim",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 449,
+            "fim": 461,
+            "score": 1.0,
+            "texto": " Sancho\nSouz",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1411,
+            "fim": 1420,
+            "score": 1.0,
+            "texto": "I.\nFortal",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1420,
+            "fim": 1421,
+            "score": 1.0,
+            "texto": "e",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1449,
+            "fim": 1480,
+            "score": 1.0,
+            "texto": "9.\nAntonia Neuma Mota Moreira D",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1421,
+            "fim": 1423,
+            "score": 0.9900000095367432,
+            "texto": "za",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "999_PET_91319463": [
+        {
+            "entidade": "PESSOA",
+            "inicio": 0,
+            "fim": 15,
+            "score": 1.0,
+            "texto": "MÁRCIA\nTEIXEIRA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 161,
+            "fim": 185,
+            "score": 1.0,
+            "texto": "ANDERSON DA SILVA GUEDES",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 322,
+            "fim": 328,
+            "score": 0.9700000286102295,
+            "texto": "Cariri",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 332,
+            "fim": 347,
+            "score": 0.8500000238418579,
+            "texto": "Estado do Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 115,
+            "fim": 124,
+            "score": 0.7900000214576721,
+            "texto": "IGUATU-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1371,
+            "fim": 1380,
+            "score": 1.0,
+            "texto": " - Tabole",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1383,
+            "fim": 1389,
+            "score": 1.0,
+            "texto": " - Igu",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1398,
+            "fim": 1413,
+            "score": 1.0,
+            "texto": "rá\nMÁRCIA\nTEIXE",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1348,
+            "fim": 1363,
+            "score": 0.949999988079071,
+            "texto": "00\nRua Pedro Go",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1392,
+            "fim": 1397,
+            "score": 0.9100000262260437,
+            "texto": " - Ce",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1390,
+            "fim": 1391,
+            "score": 0.5099999904632568,
+            "texto": "t",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1908,
+            "fim": 1928,
+            "score": 1.0,
+            "texto": "cia Ronald Neves Per",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2133,
+            "fim": 2154,
+            "score": 1.0,
+            "texto": "co, Helga Barreto Tav",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2198,
+            "fim": 2222,
+            "score": 1.0,
+            "texto": "do ,Robson Pinheiro de S",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3327,
+            "fim": 3348,
+            "score": 1.0,
+            "texto": "blico, Helga Barreto ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3392,
+            "fim": 3416,
+            "score": 1.0,
+            "texto": "tuído, Robson Pinheiro d",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3115,
+            "fim": 3122,
+            "score": 0.6299999952316284,
+            "texto": "se dos ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3598,
+            "fim": 3627,
+            "score": 1.0,
+            "texto": "todiado\nmarciateixeiraadv@out",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3695,
+            "fim": 3704,
+            "score": 1.0,
+            "texto": ", 327 - T",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3707,
+            "fim": 3713,
+            "score": 1.0,
+            "texto": "leiro ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3797,
+            "fim": 3812,
+            "score": 1.0,
+            "texto": "=======\nMÁRCIA\n",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3672,
+            "fim": 3687,
+            "score": 0.9900000095367432,
+            "texto": "72-2600\nRua Ped",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3716,
+            "fim": 3721,
+            "score": 0.949999988079071,
+            "texto": "guatu",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3705,
+            "fim": 3706,
+            "score": 0.8600000143051147,
+            "texto": "b",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3714,
+            "fim": 3715,
+            "score": 0.6899999976158142,
+            "texto": " ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 4670,
+            "fim": 4694,
+            "score": 1.0,
+            "texto": "orme. Eu, Glaudeani Alve",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 4804,
+            "fim": 4844,
+            "score": 1.0,
+            "texto": "ei. E eu ,Izabela Mendonça de Alexandre ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 6006,
+            "fim": 6035,
+            "score": 1.0,
+            "texto": "mina a lei\".\nmarciateixeiraad",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6081,
+            "fim": 6096,
+            "score": 1.0,
+            "texto": " 9 8872-2600\nRu",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 6206,
+            "fim": 6221,
+            "score": 1.0,
+            "texto": "============\nMÁ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6104,
+            "fim": 6115,
+            "score": 0.9300000071525574,
+            "texto": "Gomes, 327 ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6116,
+            "fim": 6124,
+            "score": 0.7799999713897705,
+            "texto": " Tabolei",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6125,
+            "fim": 6130,
+            "score": 0.6499999761581421,
+            "texto": "o - I",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 8227,
+            "fim": 8238,
+            "score": 1.0,
+            "texto": " Relator Mi",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 8338,
+            "fim": 8353,
+            "score": 0.9900000095367432,
+            "texto": "124 I 9 8872-26",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 8463,
+            "fim": 8469,
+            "score": 0.9800000190734863,
+            "texto": "======",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 8373,
+            "fim": 8387,
+            "score": 0.8700000047683716,
+            "texto": "327 - Taboleir",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 8361,
+            "fim": 8372,
+            "score": 0.8299999833106995,
+            "texto": "edro Gomes,",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 8469,
+            "fim": 8487,
+            "score": 1.0,
+            "texto": "===========\nMÁRCIA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 9842,
+            "fim": 9864,
+            "score": 0.9900000095367432,
+            "texto": "tos Humanos (pacto de ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 9876,
+            "fim": 9882,
+            "score": 0.7200000286102295,
+            "texto": "Costa ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 10421,
+            "fim": 10436,
+            "score": 1.0,
+            "texto": "614-0124 I 9 88",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 10546,
+            "fim": 10561,
+            "score": 1.0,
+            "texto": "===============",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 10444,
+            "fim": 10455,
+            "score": 0.8700000047683716,
+            "texto": "Rua Pedro G",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 10456,
+            "fim": 10470,
+            "score": 0.8600000143051147,
+            "texto": "mes, 327 - Tab",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 11182,
+            "fim": 11199,
+            "score": 1.0,
+            "texto": " de prisão\npreven",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 12131,
+            "fim": 12134,
+            "score": 1.0,
+            "texto": " ex",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 12637,
+            "fim": 12646,
+            "score": 1.0,
+            "texto": "2600\nRua ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 12649,
+            "fim": 12655,
+            "score": 1.0,
+            "texto": "ro Gom",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 12739,
+            "fim": 12754,
+            "score": 1.0,
+            "texto": "===============",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 12614,
+            "fim": 12629,
+            "score": 0.9900000095367432,
+            "texto": "I 9 9614-0124 I",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 12658,
+            "fim": 12663,
+            "score": 0.949999988079071,
+            "texto": " 327 ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 12647,
+            "fim": 12648,
+            "score": 0.7900000214576721,
+            "texto": "e",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 12656,
+            "fim": 12657,
+            "score": 0.6399999856948853,
+            "texto": "s",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 12940,
+            "fim": 12968,
+            "score": 1.0,
+            "texto": "(RHC no. 20.566-BA, El.\nMin.",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 14684,
+            "fim": 14713,
+            "score": 0.9900000095367432,
+            "texto": "urisprudência. HC 101357-MC/S",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 14758,
+            "fim": 14773,
+            "score": 1.0,
+            "texto": "2620 I 9 9614-0",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 14781,
+            "fim": 14790,
+            "score": 1.0,
+            "texto": "8872-2600",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 14883,
+            "fim": 14898,
+            "score": 1.0,
+            "texto": "NA=============",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 14791,
+            "fim": 14792,
+            "score": 0.9200000166893005,
+            "texto": "R",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 14802,
+            "fim": 14807,
+            "score": 0.8399999737739563,
+            "texto": "omes,",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 14793,
+            "fim": 14801,
+            "score": 0.800000011920929,
+            "texto": "a Pedro ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 15599,
+            "fim": 15614,
+            "score": 1.0,
+            "texto": "para serem\naten",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 15614,
+            "fim": 15620,
+            "score": 0.9900000095367432,
+            "texto": "didas.",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 16862,
+            "fim": 16877,
+            "score": 1.0,
+            "texto": "581-2620 I 9 96",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 16897,
+            "fim": 16903,
+            "score": 1.0,
+            "texto": "0\nRua ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 16885,
+            "fim": 16894,
+            "score": 0.9900000095367432,
+            "texto": "I 9 8872-",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 16906,
+            "fim": 16911,
+            "score": 0.9900000095367432,
+            "texto": "ro Go",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 16904,
+            "fim": 16905,
+            "score": 0.9700000286102295,
+            "texto": "e",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 16985,
+            "fim": 17000,
+            "score": 1.0,
+            "texto": "A_PAGINA=======",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 17122,
+            "fim": 17134,
+            "score": 1.0,
+            "texto": "dor de rua. ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 17196,
+            "fim": 17210,
+            "score": 1.0,
+            "texto": "09/2009)\nMerec",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 17421,
+            "fim": 17435,
+            "score": 1.0,
+            "texto": " juiz é medida",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 18481,
+            "fim": 18487,
+            "score": 1.0,
+            "texto": "Justiç",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 18513,
+            "fim": 18542,
+            "score": 1.0,
+            "texto": "erimento.\nIguatu, 07 de Novem",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 18677,
+            "fim": 18683,
+            "score": 1.0,
+            "texto": "2-2600",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 18568,
+            "fim": 18597,
+            "score": 0.9900000095367432,
+            "texto": "Batista Teixeira\nADVOGADA\nOAB",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 18665,
+            "fim": 18674,
+            "score": 0.9900000095367432,
+            "texto": "0124 I 9 ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 18686,
+            "fim": 18691,
+            "score": 0.9900000095367432,
+            "texto": "a Ped",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 18642,
+            "fim": 18657,
+            "score": 0.9800000190734863,
+            "texto": "(88)3581-2620 I",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 18684,
+            "fim": 18685,
+            "score": 0.949999988079071,
+            "texto": "R",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 18321,
+            "fim": 18327,
+            "score": 0.7300000190734863,
+            "texto": "CUSADO",
+            "tipo": "PESSOA"
+        }
+    ],
+    "159_PINI_72235000": [
+        {
+            "entidade": "ENDERECO",
+            "inicio": 227,
+            "fim": 232,
+            "score": 1.0,
+            "texto": "SUATU",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 232,
+            "fim": 233,
+            "score": 1.0,
+            "texto": "/",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 233,
+            "fim": 235,
+            "score": 1.0,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 271,
+            "fim": 281,
+            "score": 1.0,
+            "texto": "JOSA\nGOMES",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 373,
+            "fim": 387,
+            "score": 1.0,
+            "texto": "Cidade de Deus",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 390,
+            "fim": 399,
+            "score": 1.0,
+            "texto": "Vila Yara",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 12,
+            "fim": 21,
+            "score": 0.9800000190734863,
+            "texto": "ANTINOLFI",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 417,
+            "fim": 424,
+            "score": 0.9700000286102295,
+            "texto": "Osasco/",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 24,
+            "fim": 30,
+            "score": 0.9599999785423279,
+            "texto": "MÖLLER",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 167,
+            "fim": 187,
+            "score": 0.9599999785423279,
+            "texto": "COMARCA DE IGUATU/CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 424,
+            "fim": 426,
+            "score": 0.5400000214576721,
+            "texto": "SP",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 652,
+            "fim": 662,
+            "score": 1.0,
+            "texto": " Rua\nPio I",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 706,
+            "fim": 726,
+            "score": 1.0,
+            "texto": " Juazeiro do Norte/C",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 678,
+            "fim": 688,
+            "score": 0.9900000095367432,
+            "texto": " Salesiano",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1090,
+            "fim": 1124,
+            "score": 1.0,
+            "texto": "a\nFRANCISCO TACIDO SANTOS CAVALCAN",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1226,
+            "fim": 1248,
+            "score": 1.0,
+            "texto": "à Rua Quinze de\nNovemb",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1289,
+            "fim": 1295,
+            "score": 1.0,
+            "texto": "e Igua",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1296,
+            "fim": 1298,
+            "score": 0.9800000190734863,
+            "texto": "u/",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1265,
+            "fim": 1271,
+            "score": 0.9700000286102295,
+            "texto": "o Cent",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1295,
+            "fim": 1296,
+            "score": 0.800000011920929,
+            "texto": "t",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1360,
+            "fim": 1375,
+            "score": 1.0,
+            "texto": "r:\nPORTO ALEGRE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1376,
+            "fim": 1387,
+            "score": 1.0,
+            "texto": "RS\nSÃO LUÍS",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1388,
+            "fim": 1408,
+            "score": 1.0,
+            "texto": "MA\nJUAZEIRO DO NORTE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1409,
+            "fim": 1418,
+            "score": 1.0,
+            "texto": "CE\nFORTAL",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1487,
+            "fim": 1497,
+            "score": 1.0,
+            "texto": "28\nRua Pio",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1418,
+            "fim": 1419,
+            "score": 0.9900000095367432,
+            "texto": "E",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1506,
+            "fim": 1527,
+            "score": 0.9900000095367432,
+            "texto": "v. Desembargador More",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1419,
+            "fim": 1421,
+            "score": 0.9700000286102295,
+            "texto": "ZA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1594,
+            "fim": 1604,
+            "score": 0.9399999976158142,
+            "texto": "80\nSalesia",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1422,
+            "fim": 1438,
+            "score": 0.8700000047683716,
+            "texto": "CE\nAv. Alberto B",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1454,
+            "fim": 1473,
+            "score": 0.7900000214576721,
+            "texto": "ar\nAv. Colares More",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1773,
+            "fim": 1791,
+            "score": 1.0,
+            "texto": "ara\nANTINOLFI & MÖ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3927,
+            "fim": 3938,
+            "score": 1.0,
+            "texto": "EGRE/RS\nSÃO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3939,
+            "fim": 3959,
+            "score": 1.0,
+            "texto": "LUÍS/MA\nJUAZEIRO DO ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3960,
+            "fim": 3969,
+            "score": 1.0,
+            "texto": "ORTE/CE\nF",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3911,
+            "fim": 3926,
+            "score": 0.9900000095367432,
+            "texto": "e 2° do\nPORTO A",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3969,
+            "fim": 3970,
+            "score": 0.9900000095367432,
+            "texto": "O",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3970,
+            "fim": 3972,
+            "score": 0.9900000095367432,
+            "texto": "RT",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3977,
+            "fim": 3989,
+            "score": 0.8700000047683716,
+            "texto": "/CE\nAv. Albe",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3973,
+            "fim": 3976,
+            "score": 0.7599999904632568,
+            "texto": "LEZ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 4056,
+            "fim": 4077,
+            "score": 0.9700000286102295,
+            "texto": ". 22\nAv. Desembargado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 4406,
+            "fim": 4424,
+            "score": 0.9300000071525574,
+            "texto": "\n1.s.: 5\nANTINOLFI",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 4037,
+            "fim": 4047,
+            "score": 0.8899999856948853,
+            "texto": "uadra 28\nR",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 4004,
+            "fim": 4023,
+            "score": 0.800000011920929,
+            "texto": "0° andar\nAv. Colare",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 4127,
+            "fim": 4133,
+            "score": 0.6600000262260437,
+            "texto": "08 e 9",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5456,
+            "fim": 5475,
+            "score": 1.0,
+            "texto": "em nome de: ANA LÚC",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5516,
+            "fim": 5530,
+            "score": 1.0,
+            "texto": "ero 25.812; CL",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5571,
+            "fim": 5593,
+            "score": 1.0,
+            "texto": "ero 21.483;\nOSIRIS ANT",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5636,
+            "fim": 5648,
+            "score": 1.0,
+            "texto": "o 22.189. e ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 5760,
+            "fim": 5777,
+            "score": 1.0,
+            "texto": "eferimento.\nJuaze",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5817,
+            "fim": 5829,
+            "score": 1.0,
+            "texto": " millu-\nP.p.",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6026,
+            "fim": 6041,
+            "score": 1.0,
+            "texto": "inais:\n(...)\nPO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6042,
+            "fim": 6053,
+            "score": 1.0,
+            "texto": "TO ALEGRE/R",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6054,
+            "fim": 6074,
+            "score": 1.0,
+            "texto": "\nSÃO LUÍS/MA\nJUAZEIR",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6075,
+            "fim": 6084,
+            "score": 1.0,
+            "texto": " DO NORTE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6153,
+            "fim": 6163,
+            "score": 1.0,
+            "texto": " 7 quadra ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6084,
+            "fim": 6085,
+            "score": 0.9700000286102295,
+            "texto": "/",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6172,
+            "fim": 6193,
+            "score": 0.9700000286102295,
+            "texto": "o IX, 22\nAv. Desembar",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6088,
+            "fim": 6091,
+            "score": 0.9599999785423279,
+            "texto": "FOR",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6120,
+            "fim": 6123,
+            "score": 0.949999988079071,
+            "texto": "58 ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6085,
+            "fim": 6087,
+            "score": 0.9300000071525574,
+            "texto": "CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6259,
+            "fim": 6269,
+            "score": 0.949999988079071,
+            "texto": "hau 65071-",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6294,
+            "fim": 6301,
+            "score": 0.8500000238418579,
+            "texto": "Salas 3",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "999_SEN_90023409": [
+        {
+            "entidade": "ENDERECO",
+            "inicio": 29,
+            "fim": 44,
+            "score": 1.0,
+            "texto": "ESTADO DO CEARÁ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 54,
+            "fim": 74,
+            "score": 1.0,
+            "texto": "Comarca de Fortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 145,
+            "fim": 154,
+            "score": 1.0,
+            "texto": "Água Fria",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 194,
+            "fim": 206,
+            "score": 1.0,
+            "texto": "Fortaleza-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 385,
+            "fim": 411,
+            "score": 1.0,
+            "texto": "Marcio Cassiano dos Santos",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 107,
+            "fim": 135,
+            "score": 0.8999999761581421,
+            "texto": "Floriano Benevides Magalhaes",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 93,
+            "fim": 106,
+            "score": 0.75,
+            "texto": "Desembargador",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 477,
+            "fim": 503,
+            "score": 1.0,
+            "texto": " Márcio Cassiano dos\nSanto",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 736,
+            "fim": 753,
+            "score": 1.0,
+            "texto": " Parque Santa Ros",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 755,
+            "fim": 767,
+            "score": 1.0,
+            "texto": " Fortaleza-C",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 871,
+            "fim": 894,
+            "score": 1.0,
+            "texto": " Antônio\nCarlos da Silv",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 688,
+            "fim": 708,
+            "score": 0.9900000095367432,
+            "texto": " Rua Professor Cabra",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1036,
+            "fim": 1062,
+            "score": 1.0,
+            "texto": "r Márcio Cassiano dos Sant",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1085,
+            "fim": 1091,
+            "score": 0.8100000023841858,
+            "texto": " \"Tite",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 894,
+            "fim": 900,
+            "score": 0.7799999713897705,
+            "texto": "a Sant",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2749,
+            "fim": 2764,
+            "score": 1.0,
+            "texto": "IO DO ESTADO DO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2765,
+            "fim": 2785,
+            "score": 1.0,
+            "texto": "CEARÁ\nComarca de For",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2857,
+            "fim": 2866,
+            "score": 1.0,
+            "texto": " 220, Águ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2906,
+            "fim": 2918,
+            "score": 1.0,
+            "texto": "8990,\nFortal",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2949,
+            "fim": 2960,
+            "score": 1.0,
+            "texto": "us.br\nJORGE",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2805,
+            "fim": 2818,
+            "score": 0.9399999976158142,
+            "texto": "i\nRua Desemba",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2819,
+            "fim": 2847,
+            "score": 0.9399999976158142,
+            "texto": "gador Floriano Benevides Mag",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3301,
+            "fim": 3329,
+            "score": 1.0,
+            "texto": "enhora Maria Tereza da Silva",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3372,
+            "fim": 3378,
+            "score": 1.0,
+            "texto": "\nseria",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3782,
+            "fim": 3795,
+            "score": 1.0,
+            "texto": "inistro NEFI ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3822,
+            "fim": 3837,
+            "score": 1.0,
+            "texto": "Leciona Eugênio",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3897,
+            "fim": 3906,
+            "score": 1.0,
+            "texto": "A\ntlas, S",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 4596,
+            "fim": 4609,
+            "score": 1.0,
+            "texto": " Ministro NEF",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5587,
+            "fim": 5613,
+            "score": 1.0,
+            "texto": ", pronuncio Márcio Cassian",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5791,
+            "fim": 5821,
+            "score": 1.0,
+            "texto": "e foi vítima Antônio Carlos da",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6168,
+            "fim": 6177,
+            "score": 1.0,
+            "texto": " CPP.\nP.R",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 6207,
+            "fim": 6227,
+            "score": 1.0,
+            "texto": "iro de 2018.\nRaimund",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6178,
+            "fim": 6180,
+            "score": 0.9399999976158142,
+            "texto": "I.",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6177,
+            "fim": 6178,
+            "score": 0.9100000262260437,
+            "texto": ".",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "7_DES_106028741": [
+        {
+            "entidade": "ENDERECO",
+            "inicio": 29,
+            "fim": 44,
+            "score": 1.0,
+            "texto": "ESTADO DO CEARÁ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 54,
+            "fim": 74,
+            "score": 1.0,
+            "texto": "Comarca de Fortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 157,
+            "fim": 166,
+            "score": 1.0,
+            "texto": "Água Fria",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 206,
+            "fim": 218,
+            "score": 1.0,
+            "texto": "Fortaleza-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 283,
+            "fim": 309,
+            "score": 1.0,
+            "texto": "Ana Paula Feitosa Oliveira",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 120,
+            "fim": 148,
+            "score": 0.9599999785423279,
+            "texto": "Floriano Benevides Magalhaes",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 102,
+            "fim": 119,
+            "score": 0.8399999737739563,
+            "texto": "Rua Desembargador",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 554,
+            "fim": 569,
+            "score": 1.0,
+            "texto": "\nEstado do Cear",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 702,
+            "fim": 714,
+            "score": 1.0,
+            "texto": " Fortaleza-C",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 630,
+            "fim": 640,
+            "score": 0.9300000071525574,
+            "texto": "\nRua Nelso",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 666,
+            "fim": 684,
+            "score": 0.9200000166893005,
+            "texto": " Luciano Cavalcant",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 782,
+            "fim": 802,
+            "score": 0.8500000238418579,
+            "texto": " Comarca de\nFortalez",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 641,
+            "fim": 648,
+            "score": 0.7799999713897705,
+            "texto": " Studar",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1030,
+            "fim": 1055,
+            "score": 0.9800000190734863,
+            "texto": "a Comarca de Fortaleza - ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1236,
+            "fim": 1241,
+            "score": 0.49000000953674316,
+            "texto": "L E-S",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1372,
+            "fim": 1381,
+            "score": 1.0,
+            "texto": "O.\nFortal",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1381,
+            "fim": 1382,
+            "score": 0.9900000095367432,
+            "texto": "e",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1382,
+            "fim": 1384,
+            "score": 0.9900000095367432,
+            "texto": "za",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "1116_PINI_80230742": [
+        {
+            "entidade": "ENDERECO",
+            "inicio": 13,
+            "fim": 22,
+            "score": 1.0,
+            "texto": "Maracanaú",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 257,
+            "fim": 279,
+            "score": 1.0,
+            "texto": "MUNICÍPIO DE MARACANAÚ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 520,
+            "fim": 529,
+            "score": 1.0,
+            "texto": "\nMaracana",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 631,
+            "fim": 644,
+            "score": 1.0,
+            "texto": "\nMelissa Guar",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 856,
+            "fim": 879,
+            "score": 1.0,
+            "texto": " Conjunto Novo Maracana",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 892,
+            "fim": 897,
+            "score": 0.9700000286102295,
+            "texto": " Cear",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 881,
+            "fim": 891,
+            "score": 0.949999988079071,
+            "texto": " Maracanaú",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 645,
+            "fim": 657,
+            "score": 0.9100000262260437,
+            "texto": "\nMaracanau-C",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 789,
+            "fim": 814,
+            "score": 0.8500000238418579,
+            "texto": "\nPalácio Antônio Gonçalve",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "1116_PINI_80230108": [
+        {
+            "entidade": "ENDERECO",
+            "inicio": 18,
+            "fim": 27,
+            "score": 1.0,
+            "texto": "Maracanaú",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 262,
+            "fim": 284,
+            "score": 0.9900000095367432,
+            "texto": "MUNICÍPIO DE MARACANAÚ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 525,
+            "fim": 534,
+            "score": 1.0,
+            "texto": "\nMaracana",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 636,
+            "fim": 649,
+            "score": 1.0,
+            "texto": "\nMelissa Guar",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 856,
+            "fim": 879,
+            "score": 1.0,
+            "texto": " Conjunto Novo Maracana",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 892,
+            "fim": 897,
+            "score": 0.9700000286102295,
+            "texto": " Cear",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 881,
+            "fim": 891,
+            "score": 0.949999988079071,
+            "texto": " Maracanaú",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 790,
+            "fim": 815,
+            "score": 0.9300000071525574,
+            "texto": "\nPalácio Antônio Gonçalve",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 650,
+            "fim": 662,
+            "score": 0.8899999856948853,
+            "texto": "\nMaracanau-C",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "159_SEN_83104641": [
+        {
+            "entidade": "ENDERECO",
+            "inicio": 29,
+            "fim": 44,
+            "score": 1.0,
+            "texto": "ESTADO DO CEARÁ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 54,
+            "fim": 73,
+            "score": 1.0,
+            "texto": "Comarca de Barbalha",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 174,
+            "fim": 185,
+            "score": 1.0,
+            "texto": "Barbalha-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 392,
+            "fim": 432,
+            "score": 1.0,
+            "texto": "Fernando Vinicius de Sa Siqueira e Souza",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 196,
+            "fim": 217,
+            "score": 0.9900000095367432,
+            "texto": "barbalha.2@tjcejus.br",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 349,
+            "fim": 363,
+            "score": 0.9900000095367432,
+            "texto": "Cidade Kariris",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 105,
+            "fim": 108,
+            "score": 0.9800000190734863,
+            "texto": "Rua",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 74,
+            "fim": 104,
+            "score": 0.9100000262260437,
+            "texto": "2aV ara da Comarca de Barbalha",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 109,
+            "fim": 121,
+            "score": 0.6700000166893005,
+            "texto": "Zuca Sampaio",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 560,
+            "fim": 600,
+            "score": 1.0,
+            "texto": " FERNANDO VINÍCIUS\nDE SÁ SIQUEIRA E SOUZ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 511,
+            "fim": 538,
+            "score": 0.9800000190734863,
+            "texto": "\nCIDADES KARIRIS RESIDENCIA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1295,
+            "fim": 1303,
+            "score": 1.0,
+            "texto": ".\nBarbal",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1330,
+            "fim": 1339,
+            "score": 1.0,
+            "texto": ".\nMarceli",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1303,
+            "fim": 1304,
+            "score": 0.9900000095367432,
+            "texto": "h",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1304,
+            "fim": 1306,
+            "score": 0.9900000095367432,
+            "texto": "a/",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1339,
+            "fim": 1358,
+            "score": 1.0,
+            "texto": "no Emidio Maciel Fi",
+            "tipo": "PESSOA"
+        }
+    ],
+    "283_DEC_107630371": [
+        {
+            "entidade": "ENDERECO",
+            "inicio": 20,
+            "fim": 35,
+            "score": 1.0,
+            "texto": "ESTADO DO CEARÀ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 36,
+            "fim": 56,
+            "score": 1.0,
+            "texto": "Comarca de Fortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 170,
+            "fim": 179,
+            "score": 1.0,
+            "texto": "Água Fria",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 203,
+            "fim": 215,
+            "score": 1.0,
+            "texto": "Fortaleza-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 132,
+            "fim": 160,
+            "score": 0.9599999785423279,
+            "texto": "Floriano Benevides Magalhaes",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 114,
+            "fim": 131,
+            "score": 0.9300000071525574,
+            "texto": "Rua Desembargador",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 520,
+            "fim": 549,
+            "score": 1.0,
+            "texto": "\nJoão Márcio da Silva Ferreir",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 552,
+            "fim": 581,
+            "score": 1.0,
+            "texto": " Francisco Elso Epifânio Alve",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 744,
+            "fim": 773,
+            "score": 1.0,
+            "texto": " Francisco Elso\nEpifânio Alve",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 777,
+            "fim": 805,
+            "score": 1.0,
+            "texto": " oão Márcio da Silva Ferreir",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2269,
+            "fim": 2284,
+            "score": 1.0,
+            "texto": "O DO ESTADO DO ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2285,
+            "fim": 2305,
+            "score": 1.0,
+            "texto": "EARÀ\nComarca de Fort",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2405,
+            "fim": 2414,
+            "score": 1.0,
+            "texto": "220, Água",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2454,
+            "fim": 2466,
+            "score": 1.0,
+            "texto": "063,\nFortale",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2349,
+            "fim": 2366,
+            "score": 0.9800000190734863,
+            "texto": "osas\nRua Desembar",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2367,
+            "fim": 2395,
+            "score": 0.9599999785423279,
+            "texto": "ador Floriano Benevides Maga",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2697,
+            "fim": 2706,
+            "score": 1.0,
+            "texto": "rios.\nFor",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2707,
+            "fim": 2709,
+            "score": 0.9900000095367432,
+            "texto": "al",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2706,
+            "fim": 2707,
+            "score": 0.9800000190734863,
+            "texto": "t",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "283_DEC_91094850": [
+        {
+            "entidade": "ENDERECO",
+            "inicio": 20,
+            "fim": 35,
+            "score": 1.0,
+            "texto": "ESTADO DO CEARÀ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 36,
+            "fim": 55,
+            "score": 1.0,
+            "texto": "Comarca de Ararendá",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 104,
+            "fim": 133,
+            "score": 1.0,
+            "texto": "Rua Prefeito Francisco Landim",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 186,
+            "fim": 194,
+            "score": 1.0,
+            "texto": "Ararenda",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 471,
+            "fim": 493,
+            "score": 1.0,
+            "texto": " Fernando do Nasciment",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 553,
+            "fim": 580,
+            "score": 1.0,
+            "texto": " JOSÉ FERNANDO\nDO NASCIMENT",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 451,
+            "fim": 456,
+            "score": 0.9900000095367432,
+            "texto": " Cear",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 448,
+            "fim": 450,
+            "score": 0.9300000071525574,
+            "texto": " d",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2042,
+            "fim": 2057,
+            "score": 1.0,
+            "texto": " DO ESTADO DO C",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2058,
+            "fim": 2077,
+            "score": 1.0,
+            "texto": "ARÁ\nComarca de Arar",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2112,
+            "fim": 2141,
+            "score": 1.0,
+            "texto": "ndá\nRua Prefeito Francisco La",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2194,
+            "fim": 2205,
+            "score": 1.0,
+            "texto": "00, Ararend",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2216,
+            "fim": 2235,
+            "score": 0.9900000095367432,
+            "texto": "il:\nararenda@tjceju",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2318,
+            "fim": 2326,
+            "score": 1.0,
+            "texto": "ios.\nAra",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2326,
+            "fim": 2327,
+            "score": 1.0,
+            "texto": "r",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2327,
+            "fim": 2329,
+            "score": 1.0,
+            "texto": "en",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2355,
+            "fim": 2372,
+            "score": 1.0,
+            "texto": "019.\nRafaela Bene",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2373,
+            "fim": 2380,
+            "score": 1.0,
+            "texto": "ides Ca",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "999_DEN_92284508": [
+        {
+            "entidade": "ENDERECO",
+            "inicio": 47,
+            "fim": 67,
+            "score": 1.0,
+            "texto": "COMARCA DE FORTALEZA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 262,
+            "fim": 283,
+            "score": 1.0,
+            "texto": "Renato Cazuza de Lima",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 635,
+            "fim": 656,
+            "score": 1.0,
+            "texto": "\nRENATO CAZUZA DE LIM",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 701,
+            "fim": 726,
+            "score": 1.0,
+            "texto": " Francisco Ribeiro de Lim",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 729,
+            "fim": 749,
+            "score": 1.0,
+            "texto": " Irene\nCasusa de Lim",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 786,
+            "fim": 795,
+            "score": 1.0,
+            "texto": "\nFortalez",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 812,
+            "fim": 826,
+            "score": 1.0,
+            "texto": " Rua José Vila",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 861,
+            "fim": 870,
+            "score": 1.0,
+            "texto": " Fortalez",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 795,
+            "fim": 796,
+            "score": 0.9900000095367432,
+            "texto": "a",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 796,
+            "fim": 798,
+            "score": 0.9900000095367432,
+            "texto": "/C",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 870,
+            "fim": 871,
+            "score": 0.9900000095367432,
+            "texto": "a",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 871,
+            "fim": 873,
+            "score": 0.9900000095367432,
+            "texto": "/C",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 851,
+            "fim": 859,
+            "score": 0.949999988079071,
+            "texto": " Meirele",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 896,
+            "fim": 911,
+            "score": 1.0,
+            "texto": "O ESTADO DO CEA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 912,
+            "fim": 932,
+            "score": 1.0,
+            "texto": "Á\nCOMARCA DE FORTALE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1005,
+            "fim": 1025,
+            "score": 1.0,
+            "texto": "a Rua\nTenente Benévo",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1055,
+            "fim": 1076,
+            "score": 1.0,
+            "texto": ", RENATO CAZUZA DE LI",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1173,
+            "fim": 1194,
+            "score": 1.0,
+            "texto": "a LUCAS PARENTE ANDRA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1208,
+            "fim": 1229,
+            "score": 1.0,
+            "texto": ", LUCAS PARENTE ANDRA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1290,
+            "fim": 1311,
+            "score": 1.0,
+            "texto": "r RENATO\nCAZUZA DE LI",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1034,
+            "fim": 1041,
+            "score": 0.9800000190734863,
+            "texto": "o Aldeo",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1478,
+            "fim": 1499,
+            "score": 1.0,
+            "texto": "s, RENATO CAZUZA DE L",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1630,
+            "fim": 1651,
+            "score": 1.0,
+            "texto": "o.\nLUCAS PARENTE ANDR",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1663,
+            "fim": 1684,
+            "score": 1.0,
+            "texto": "eu\nRENATO CAZUZA DE L",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1768,
+            "fim": 1789,
+            "score": 1.0,
+            "texto": "l, RENATO\nCAZUZA DE L",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2039,
+            "fim": 2060,
+            "score": 1.0,
+            "texto": " de RENATO CAZUZA DE\n",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2348,
+            "fim": 2369,
+            "score": 1.0,
+            "texto": ":\n1) LUCAS PARENTE AN",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2384,
+            "fim": 2412,
+            "score": 1.0,
+            "texto": ";\n2) GERALDO SANTOS FEITOSA ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2427,
+            "fim": 2454,
+            "score": 1.0,
+            "texto": ";\n3) REGIMILDO AMARANTE DA ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2469,
+            "fim": 2493,
+            "score": 1.0,
+            "texto": ";\n4) JEFFERSON ARAÚJO MA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2505,
+            "fim": 2514,
+            "score": 1.0,
+            "texto": "10).\nFort",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2514,
+            "fim": 2515,
+            "score": 1.0,
+            "texto": "a",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2515,
+            "fim": 2517,
+            "score": 1.0,
+            "texto": "le",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 2540,
+            "fim": 2575,
+            "score": 1.0,
+            "texto": "017.\nFRANCISCO CARLOS PEREIRA DE AN",
+            "tipo": "PESSOA"
+        }
+    ],
+    "1116_PINI_125216768": [
+        {
+            "entidade": "PESSOA",
+            "inicio": 119,
+            "fim": 139,
+            "score": 1.0,
+            "texto": "MUNICIPIO DE PALHANO",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 199,
+            "fim": 214,
+            "score": 1.0,
+            "texto": "Estado do Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 271,
+            "fim": 297,
+            "score": 1.0,
+            "texto": "Avenida Possidônio Barreto",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 315,
+            "fim": 328,
+            "score": 1.0,
+            "texto": "Palhano-Ceará",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 378,
+            "fim": 401,
+            "score": 1.0,
+            "texto": "IVANILDO NUNES DA SILVA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 71,
+            "fim": 116,
+            "score": 0.9300000071525574,
+            "texto": "Vara da Fazenda Pública da Comarca de Palhano",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 845,
+            "fim": 872,
+            "score": 1.0,
+            "texto": " NILBAMAR DA SILVA RODRIGUE",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 522,
+            "fim": 534,
+            "score": 0.9800000190734863,
+            "texto": " alhano-Cear",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 446,
+            "fim": 453,
+            "score": 0.9700000286102295,
+            "texto": "\nPalhan",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 482,
+            "fim": 505,
+            "score": 0.8600000143051147,
+            "texto": " Rodrigues do Nasciment",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 470,
+            "fim": 481,
+            "score": 0.6299999952316284,
+            "texto": " rua Joaqui",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 894,
+            "fim": 904,
+            "score": 1.0,
+            "texto": "3\nSSTADO\nA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 915,
+            "fim": 943,
+            "score": 1.0,
+            "texto": ": RUA FRANCISCO PEDRO DA SIL",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 950,
+            "fim": 956,
+            "score": 1.0,
+            "texto": "- CENT",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 959,
+            "fim": 966,
+            "score": 1.0,
+            "texto": "- Palha",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 967,
+            "fim": 969,
+            "score": 1.0,
+            "texto": "o/",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 966,
+            "fim": 967,
+            "score": 0.9900000095367432,
+            "texto": "n",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2684,
+            "fim": 2712,
+            "score": 1.0,
+            "texto": "01. 6\nRUA FRANCISCO PEDRO DA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2719,
+            "fim": 2725,
+            "score": 1.0,
+            "texto": " 58 - ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2728,
+            "fim": 2735,
+            "score": 1.0,
+            "texto": "TRO - P",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2828,
+            "fim": 2835,
+            "score": 0.9900000095367432,
+            "texto": "mento\nP",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2736,
+            "fim": 2738,
+            "score": 0.8999999761581421,
+            "texto": "lh",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2735,
+            "fim": 2736,
+            "score": 0.7699999809265137,
+            "texto": "a",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2726,
+            "fim": 2727,
+            "score": 0.44999998807907104,
+            "texto": "E",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "999_PET_94444899": [
+        {
+            "entidade": "ENDERECO",
+            "inicio": 95,
+            "fim": 104,
+            "score": 1.0,
+            "texto": "Fortaleza",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 223,
+            "fim": 244,
+            "score": 1.0,
+            "texto": "JOSE RIBAMAR DE SOUZA",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 11,
+            "fim": 26,
+            "score": 0.9900000095367432,
+            "texto": "ESTADO DO CEARÁ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 872,
+            "fim": 890,
+            "score": 1.0,
+            "texto": "\nElton Alves Gurge",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1058,
+            "fim": 1067,
+            "score": 1.0,
+            "texto": "0\nFortale",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 983,
+            "fim": 1002,
+            "score": 0.9800000190734863,
+            "texto": "s\nAv. Heráclito Gra",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1068,
+            "fim": 1069,
+            "score": 0.9599999785423279,
+            "texto": "a",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1070,
+            "fim": 1075,
+            "score": 0.9599999785423279,
+            "texto": "- Cea",
+            "tipo": "ENDERECO"
+        }
+    ],
+    "283_ALE_94444283": [
+        {
+            "entidade": "PESSOA",
+            "inicio": 276,
+            "fim": 309,
+            "score": 1.0,
+            "texto": "ANTONIO GUILHERME PERES RODRIGUES",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 311,
+            "fim": 329,
+            "score": 1.0,
+            "texto": "GEISA FELIPE ALVES",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 331,
+            "fim": 356,
+            "score": 1.0,
+            "texto": "ANDRÉ LUÍS PORTELA AMADEU",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 120,
+            "fim": 141,
+            "score": 0.9800000190734863,
+            "texto": "COMARCADE NOVA RUSSAS",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 192,
+            "fim": 227,
+            "score": 0.8700000047683716,
+            "texto": "2 VARA DA\nCOMARCA DE NOVA RUSSAS-CE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 773,
+            "fim": 798,
+            "score": 1.0,
+            "texto": " ANDRÉ LUÍS PORTELA AMADE",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 801,
+            "fim": 819,
+            "score": 1.0,
+            "texto": " GEISA FELIPE ALVE",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 1035,
+            "fim": 1058,
+            "score": 1.0,
+            "texto": "e ANTONIO GUILHERME PER",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 1393,
+            "fim": 1415,
+            "score": 0.8899999856948853,
+            "texto": "DA COMARCA DE NOVA RUS",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 2875,
+            "fim": 2897,
+            "score": 0.9200000166893005,
+            "texto": "ÇA DA COMARCA DE NOVA ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3393,
+            "fim": 3398,
+            "score": 1.0,
+            "texto": "cusad",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3407,
+            "fim": 3413,
+            "score": 1.0,
+            "texto": "eio de",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3450,
+            "fim": 3455,
+            "score": 1.0,
+            "texto": "as co",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3462,
+            "fim": 3471,
+            "score": 1.0,
+            "texto": " e que\nGu",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3582,
+            "fim": 3608,
+            "score": 1.0,
+            "texto": "militar Ricelle Lopes\nGade",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3690,
+            "fim": 3699,
+            "score": 1.0,
+            "texto": " de que G",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 3974,
+            "fim": 3983,
+            "score": 1.0,
+            "texto": "nheiro, G",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 4013,
+            "fim": 4024,
+            "score": 1.0,
+            "texto": "do para Nov",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3838,
+            "fim": 3847,
+            "score": 0.8500000238418579,
+            "texto": "dade de\nE",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 3729,
+            "fim": 3756,
+            "score": 0.8299999833106995,
+            "texto": "fico na localidade Major Si",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 4091,
+            "fim": 4100,
+            "score": 1.0,
+            "texto": "ender em ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 4131,
+            "fim": 4140,
+            "score": 1.0,
+            "texto": "unha que ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 4205,
+            "fim": 4210,
+            "score": 1.0,
+            "texto": " cham",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 4347,
+            "fim": 4356,
+            "score": 1.0,
+            "texto": "a em que ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 4388,
+            "fim": 4393,
+            "score": 1.0,
+            "texto": "ontra",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 4396,
+            "fim": 4401,
+            "score": 1.0,
+            "texto": " Andr",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 4219,
+            "fim": 4226,
+            "score": 0.9800000190734863,
+            "texto": " (vulgo",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 4902,
+            "fim": 4913,
+            "score": 0.9900000095367432,
+            "texto": "OMARCA DE N",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 4891,
+            "fim": 4898,
+            "score": 0.8199999928474426,
+            "texto": "USTIÇA ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 4988,
+            "fim": 4997,
+            "score": 1.0,
+            "texto": "ntregues ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5029,
+            "fim": 5034,
+            "score": 1.0,
+            "texto": "poent",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 5065,
+            "fim": 5071,
+            "score": 1.0,
+            "texto": "que er",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 5083,
+            "fim": 5094,
+            "score": 1.0,
+            "texto": "e foi para ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5131,
+            "fim": 5136,
+            "score": 1.0,
+            "texto": "droga",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5218,
+            "fim": 5223,
+            "score": 1.0,
+            "texto": "já ab",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 5312,
+            "fim": 5323,
+            "score": 1.0,
+            "texto": "alidade de ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 5381,
+            "fim": 5398,
+            "score": 1.0,
+            "texto": "tráfico, em Santa",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5421,
+            "fim": 5450,
+            "score": 1.0,
+            "texto": " o policial Habraão Kristhian",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5495,
+            "fim": 5521,
+            "score": 1.0,
+            "texto": "ial militar Ricelle Lopes ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5568,
+            "fim": 5573,
+            "score": 1.0,
+            "texto": "sidên",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5711,
+            "fim": 5716,
+            "score": 1.0,
+            "texto": " ela ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5781,
+            "fim": 5786,
+            "score": 1.0,
+            "texto": "cimen",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5820,
+            "fim": 5827,
+            "score": 1.0,
+            "texto": "ante ch",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 5918,
+            "fim": 5923,
+            "score": 1.0,
+            "texto": ", adu",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 6070,
+            "fim": 6075,
+            "score": 1.0,
+            "texto": "o con",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 6078,
+            "fim": 6087,
+            "score": 1.0,
+            "texto": "rio, Geis",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 6257,
+            "fim": 6275,
+            "score": 1.0,
+            "texto": "fesa Raimundo Când",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 6290,
+            "fim": 6299,
+            "score": 1.0,
+            "texto": " informou",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 6399,
+            "fim": 6408,
+            "score": 1.0,
+            "texto": "nheciment",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 6927,
+            "fim": 6932,
+            "score": 1.0,
+            "texto": "que n",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 6936,
+            "fim": 6941,
+            "score": 1.0,
+            "texto": "onhec",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 6986,
+            "fim": 6995,
+            "score": 1.0,
+            "texto": "onhecimen",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 7069,
+            "fim": 7089,
+            "score": 1.0,
+            "texto": "munha de defesa Antô",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 7103,
+            "fim": 7112,
+            "score": 1.0,
+            "texto": "lo, afirm",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6877,
+            "fim": 6888,
+            "score": 0.8399999737739563,
+            "texto": "A DA COMARC",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 6874,
+            "fim": 6876,
+            "score": 0.7699999809265137,
+            "texto": "TI",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 6765,
+            "fim": 6767,
+            "score": 0.36000001430511475,
+            "texto": "==",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 7376,
+            "fim": 7388,
+            "score": 1.0,
+            "texto": "strito para ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 7423,
+            "fim": 7428,
+            "score": 1.0,
+            "texto": " que ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 7432,
+            "fim": 7437,
+            "score": 1.0,
+            "texto": "conhe",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 7458,
+            "fim": 7467,
+            "score": 1.0,
+            "texto": "r fim, ci",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 7563,
+            "fim": 7570,
+            "score": 0.8999999761581421,
+            "texto": "icial, ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 7570,
+            "fim": 7595,
+            "score": 1.0,
+            "texto": "o acusado Antônio Guilher",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 7684,
+            "fim": 7695,
+            "score": 1.0,
+            "texto": "or\nSimplíci",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 7663,
+            "fim": 7678,
+            "score": 0.9599999785423279,
+            "texto": "do do distrito ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 7727,
+            "fim": 7736,
+            "score": 0.7099999785423279,
+            "texto": " na local",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 8466,
+            "fim": 8475,
+            "score": 1.0,
+            "texto": "do ele ch",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 9284,
+            "fim": 9293,
+            "score": 1.0,
+            "texto": "quisição.",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 9023,
+            "fim": 9045,
+            "score": 0.949999988079071,
+            "texto": "MOTORIA DE JUSTIÇA DA ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 9333,
+            "fim": 9341,
+            "score": 1.0,
+            "texto": "ia compr",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 9342,
+            "fim": 9344,
+            "score": 1.0,
+            "texto": "do",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 9443,
+            "fim": 9451,
+            "score": 1.0,
+            "texto": "entes, p",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 9629,
+            "fim": 9634,
+            "score": 1.0,
+            "texto": "ortan",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 9341,
+            "fim": 9342,
+            "score": 0.9900000095367432,
+            "texto": "a",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 9588,
+            "fim": 9603,
+            "score": 0.9200000166893005,
+            "texto": "ria levar\na dro",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 9825,
+            "fim": 9834,
+            "score": 1.0,
+            "texto": "ais compr",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 9902,
+            "fim": 9907,
+            "score": 1.0,
+            "texto": "beram",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 9910,
+            "fim": 9915,
+            "score": 1.0,
+            "texto": "e se ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 10127,
+            "fim": 10136,
+            "score": 1.0,
+            "texto": "ou à saúd",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 10139,
+            "fim": 10144,
+            "score": 1.0,
+            "texto": "os\nac",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 10186,
+            "fim": 10191,
+            "score": 1.0,
+            "texto": "ue nã",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 10299,
+            "fim": 10304,
+            "score": 1.0,
+            "texto": ", a p",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 10307,
+            "fim": 10312,
+            "score": 1.0,
+            "texto": "ri, c",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 10727,
+            "fim": 10732,
+            "score": 1.0,
+            "texto": "s\nmen",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 11450,
+            "fim": 11458,
+            "score": 1.0,
+            "texto": "ssinar, ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 11205,
+            "fim": 11216,
+            "score": 0.8799999952316284,
+            "texto": "IA DE JUSTI",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 11194,
+            "fim": 11204,
+            "score": 0.7099999785423279,
+            "texto": "\n2 PROMOTO",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 11599,
+            "fim": 11604,
+            "score": 1.0,
+            "texto": " vida",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 11608,
+            "fim": 11613,
+            "score": 1.0,
+            "texto": "o sou",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 11668,
+            "fim": 11673,
+            "score": 1.0,
+            "texto": "o. Ma",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 11853,
+            "fim": 11858,
+            "score": 1.0,
+            "texto": "o não",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 11893,
+            "fim": 11904,
+            "score": 1.0,
+            "texto": "lha, nem se",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 12117,
+            "fim": 12142,
+            "score": 1.0,
+            "texto": "tinadas ao tráfico.\nO\nacu",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 12209,
+            "fim": 12218,
+            "score": 1.0,
+            "texto": " e que nã",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 12629,
+            "fim": 12634,
+            "score": 1.0,
+            "texto": " seu.",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 13267,
+            "fim": 13282,
+            "score": 1.0,
+            "texto": "f\nTAI\nMPCE\nMini",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 13491,
+            "fim": 13500,
+            "score": 1.0,
+            "texto": "oube info",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 13314,
+            "fim": 13336,
+            "score": 0.9599999785423279,
+            "texto": "á\nSAJ\n2 PROMOTORIA DE ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 13740,
+            "fim": 13745,
+            "score": 1.0,
+            "texto": "das a",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 13892,
+            "fim": 13897,
+            "score": 1.0,
+            "texto": " a\nco",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 14004,
+            "fim": 14022,
+            "score": 1.0,
+            "texto": "hava como servente",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 14080,
+            "fim": 14085,
+            "score": 1.0,
+            "texto": "ona C",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 14045,
+            "fim": 14049,
+            "score": 0.9300000071525574,
+            "texto": "Barr",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 14050,
+            "fim": 14056,
+            "score": 0.550000011920929,
+            "texto": " Limpa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 14211,
+            "fim": 14220,
+            "score": 1.0,
+            "texto": "afirmando",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 14257,
+            "fim": 14262,
+            "score": 1.0,
+            "texto": "m tro",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 14295,
+            "fim": 14313,
+            "score": 1.0,
+            "texto": "sa\nganharia com a ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 14501,
+            "fim": 14510,
+            "score": 1.0,
+            "texto": "ue não te",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 14528,
+            "fim": 14533,
+            "score": 1.0,
+            "texto": "nto c",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 14727,
+            "fim": 14732,
+            "score": 1.0,
+            "texto": "tava ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 15259,
+            "fim": 15281,
+            "score": 0.8799999952316284,
+            "texto": " do Ceará\n2 PROMOTORIA",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 15605,
+            "fim": 15614,
+            "score": 1.0,
+            "texto": "ar a outr",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 15643,
+            "fim": 15652,
+            "score": 1.0,
+            "texto": "Guilherme",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 15779,
+            "fim": 15784,
+            "score": 1.0,
+            "texto": " nunc",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 15837,
+            "fim": 15844,
+            "score": 1.0,
+            "texto": "xistênc",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 16002,
+            "fim": 16016,
+            "score": 1.0,
+            "texto": "ia, apesar de ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 16213,
+            "fim": 16218,
+            "score": 1.0,
+            "texto": "ão pa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 16221,
+            "fim": 16226,
+            "score": 1.0,
+            "texto": "o\ntrá",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 16259,
+            "fim": 16268,
+            "score": 1.0,
+            "texto": " Geisa ti",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 16334,
+            "fim": 16348,
+            "score": 1.0,
+            "texto": "as para o dist",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 16317,
+            "fim": 16332,
+            "score": 0.949999988079071,
+            "texto": "transportava dr",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 16521,
+            "fim": 16530,
+            "score": 1.0,
+            "texto": "haviam\nre",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 16559,
+            "fim": 16574,
+            "score": 1.0,
+            "texto": "e GUILHERME est",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 16576,
+            "fim": 16587,
+            "score": 1.0,
+            "texto": "a traficand",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 16625,
+            "fim": 16634,
+            "score": 1.0,
+            "texto": "as, há ce",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 16696,
+            "fim": 16704,
+            "score": 1.0,
+            "texto": "a droga ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 16719,
+            "fim": 16724,
+            "score": 1.0,
+            "texto": ", qua",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 16727,
+            "fim": 16737,
+            "score": 1.0,
+            "texto": " ia para I",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 16764,
+            "fim": 16779,
+            "score": 1.0,
+            "texto": " e ANDRÉ LUÍS p",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 17227,
+            "fim": 17238,
+            "score": 0.9800000190734863,
+            "texto": "rá\n2 PROMOT",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 17224,
+            "fim": 17226,
+            "score": 0.49000000953674316,
+            "texto": "Ce",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 19980,
+            "fim": 19985,
+            "score": 1.0,
+            "texto": "O 55 ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 20021,
+            "fim": 20035,
+            "score": 0.699999988079071,
+            "texto": "ado do Ceará\n2",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 22813,
+            "fim": 22832,
+            "score": 1.0,
+            "texto": "s corpus não conhec",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 22731,
+            "fim": 22753,
+            "score": 0.9700000286102295,
+            "texto": "ico\nSAJ\ndo Estado do C",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 23531,
+            "fim": 23544,
+            "score": 1.0,
+            "texto": "o de flagrant",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 24131,
+            "fim": 24152,
+            "score": 1.0,
+            "texto": ".\n[...] 5. Ordem dene",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 25264,
+            "fim": 25286,
+            "score": 0.9700000286102295,
+            "texto": " Público\nSAJ\ndo Estado",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 25846,
+            "fim": 25879,
+            "score": 1.0,
+            "texto": ", requer o Ministério Público Est",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 25881,
+            "fim": 25899,
+            "score": 1.0,
+            "texto": "ual a condenação d",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 25901,
+            "fim": 25926,
+            "score": 1.0,
+            "texto": "\nréus ANTONIO GUILHERME P",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "ENDERECO",
+            "inicio": 26039,
+            "fim": 26050,
+            "score": 1.0,
+            "texto": "a Lei n° 11",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PESSOA",
+            "inicio": 26084,
+            "fim": 26112,
+            "score": 1.0,
+            "texto": "de deferimento.\nNova Russas,",
+            "tipo": "PESSOA"
+        }
+    ]
+}

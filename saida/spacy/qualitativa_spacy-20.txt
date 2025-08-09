@@ -1,0 +1,4063 @@
+Comparando 18 documentos em comum.
+
+
+===== RESUMO QUALITATIVO =====
+- IGUAL: 0  →  Início, fim e texto coincidem exatamente (ignora caixa)
+- CAIXA: 104  →  Início e fim iguais, texto igual ignorando maiúsculas/minúsculas
+- PREV_MENOR: 11  →  Texto da predição é menor, contido na anotação
+- PREV_MAIOR: 17  →  Texto da predição é maior, contém a anotação
+- FALSO_POSITIVO: 760  →  Predição sem correspondente na anotação (falso positivo)
+- FALSO_NEGATIVO: 75  →  Anotação sem correspondente na predição (falso negativo)
+
+
+==== CASOS CAIXA ====
+
+Documento: 283_DEN_93879160
+  anotacao: (5178, 5205, PESSOA, 'capitão geraldo jesus alves')
+  pred:     (5178, 5205, PESSOA, 'CAPITÃO GERALDO JESUS ALVES')
+
+Documento: 283_DEN_93879160
+  anotacao: (5243, 5267, PESSOA, 'françualdo alves de lima')
+  pred:     (5243, 5267, PESSOA, 'FRANÇUALDO ALVES DE LIMA')
+
+Documento: 999_SEN_90023409
+  anotacao: (478, 504, PESSOA, 'márcio cassiano dos
+santos')
+  pred:     (478, 504, PESSOA, 'Márcio Cassiano dos
+Santos')
+
+Documento: 999_SEN_90023409
+  anotacao: (1038, 1064, PESSOA, 'márcio cassiano dos santos')
+  pred:     (1038, 1064, PESSOA, 'Márcio Cassiano dos Santos')
+
+Documento: 999_SEN_90023409
+  anotacao: (5599, 5625, PESSOA, 'márcio cassiano dos santos')
+  pred:     (5599, 5625, PESSOA, 'Márcio Cassiano dos Santos')
+
+Documento: 999_SEN_90023409
+  anotacao: (3308, 3336, PESSOA, 'maria tereza da silva santos')
+  pred:     (3308, 3336, PESSOA, 'Maria Tereza da Silva Santos')
+
+Documento: 999_SEN_90023409
+  anotacao: (872, 902, PESSOA, 'antônio
+carlos da silva santos')
+  pred:     (872, 902, PESSOA, 'Antônio
+Carlos da Silva Santos')
+
+Documento: 283_ALE_94444283
+  anotacao: (5833, 5840, PESSOA, 'gustavo')
+  pred:     (5833, 5840, PESSOA, 'Gustavo')
+
+Documento: 283_ALE_94444283
+  anotacao: (15875, 15882, PESSOA, 'gustavo')
+  pred:     (15875, 15882, PESSOA, 'Gustavo')
+
+Documento: 283_ALE_94444283
+  anotacao: (802, 820, PESSOA, 'geisa felipe alves')
+  pred:     (802, 820, PESSOA, 'GEISA FELIPE ALVES')
+
+Documento: 283_ALE_94444283
+  anotacao: (3400, 3405, PESSOA, 'andré')
+  pred:     (3400, 3405, PESSOA, 'André')
+
+Documento: 283_ALE_94444283
+  anotacao: (3457, 3462, PESSOA, 'geisa')
+  pred:     (3457, 3462, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (3469, 3478, PESSOA, 'guilherme')
+  pred:     (3469, 3478, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (3698, 3707, PESSOA, 'guilherme')
+  pred:     (3698, 3707, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (3982, 3991, PESSOA, 'guilherme')
+  pred:     (3982, 3991, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (4140, 4149, PESSOA, 'guilherme')
+  pred:     (4140, 4149, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (4214, 4219, PESSOA, 'andré')
+  pred:     (4214, 4219, PESSOA, 'André')
+
+Documento: 283_ALE_94444283
+  anotacao: (4356, 4365, PESSOA, 'guilherme')
+  pred:     (4356, 4365, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (4397, 4402, PESSOA, 'andré')
+  pred:     (4397, 4402, PESSOA, 'André')
+
+Documento: 283_ALE_94444283
+  anotacao: (4405, 4410, PESSOA, 'geisa')
+  pred:     (4405, 4410, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (4999, 5008, PESSOA, 'guilherme')
+  pred:     (4999, 5008, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (5040, 5045, PESSOA, 'andré')
+  pred:     (5040, 5045, PESSOA, 'André')
+
+Documento: 283_ALE_94444283
+  anotacao: (5142, 5147, PESSOA, 'geisa')
+  pred:     (5142, 5147, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (5229, 5234, PESSOA, 'geisa')
+  pred:     (5229, 5234, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (5580, 5585, PESSOA, 'geisa')
+  pred:     (5580, 5585, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (5723, 5728, PESSOA, 'andré')
+  pred:     (5723, 5728, PESSOA, 'André')
+
+Documento: 283_ALE_94444283
+  anotacao: (5793, 5798, PESSOA, 'geisa')
+  pred:     (5793, 5798, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (5931, 5936, PESSOA, 'andré')
+  pred:     (5931, 5936, PESSOA, 'André')
+
+Documento: 283_ALE_94444283
+  anotacao: (6083, 6088, PESSOA, 'geisa')
+  pred:     (6083, 6088, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (6091, 6100, PESSOA, 'guilherme')
+  pred:     (6091, 6100, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (6304, 6313, PESSOA, 'guilherme')
+  pred:     (6304, 6313, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (6413, 6422, PESSOA, 'guilherme')
+  pred:     (6413, 6422, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (6943, 6948, PESSOA, 'andré')
+  pred:     (6943, 6948, PESSOA, 'André')
+
+Documento: 283_ALE_94444283
+  anotacao: (6952, 6957, PESSOA, 'geisa')
+  pred:     (6952, 6957, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (7002, 7011, PESSOA, 'guilherme')
+  pred:     (7002, 7011, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (7119, 7128, PESSOA, 'guilherme')
+  pred:     (7119, 7128, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (7440, 7445, PESSOA, 'andré')
+  pred:     (7440, 7445, PESSOA, 'André')
+
+Documento: 283_ALE_94444283
+  anotacao: (7449, 7454, PESSOA, 'geisa')
+  pred:     (7449, 7454, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (7475, 7484, PESSOA, 'guilherme')
+  pred:     (7475, 7484, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (7580, 7613, PESSOA, 'antônio guilherme peres
+rodrigues')
+  pred:     (7580, 7613, PESSOA, 'Antônio Guilherme Peres
+Rodrigues')
+
+Documento: 283_ALE_94444283
+  anotacao: (8486, 8495, PESSOA, 'guilherme')
+  pred:     (8486, 8495, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (9306, 9315, PESSOA, 'guilherme')
+  pred:     (9306, 9315, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (9652, 9657, PESSOA, 'geisa')
+  pred:     (9652, 9657, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (9849, 9858, PESSOA, 'guilherme')
+  pred:     (9849, 9858, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (9926, 9931, PESSOA, 'andré')
+  pred:     (9926, 9931, PESSOA, 'André')
+
+Documento: 283_ALE_94444283
+  anotacao: (9934, 9939, PESSOA, 'geisa')
+  pred:     (9934, 9939, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (10151, 10160, PESSOA, 'guilherme')
+  pred:     (10151, 10160, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (10163, 10168, PESSOA, 'andré')
+  pred:     (10163, 10168, PESSOA, 'André')
+
+Documento: 283_ALE_94444283
+  anotacao: (10210, 10215, PESSOA, 'andré')
+  pred:     (10210, 10215, PESSOA, 'André')
+
+Documento: 283_ALE_94444283
+  anotacao: (10324, 10329, PESSOA, 'andré')
+  pred:     (10324, 10329, PESSOA, 'André')
+
+Documento: 283_ALE_94444283
+  anotacao: (10332, 10337, PESSOA, 'geisa')
+  pred:     (10332, 10337, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (10753, 10758, PESSOA, 'andré')
+  pred:     (10753, 10758, PESSOA, 'André')
+
+Documento: 283_ALE_94444283
+  anotacao: (11628, 11633, PESSOA, 'andré')
+  pred:     (11628, 11633, PESSOA, 'André')
+
+Documento: 283_ALE_94444283
+  anotacao: (11637, 11642, PESSOA, 'geisa')
+  pred:     (11637, 11642, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (11697, 11702, PESSOA, 'geisa')
+  pred:     (11697, 11702, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (11882, 11887, PESSOA, 'geisa')
+  pred:     (11882, 11887, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (12147, 12172, PESSOA, 'andré luís portela amadeu')
+  pred:     (12147, 12172, PESSOA, 'André Luís Portela Amadeu')
+
+Documento: 283_ALE_94444283
+  anotacao: (12239, 12248, PESSOA, 'guilherme')
+  pred:     (12239, 12248, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (12389, 12394, PESSOA, 'geisa')
+  pred:     (12389, 12394, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (12660, 12665, PESSOA, 'geisa')
+  pred:     (12660, 12665, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (13524, 13533, PESSOA, 'guilherme')
+  pred:     (13524, 13533, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (13774, 13779, PESSOA, 'geisa')
+  pred:     (13774, 13779, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (13926, 13931, PESSOA, 'geisa')
+  pred:     (13926, 13931, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (14114, 14119, PESSOA, 'geisa')
+  pred:     (14114, 14119, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (14246, 14255, PESSOA, 'guilherme')
+  pred:     (14246, 14255, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (14292, 14297, PESSOA, 'geisa')
+  pred:     (14292, 14297, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (14330, 14348, PESSOA, 'geisa felipe alves')
+  pred:     (14330, 14348, PESSOA, 'Geisa Felipe Alves')
+
+Documento: 283_ALE_94444283
+  anotacao: (14536, 14545, PESSOA, 'guilherme')
+  pred:     (14536, 14545, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (14563, 14568, PESSOA, 'andré')
+  pred:     (14563, 14568, PESSOA, 'André')
+
+Documento: 283_ALE_94444283
+  anotacao: (14763, 14768, PESSOA, 'andré')
+  pred:     (14763, 14768, PESSOA, 'André')
+
+Documento: 283_ALE_94444283
+  anotacao: (15643, 15652, PESSOA, 'guilherme')
+  pred:     (15643, 15652, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (15681, 15690, PESSOA, 'guilherme')
+  pred:     (15681, 15690, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (15817, 15822, PESSOA, 'andré')
+  pred:     (15817, 15822, PESSOA, 'André')
+
+Documento: 283_ALE_94444283
+  anotacao: (16252, 16257, PESSOA, 'andré')
+  pred:     (16252, 16257, PESSOA, 'André')
+
+Documento: 283_ALE_94444283
+  anotacao: (16260, 16265, PESSOA, 'geisa')
+  pred:     (16260, 16265, PESSOA, 'Geisa')
+
+Documento: 283_ALE_94444283
+  anotacao: (16298, 16307, PESSOA, 'guilherme')
+  pred:     (16298, 16307, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (16665, 16674, PESSOA, 'guilherme')
+  pred:     (16665, 16674, PESSOA, 'Guilherme')
+
+Documento: 283_ALE_94444283
+  anotacao: (25907, 25940, PESSOA, 'antonio guilherme peres rodrigues')
+  pred:     (25907, 25940, PESSOA, 'ANTONIO GUILHERME PERES RODRIGUES')
+
+Documento: 283_ALE_94444283
+  anotacao: (25942, 25960, PESSOA, 'geisa felipe alves')
+  pred:     (25942, 25960, PESSOA, 'GEISA FELIPE ALVES')
+
+Documento: 283_ALE_94444283
+  anotacao: (3590, 3616, PESSOA, 'ricelle lopes
+gadelha mota')
+  pred:     (3590, 3616, PESSOA, 'Ricelle Lopes
+Gadelha Mota')
+
+Documento: 283_ALE_94444283
+  anotacao: (5433, 5462, PESSOA, 'habraão kristhian lima aguiar')
+  pred:     (5433, 5462, PESSOA, 'Habraão Kristhian Lima Aguiar')
+
+Documento: 283_ALE_94444283
+  anotacao: (5507, 5533, PESSOA, 'ricelle lopes gadelha mota')
+  pred:     (5507, 5533, PESSOA, 'Ricelle Lopes Gadelha Mota')
+
+Documento: 283_ALE_94444283
+  anotacao: (6262, 6289, PESSOA, 'raimundo cândido dos santos')
+  pred:     (6262, 6289, PESSOA, 'Raimundo Cândido dos Santos')
+
+Documento: 283_ALE_94444283
+  anotacao: (7085, 7105, PESSOA, 'antônio viana camelo')
+  pred:     (7085, 7105, PESSOA, 'Antônio Viana Camelo')
+
+Documento: 999_DEN_92284508
+  anotacao: (702, 727, PESSOA, 'francisco ribeiro de lima')
+  pred:     (702, 727, PESSOA, 'Francisco Ribeiro de Lima')
+
+Documento: 999_DEN_92284508
+  anotacao: (730, 750, PESSOA, 'irene
+casusa de lima')
+  pred:     (730, 750, PESSOA, 'Irene
+Casusa de Lima')
+
+Documento: 999_DEN_92284508
+  anotacao: (2545, 2580, PESSOA, 'francisco carlos pereira de andrade')
+  pred:     (2545, 2580, PESSOA, 'FRANCISCO CARLOS PEREIRA DE ANDRADE')
+
+Documento: 999_DEN_92284508
+  anotacao: (262, 283, PESSOA, 'renato cazuza de lima')
+  pred:     (262, 283, PESSOA, 'Renato Cazuza de Lima')
+
+Documento: 999_DEN_92284508
+  anotacao: (636, 657, PESSOA, 'renato cazuza de lima')
+  pred:     (636, 657, PESSOA, 'RENATO CAZUZA DE LIMA')
+
+Documento: 999_DEN_92284508
+  anotacao: (1057, 1078, PESSOA, 'renato cazuza de lima')
+  pred:     (1057, 1078, PESSOA, 'RENATO CAZUZA DE LIMA')
+
+Documento: 999_DEN_92284508
+  anotacao: (1292, 1313, PESSOA, 'renato
+cazuza de lima')
+  pred:     (1292, 1313, PESSOA, 'RENATO
+CAZUZA DE LIMA')
+
+Documento: 999_DEN_92284508
+  anotacao: (1481, 1502, PESSOA, 'renato cazuza de lima')
+  pred:     (1481, 1502, PESSOA, 'RENATO CAZUZA DE LIMA')
+
+Documento: 999_DEN_92284508
+  anotacao: (1666, 1687, PESSOA, 'renato cazuza de lima')
+  pred:     (1666, 1687, PESSOA, 'RENATO CAZUZA DE LIMA')
+
+Documento: 999_DEN_92284508
+  anotacao: (2043, 2064, PESSOA, 'renato cazuza de
+lima')
+  pred:     (2043, 2064, PESSOA, 'RENATO CAZUZA DE
+LIMA')
+
+Documento: 279_INQ_88114167
+  anotacao: (217, 255, PESSOA, 'ana ursulina tavares rodrigues de lima')
+  pred:     (217, 255, PESSOA, 'Ana Ursulina Tavares Rodrigues de Lima')
+
+Documento: 279_INQ_88114167
+  anotacao: (6786, 6831, PESSOA, 'francisco finezio
+ferreira de azevedo segundo')
+  pred:     (6786, 6831, PESSOA, 'Francisco Finezio
+Ferreira de Azevedo Segundo')
+
+Documento: 283_DEC_91094850
+  anotacao: (554, 581, PESSOA, 'josé fernando
+do nascimento')
+  pred:     (554, 581, PESSOA, 'JOSÉ FERNANDO
+DO NASCIMENTO')
+
+Documento: 999_PET_91319463
+  anotacao: (2202, 2226, PESSOA, 'robson pinheiro de sousa')
+  pred:     (2202, 2226, PESSOA, 'Robson Pinheiro de Sousa')
+
+Documento: 999_PET_91319463
+  anotacao: (3399, 3423, PESSOA, 'robson pinheiro de sousa')
+  pred:     (3399, 3423, PESSOA, 'Robson Pinheiro de Sousa')
+
+Documento: 999_PET_91319463
+  anotacao: (1912, 1932, PESSOA, 'ronald neves pereira')
+  pred:     (1912, 1932, PESSOA, 'Ronald Neves Pereira')
+
+Documento: 999_PET_91319463
+  anotacao: (4680, 4704, PESSOA, 'glaudeani alves de moura')
+  pred:     (4680, 4704, PESSOA, 'Glaudeani Alves de Moura')
+
+Documento: 999_PET_91319463
+  anotacao: (2137, 2158, PESSOA, 'helga barreto tavares')
+  pred:     (2137, 2158, PESSOA, 'Helga Barreto Tavares')
+
+Documento: 999_PET_91319463
+  anotacao: (3334, 3355, PESSOA, 'helga barreto tavares')
+  pred:     (3334, 3355, PESSOA, 'Helga Barreto Tavares')
+
+Documento: 999_PET_91319463
+  anotacao: (161, 185, PESSOA, 'anderson da silva guedes')
+  pred:     (161, 185, PESSOA, 'ANDERSON DA SILVA GUEDES')
+
+
+==== CASOS PREV_MENOR ====
+
+Documento: 283_DEC_107630371
+  anotacao: (745, 774, PESSOA, 'francisco elso
+epifânio alves')
+  pred:     (745, 759, PESSOA, 'Francisco Elso')
+
+Documento: 283_DEC_107630371
+  anotacao: (776, 806, PESSOA, 'j oão márcio da silva ferreira')
+  pred:     (782, 806, PESSOA, 'Márcio da Silva Ferreira')
+
+Documento: 283_ALE_94444283
+  anotacao: (1037, 1060, PESSOA, 'antonio guilherme peres')
+  pred:     (1037, 1054, PESSOA, 'ANTONIO GUILHERME')
+
+Documento: 283_ALE_94444283
+  anotacao: (4227, 4236, PESSOA, '"gigante"')
+  pred:     (4228, 4235, PESSOA, 'Gigante')
+
+Documento: 283_DEC_81349285
+  anotacao: (608, 634, PESSOA, 'paulo
+sérgio gomes melindo')
+  pred:     (608, 614, PESSOA, 'PAULO
+')
+
+Documento: 999_DEN_92284508
+  anotacao: (1007, 1055, ENDERECO, 'rua
+tenente benévolo, bairro aldeota, nesta urbe')
+  pred:     (1007, 1027, ENDERECO, 'Rua
+Tenente Benévolo')
+
+Documento: 279_INQ_88114167
+  anotacao: (9916, 9950, PESSOA, 'felipe marinho correia de oliveira')
+  pred:     (9916, 9941, PESSOA, 'FELIPE MARINHO CORREIA DE')
+
+Documento: 279_INQ_88114167
+  anotacao: (6337, 6382, PESSOA, 'francisco finezio ferreira de azevedo segundo')
+  pred:     (6337, 6374, PESSOA, 'Francisco Finezio Ferreira de Azevedo')
+
+Documento: 279_INQ_88114167
+  anotacao: (6563, 6608, PESSOA, 'francisco finezio
+ferreira de azevedo segundo')
+  pred:     (6563, 6600, PESSOA, 'Francisco Finezio
+Ferreira de Azevedo')
+
+Documento: 159_SEN_83104641
+  anotacao: (392, 432, PESSOA, 'fernando vinicius de sa siqueira e souza')
+  pred:     (392, 424, PESSOA, 'Fernando Vinicius de Sa Siqueira')
+
+Documento: 999_PET_91319463
+  anotacao: (4814, 4854, PESSOA, 'izabela mendonça de alexandre de freitas')
+  pred:     (4814, 4830, PESSOA, 'Izabela Mendonça')
+
+
+==== CASOS PREV_MAIOR ====
+
+Documento: 279_DEC_92800402
+  anotacao: (3293, 3319, PESSOA, 'fabrício vasconcelos mazza')
+  pred:     (3293, 3335, PESSOA, 'Fabrício Vasconcelos Mazza
+Juiz de Direito')
+
+Documento: 283_DEC_107630371
+  anotacao: (553, 582, PESSOA, 'francisco elso epifânio alves')
+  pred:     (553, 589, PESSOA, 'Francisco Elso Epifânio Alves
+Vistos')
+
+Documento: 999_SEN_90023409
+  anotacao: (6220, 6240, PESSOA, 'raimundo lucena neto')
+  pred:     (6220, 6245, PESSOA, 'Raimundo Lucena Neto
+Juiz')
+
+Documento: 999_SEN_90023409
+  anotacao: (385, 411, PESSOA, 'marcio cassiano dos santos')
+  pred:     (385, 418, PESSOA, 'Marcio Cassiano dos Santos
+Vistos')
+
+Documento: 283_ALE_94444283
+  anotacao: (26145, 26179, PESSOA, 'pablo de de oliveira justiça
+alves')
+  pred:     (26136, 26179, PESSOA, 'Promotor Pablo de de Oliveira Justiça
+Alves')
+
+Documento: 159_SEN_92401478
+  anotacao: (1452, 1483, PESSOA, 'antonia neuma mota moreira dias')
+  pred:     (1452, 1500, PESSOA, 'Antonia Neuma Mota Moreira Dias
+Juíza de Direito')
+
+Documento: 159_SEN_92401478
+  anotacao: (406, 434, PESSOA, 'michelle amorim sancho souza')
+  pred:     (406, 442, PESSOA, 'Michelle Amorim Sancho SouzaMichelle')
+
+Documento: 283_DEC_81349285
+  anotacao: (3316, 3345, PESSOA, 'luis savio de azevedo bringel')
+  pred:     (3316, 3347, PESSOA, 'Luis Savio de Azevedo Bringel
+J')
+
+Documento: 1116_PINI_80230742
+  anotacao: (632, 645, PESSOA, 'melissa guará')
+  pred:     (632, 658, PESSOA, 'Melissa Guará
+Maracanau-CE')
+
+Documento: 279_INQ_88114167
+  anotacao: (5977, 6007, PESSOA, 'ana ursulína tavares rodrigues')
+  pred:     (5977, 6008, PESSOA, 'Ana Ursulína Tavares Rodrigues
+')
+
+Documento: 279_INQ_88114167
+  anotacao: (11995, 12029, PESSOA, 'felipe marinho correia de oliveira')
+  pred:     (11995, 12055, PESSOA, 'Felipe Marinho Correia de Oliveira
+Delegado de Policia Civil')
+
+Documento: 279_INQ_88114167
+  anotacao: (10621, 10655, PESSOA, 'alessandra magala ribeirá monteiro')
+  pred:     (10621, 10656, PESSOA, 'Alessandra Magala Ribeirá Monteiro
+')
+
+Documento: 283_DEC_91094850
+  anotacao: (2360, 2393, PESSOA, 'rafaela benevides caracas pequeno')
+  pred:     (2360, 2410, PESSOA, 'Rafaela Benevides Caracas Pequeno
+Juíza de Direito')
+
+Documento: 283_DEC_91094850
+  anotacao: (468, 494, PESSOA, 'ose fernando do nascimento')
+  pred:     (472, 500, PESSOA, 'Fernando do Nascimento
+R.H.
+')
+
+Documento: 1116_PET_92540251
+  anotacao: (912, 939, PESSOA, 'aprígio junior campos nobre')
+  pred:     (912, 944, PESSOA, 'Aprígio Junior Campos Nobre
+OAB/')
+
+Documento: 999_PET_91319463
+  anotacao: (18555, 18584, PESSOA, 'márcia rubia batista teixeira')
+  pred:     (18555, 18593, PESSOA, 'Márcia Rubia Batista Teixeira
+ADVOGADA')
+
+Documento: 283_DEN_105110798
+  anotacao: (336, 359, PESSOA, 'yarlei moura de freitas')
+  pred:     (336, 370, PESSOA, 'Yarlei Moura de Freitas
+Observação')
+
+
+==== CASOS FALSO_POSITIVO ====
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (47, 57, ENDERECO, 'Fortaleza
+')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (100, 104, ENDERECO, 'TJCE')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (105, 151, ENDERECO, 'Rua Desembargador Floriano Benevides Magalhaes')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (160, 169, ENDERECO, 'Agua Fria')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (187, 191, ENDERECO, 'Fone')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (199, 211, ENDERECO, 'Fortaleza-CE')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (214, 220, ENDERECO, 'E-mail')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (241, 257, ENDERECO, 'DECISAO
+Processo')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (381, 411, ENDERECO, 'Delegacia de Assuntos Internos')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (414, 424, PESSOA, 'Dai
+Vistos')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (494, 525, ENDERECO, 'Delegacia de A ssuntos Internos')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (532, 539, ENDERECO, 'Capital')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (1404, 1410, PESSOA, 'DECIDO')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (1870, 1881, PESSOA, 'Carlos Vico')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (1985, 1993, ENDERECO, 'MIRABETE')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2018, 2036, ENDERECO, 'Ministério Público')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2055, 2073, ENDERECO, 'Inquérito Policial')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2318, 2335, ENDERECO, 'Fortaleza
+14aVara')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2336, 2344, ENDERECO, 'Criminal')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2361, 2407, ENDERECO, 'Rua Desembargador Floriano Benevides Magalhaes')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2416, 2425, ENDERECO, 'Água Fria')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2443, 2447, ENDERECO, 'Fone')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2465, 2477, ENDERECO, 'Fortaleza-CE')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2480, 2486, ENDERECO, 'E-mail')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2561, 2580, PESSOA, 'Promotor de Justiça')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2770, 2773, ENDERECO, 'Dra')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2775, 2792, ENDERECO, 'Promotora Pública')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (2905, 2919, PESSOA, 'SEUS ELEMENTOS')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (3025, 3028, ENDERECO, 'CPP')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (3176, 3194, ENDERECO, 'Ministério Público')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (3255, 3264, ENDERECO, 'Fortaleza')
+
+Documento: 279_DEC_92800402
+  anotacao: ---
+  pred:     (3265, 3267, ENDERECO, 'CE')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (47, 57, ENDERECO, 'Fortaleza
+')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (114, 160, ENDERECO, 'Rua Desembargador Floriano Benevides Magalhaes')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (170, 179, ENDERECO, 'Água Fria')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (197, 201, ENDERECO, 'Fone')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (203, 215, ENDERECO, 'Fortaleza-CE')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (218, 224, ENDERECO, 'E-mail')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (245, 252, ENDERECO, 'DECISAO')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (295, 302, ENDERECO, 'Apensos')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (473, 511, ENDERECO, 'Ministério Público do Estado do Ceará
+')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (597, 615, ENDERECO, 'Ministério Público')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (625, 644, PESSOA, 'Promotor de Justiça')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (683, 691, PESSOA, 'DENÚNCIA')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (760, 774, PESSOA, 'Epifânio Alves')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (1492, 1495, ENDERECO, 'CPP')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (1917, 1922, ENDERECO, 'Ceará')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (2168, 2171, ENDERECO, 'CPP')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (2301, 2400, ENDERECO, 'Fortaleza
+Vara de Delitos de Organizações Criminosas
+Rua Desembargador Floriano Benevides Magalhaes')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (2410, 2419, ENDERECO, 'Água Fria')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (2437, 2441, ENDERECO, 'Fone')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (2459, 2471, ENDERECO, 'Fortaleza-CE')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (2703, 2712, ENDERECO, 'Fortaleza')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (2713, 2715, ENDERECO, 'CE')
+
+Documento: 283_DEC_107630371
+  anotacao: ---
+  pred:     (2737, 2793, ENDERECO, 'Magistrado da Vara de Delitos de Organizações Criminosas')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (23, 27, PESSOA, 'PROT')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (67, 73, ENDERECO, 'ESTADO')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (160, 168, ENDERECO, 'DOUTOR(A')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (170, 176, PESSOA, 'JUIZ(A')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (447, 479, PESSOA, 'inciso I da Constituição Federal')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (539, 547, PESSOA, 'DENÚNCIA')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (663, 673, ENDERECO, 'Cajazeiras')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (674, 676, ENDERECO, 'PB')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (759, 771, PESSOA, 'Feitosa Neto')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (800, 807, ENDERECO, 'Bairro
+')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (807, 825, PESSOA, 'Ronaldo Cunha Lima')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (827, 837, ENDERECO, 'Cajazeiras')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (838, 840, ENDERECO, 'PB')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (944, 957, ENDERECO, 'Sítio Pocinho')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (962, 967, ENDERECO, 'BR230')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (982, 991, ENDERECO, 'Ipaumirim')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1194, 1207, ENDERECO, 'Placa
+PNE5291')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1451, 1471, ENDERECO, 'Cachoeira dos Índios')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1489, 1498, ENDERECO, 'Ipaumirim')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1499, 1501, ENDERECO, 'CE')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1547, 1561, ENDERECO, 'Sítio Pocinhos')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1566, 1568, ENDERECO, 'BR')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1607, 1616, ENDERECO, 'Ipaumirim')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1956, 1966, ENDERECO, 'Cajazeiras')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (1967, 1969, ENDERECO, 'PB')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (2013, 2023, ENDERECO, 'Ple
+ESTADO')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (2462, 2472, ENDERECO, 'Cajazeiras')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (2473, 2475, ENDERECO, 'PB')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (2818, 2845, PESSOA, 'CAPITÃO GERALDO JESUS ALVES')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (2857, 2881, PESSOA, 'FRANÇUALDO ALVES DE LIMA')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (3234, 3244, ENDERECO, 'Excelência')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (3397, 3415, ENDERECO, 'Ministério Público')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (3452, 3472, PESSOA, 'TIPIFICAÇÃO DO CRIME')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (3814, 3818, PESSOA, 'Pena')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (3952, 3958, ENDERECO, 'ESTADO')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (4469, 4477, PESSOA, 'DENÚNCIA')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (4661, 4668, ENDERECO, 'CITAÇÃO')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (4855, 4863, PESSOA, 'Protesta')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (4988, 4997, ENDERECO, 'Ipaumirim')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (4998, 5000, ENDERECO, 'CE')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (5026, 5097, PESSOA, 'Serso
+Camilla Rolim de Medeiros
+Promotora de Justiça
+ROL DE TESTEMUNHAS')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (5098, 5109, ENDERECO, 'DECLARANTES')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (5166, 5174, PESSOA, 'Iparmini')
+
+Documento: 283_DEN_93879160
+  anotacao: ---
+  pred:     (5344, 5351, ENDERECO, 'Ipanmin')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (17, 23, ENDERECO, 'Jecky
+')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (71, 94, ENDERECO, 'Vara da Fazenda Pública')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (98, 105, ENDERECO, 'Comarca')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (109, 116, ENDERECO, 'Palhano')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (132, 139, ENDERECO, 'PALHANO')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (199, 214, ENDERECO, 'Estado do Ceará')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (271, 297, ENDERECO, 'Avenida Possidônio Barreto')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (307, 313, ENDERECO, 'Centro')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (315, 328, ENDERECO, 'Palhano-Ceará')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (358, 376, ENDERECO, 'Prefeito Municipal')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (378, 401, ENDERECO, 'IVANILDO NUNES DA SILVA')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (447, 454, ENDERECO, 'Palhano')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (475, 506, ENDERECO, 'Joaquim Rodrigues do Nascimento')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (515, 521, ENDERECO, 'Centro')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (574, 590, PESSOA, 'Vossa Excelência')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (814, 817, PESSOA, 'CPC')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (896, 902, ENDERECO, 'SSTADO')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (952, 958, ENDERECO, 'CENTRO')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (961, 968, ENDERECO, 'Palhano')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (969, 971, ENDERECO, 'CE')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (974, 977, ENDERECO, 'Cep')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (1173, 1205, ENDERECO, 'Cas
+na Dívida Ativa do Município')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (1241, 1251, ENDERECO, 'Servider(a')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (1398, 1402, PESSOA, 'IPTU')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (1437, 1441, PESSOA, 'IPTU')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (1476, 1480, PESSOA, 'IPTU')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (1643, 1649, ENDERECO, 'C.P.C.')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (1788, 1805, ENDERECO, 'Fazenda Municipal')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (1876, 1892, PESSOA, 'Vossa Excelência')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (2725, 2731, ENDERECO, 'CENTRO')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (2734, 2741, ENDERECO, 'Palhano')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (2742, 2744, ENDERECO, 'CE')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (2747, 2750, ENDERECO, 'Cep')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (2834, 2841, ENDERECO, 'Palhano')
+
+Documento: 1116_PINI_125216768
+  anotacao: ---
+  pred:     (2894, 2911, ENDERECO, 'AY-PMP
+PORTARIA N')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (45, 49, ENDERECO, 'TJCE')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (54, 61, ENDERECO, 'Comarca')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (65, 75, ENDERECO, 'Fortaleza
+')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (107, 135, PESSOA, 'Floriano Benevides Magalhaes')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (145, 154, ENDERECO, 'Água Fria')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (172, 176, ENDERECO, 'Fone')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (194, 206, ENDERECO, 'Fortaleza-CE')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (209, 215, ENDERECO, 'E-mail')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (689, 709, ENDERECO, 'Rua Professor Cabral')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (737, 754, ENDERECO, 'Parque Santa Rosa')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (756, 768, ENDERECO, 'Fortaleza-CE')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (1087, 1093, ENDERECO, 'Titela')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (1283, 1292, ENDERECO, 'Memoriais')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (1308, 1326, ENDERECO, 'Ministério Público')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (1639, 1645, PESSOA, 'Decido')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (1647, 1652, ENDERECO, 'Passo')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (1944, 1948, ENDERECO, 'Juiz')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (2174, 2182, ENDERECO, 'Superior')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (2339, 2355, ENDERECO, 'Tribunal do Júri')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (2717, 2719, ENDERECO, 'SC')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (2721, 2724, ENDERECO, 'Rel')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (2782, 2791, ENDERECO, 'Fortaleza')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (2802, 2853, ENDERECO, 'Júri
+Rua Desembargador Floriano Benevides Magalhaes')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (2863, 2872, ENDERECO, 'Água Fria')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (2890, 2894, ENDERECO, 'Fone')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (2912, 2924, ENDERECO, 'Fortaleza-CE')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (2927, 2933, ENDERECO, 'E-mail')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (3379, 3385, ENDERECO, 'Titela')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (3468, 3496, ENDERECO, 'Superior Tribunal
+de Justiça')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (3748, 3760, ENDERECO, 'STJ-6a
+Turma')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (3772, 3774, ENDERECO, 'RJ')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (3776, 3779, ENDERECO, 'Rel')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (3781, 3803, ENDERECO, 'Ministro NEFI CORDEIRO')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (3830, 3845, PESSOA, 'Eugênio Pacelli')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (3905, 3914, ENDERECO, 'São Paulo')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (4550, 4564, ENDERECO, 'Precedente STJ')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (4588, 4590, ENDERECO, 'ES')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (4592, 4595, ENDERECO, 'Rel')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (4597, 4619, ENDERECO, 'Ministro NEFI CORDEIRO')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (5804, 5834, PESSOA, 'Antônio Carlos da Silva
+Santos')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (5964, 5982, ENDERECO, 'Ministério Público')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (6009, 6012, PESSOA, 'CPP')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (6025, 6033, PESSOA, 'Preclusa')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (6114, 6117, ENDERECO, 'CPP')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (6169, 6172, PESSOA, 'CPP')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (6174, 6190, ENDERECO, 'P.R.I.
+Fortaleza')
+
+Documento: 999_SEN_90023409
+  anotacao: ---
+  pred:     (6191, 6193, ENDERECO, 'CE')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (14, 22, ENDERECO, 'ISSINADO')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (38, 42, ENDERECO, 'TJCE')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (77, 92, ENDERECO, 'Estado do Ceará')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (135, 142, ENDERECO, 'RUSSAS
+')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (160, 168, ENDERECO, 'SENHOR(A')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (170, 176, PESSOA, 'JUIZ(A')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (311, 329, PESSOA, 'GEISA FELIPE ALVES')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (392, 397, ENDERECO, 'CEARÁ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (470, 476, PESSOA, 'V. Exa')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (1065, 1083, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (1146, 1152, ENDERECO, 'Estado')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (1320, 1326, ENDERECO, 'pmilia')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (1327, 1345, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (1353, 1368, ENDERECO, 'Estado do Ceará')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (1407, 1428, ENDERECO, 'NOVA RUSSAS
+RODRIGUES')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (2353, 2357, PESSOA, 'Pena')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (2477, 2495, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (2558, 2564, ENDERECO, 'Estado')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (2792, 2806, PESSOA, 'ISSINADO
+Villo')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (2807, 2830, ENDERECO, 'Ministério Público
+TJCE')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (2838, 2853, ENDERECO, 'Estado do Ceará')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (2892, 2904, ENDERECO, 'NOVA RUSSAS
+')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (3414, 3420, ENDERECO, 'Sobral')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (3748, 3763, ENDERECO, 'Major Simplício')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (3846, 3855, ENDERECO, 'Espacinha')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (4021, 4032, ENDERECO, 'Nova Russas')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (4100, 4109, ENDERECO, 'Espacinha')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (4502, 4520, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (4583, 4589, ENDERECO, 'Estado')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (4827, 4831, ENDERECO, 'TJCE')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (4832, 4850, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (4858, 4873, ENDERECO, 'Estado do Ceará')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (4912, 4923, ENDERECO, 'NOVA RUSSAS')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5076, 5082, ENDERECO, 'Sobral')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5094, 5105, ENDERECO, 'Nova Russas')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5309, 5322, ENDERECO, 'Localidade de')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5323, 5334, ENDERECO, 'Nova
+Russas')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5393, 5407, ENDERECO, 'Santa Quitéria')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5408, 5410, ENDERECO, 'Ce')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5412, 5420, ENDERECO, 'Em Juízo')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (5894, 5902, PESSOA, 'Indagado')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (6470, 6488, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (6551, 6557, ENDERECO, 'Estado')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (6794, 6802, ENDERECO, 'ISSINADO')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (6803, 6807, ENDERECO, 'MPCE')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (6808, 6812, ENDERECO, 'TJCE')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (6813, 6831, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (6839, 6854, ENDERECO, 'Estado do Ceará')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (6898, 6904, ENDERECO, 'RUSSAS')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (7393, 7404, ENDERECO, 'Nova Russas')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (7681, 7696, ENDERECO, 'Major
+Simplício')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (7702, 7713, ENDERECO, 'Nova Russas')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (7745, 7754, ENDERECO, 'Espacinha')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (8733, 8739, ENDERECO, 'Estado')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (8967, 8975, ENDERECO, 'ISSINADO')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (8976, 9013, ENDERECO, 'Ministério Público
+do Estado do Ceará')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (9056, 9067, ENDERECO, 'NOVA RUSSAS')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (9356, 9364, ENDERECO, 'Ipueiras')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (9365, 9367, ENDERECO, 'Ce')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (9466, 9474, ENDERECO, 'Ipueiras')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (9611, 9626, ENDERECO, 'Major Simplício')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (9671, 9677, PESSOA, 'Aduziu')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (10389, 10394, ENDERECO, 'Juízo')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (10834, 10852, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (10915, 10921, ENDERECO, 'Estado')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (11139, 11147, ENDERECO, 'ISSINADO')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (11148, 11152, ENDERECO, 'MPCE')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (11153, 11171, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (11179, 11194, ENDERECO, 'Estado do Ceará')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (11233, 11245, ENDERECO, 'NOVA RUSSAS
+')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (11478, 11486, ENDERECO, 'Ipueiras')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (11922, 11933, ENDERECO, 'Nova Russas')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (12944, 12962, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (13025, 13031, ENDERECO, 'Estado')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (13278, 13315, ENDERECO, 'Ministério Público
+do Estado do Ceará')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (13363, 13369, ENDERECO, 'RUSSAS')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (14038, 14056, ENDERECO, 'Rua da Barra Limpa')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (14079, 14090, PESSOA, 'Dona Chagas')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (14892, 14910, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (14973, 14979, ENDERECO, 'Estado')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (15213, 15221, ENDERECO, 'ISSINADO')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (15222, 15226, ENDERECO, 'TJCE')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (15227, 15245, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (15253, 15268, ENDERECO, 'Estado do Ceará')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (15307, 15324, ENDERECO, 'NOVA RUSSAS
+Citou')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (15857, 15864, PESSOA, 'Revelou')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16041, 16055, ENDERECO, 'Santa Quitéria')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16356, 16371, ENDERECO, 'Major Simplício')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16373, 16384, ENDERECO, 'Nova
+Russas')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16385, 16387, ENDERECO, 'Ce')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16599, 16614, ENDERECO, 'Major
+Simplício')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16616, 16627, ENDERECO, 'Nova Russas')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16736, 16744, ENDERECO, 'Ipueiras')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16804, 16819, ENDERECO, 'Major Simplício')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16862, 16880, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (16943, 16949, ENDERECO, 'Estado')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (17183, 17187, ENDERECO, 'TJCE')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (17188, 17206, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (17214, 17229, ENDERECO, 'Estado do Ceará')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (17268, 17280, ENDERECO, 'NOVA RUSSAS
+')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (17649, 17652, ENDERECO, 'STJ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (17656, 17658, ENDERECO, 'HC')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (17672, 17674, ENDERECO, 'SP')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (19149, 19154, ENDERECO, 'Juízo')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (19463, 19468, ENDERECO, 'Corte')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (19521, 19526, ENDERECO, 'Corte')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (19665, 19683, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (19746, 19752, ENDERECO, 'Estado')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (19973, 19981, ENDERECO, 'ISSINADO')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (19992, 20010, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (20018, 20033, ENDERECO, 'Estado do Ceará')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (20072, 20083, ENDERECO, 'NOVA RUSSAS')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (20597, 20605, PESSOA, 'CUSTÓDIA')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (20677, 20696, ENDERECO, 'NATUREZA
+DELETÉRIA
+')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (20735, 20746, PESSOA, 'APREENDIDAS')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (20747, 20761, PESSOA, 'CIRCUNSTÂNCIAS')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (20859, 20866, PESSOA, 'MEDIDAS')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (20983, 20989, ENDERECO, 'ILEGAL')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (21183, 21207, ENDERECO, 'Supremo Tribunal Federal')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (21210, 21213, ENDERECO, 'STF')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (21258, 21261, ENDERECO, 'STJ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (22379, 22397, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (22460, 22466, ENDERECO, 'Estado')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (22697, 22705, ENDERECO, 'ISSINADO')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (22706, 22710, ENDERECO, 'MPCE')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (22742, 22757, ENDERECO, 'Estado do Ceará')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (22796, 22808, ENDERECO, 'NOVA RUSSAS
+')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (22838, 22840, ENDERECO, 'HC')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (22849, 22851, ENDERECO, 'SP')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (22853, 22856, ENDERECO, 'Rel')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (22858, 22886, ENDERECO, 'Ministro JOEL ILAN
+PACIORNIK')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (22996, 23005, ENDERECO, 'FLAGRANTE')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (23105, 23125, PESSOA, 'PERICULUM LIBERTATIS')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (23170, 23194, ENDERECO, 'Supremo Tribunal Federal')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (23568, 23570, ENDERECO, 'RO')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (23572, 23575, ENDERECO, 'Rel')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (23586, 23599, PESSOA, 'Gilmar Mendes')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (24159, 24161, ENDERECO, 'HC')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (24174, 24177, ENDERECO, 'Rel')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (24211, 24222, PESSOA, 'SEXTA TURMA')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (24716, 24724, ENDERECO, 'INDEFIRO')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (24747, 24749, ENDERECO, 'HC')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (24763, 24766, ENDERECO, 'STJ')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (24913, 24931, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (24994, 25000, ENDERECO, 'Estado')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (25235, 25243, ENDERECO, 'ISSINADO')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (25249, 25253, ENDERECO, 'MPCE')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (25254, 25272, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (25280, 25295, ENDERECO, 'Estado do Ceará')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (25339, 25345, ENDERECO, 'RUSSAS')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (25493, 25500, ENDERECO, 'Maconha')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (25503, 25510, ENDERECO, 'Cocaína')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (25857, 25884, ENDERECO, 'Ministério Público Estadual')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (26082, 26086, ENDERECO, 'Pede')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (26100, 26111, ENDERECO, 'Nova Russas')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (26119, 26126, ENDERECO, 'Janeiro')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (26190, 26208, ENDERECO, 'Ministério Público')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (26271, 26277, ENDERECO, 'Estado')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (26527, 26529, ENDERECO, 'A9')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (26538, 26546, ENDERECO, 'Segmeles')
+
+Documento: 283_ALE_94444283
+  anotacao: ---
+  pred:     (26547, 26557, ENDERECO, 'Cocretario')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (0, 9, PESSOA, 'ISSINADO
+')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (45, 49, ENDERECO, 'TJCE')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (54, 61, ENDERECO, 'Comarca')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (65, 74, ENDERECO, 'Fortaleza')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (86, 101, ENDERECO, 'Fazenda Pública')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (102, 148, ENDERECO, 'Rua Desembargador Floriano Benevides Magalhaes')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (157, 166, ENDERECO, 'Água Fria')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (184, 188, ENDERECO, 'Fone')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (206, 218, ENDERECO, 'Fortaleza-CE')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (221, 227, ENDERECO, 'E-mail')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (258, 264, ENDERECO, 'Juiz(a')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (266, 281, ENDERECO, 'Titular da Vara')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (283, 339, PESSOA, 'Ana Paula Feitosa Oliveira
+MANDADO DE INTIMAÇÃO
+Processo')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (370, 377, ENDERECO, 'Apensos')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (544, 553, PESSOA, 'Requerido')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (555, 564, ENDERECO, 'Estado do')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (621, 629, ENDERECO, 'Endereço')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (631, 649, ENDERECO, 'Rua Nelson Studart')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (656, 685, ENDERECO, 'Engenheiro Luciano Cavalcante')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (703, 722, ENDERECO, 'Fortaleza-CE
+rd
+O(A')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (728, 734, ENDERECO, 'Juiz(a')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (755, 778, ENDERECO, 'Vara da Fazenda Pública')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (783, 803, ENDERECO, 'Comarca de
+Fortaleza')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (1004, 1027, ENDERECO, 'Vara da Fazenda Pública')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (1032, 1052, ENDERECO, 'Comarca de Fortaleza')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (1055, 1057, ENDERECO, 'CE')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (1375, 1384, ENDERECO, 'Fortaleza')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (1385, 1387, ENDERECO, 'CE')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (1410, 1416, ENDERECO, 'Juiz(a')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (1434, 1458, ENDERECO, 'Vara da Fazenda Pública
+')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (1509, 1519, ENDERECO, 'Secretaria')
+
+Documento: 7_DES_106028741
+  anotacao: ---
+  pred:     (1525, 1568, ENDERECO, 'Vara da Fazenda Pública
+*00120150235071*
+1
+')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (47, 57, ENDERECO, 'Fortaleza
+')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (95, 99, ENDERECO, 'TJCE')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (100, 146, ENDERECO, 'Rua Desembargador Floriano Benevides Magalhaes')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (156, 165, ENDERECO, 'Água Fria')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (183, 187, ENDERECO, 'Fone')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (189, 201, ENDERECO, 'Fortaleza-CE')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (231, 248, PESSOA, 'SENTENÇA
+Processo')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (343, 361, ENDERECO, 'Edifício
+Exequente')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (450, 469, PESSOA, 'Sancho
+Souza
+Vistos')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (569, 579, PESSOA, 'Brevíssimo')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (588, 594, PESSOA, 'DECIDO')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (805, 809, PESSOA, 'NCPC')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (1053, 1057, PESSOA, 'NCPC')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (1327, 1332, ENDERECO, 'SEJUD')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (1407, 1423, ENDERECO, 'P.R.I.
+Fortaleza')
+
+Documento: 159_SEN_92401478
+  anotacao: ---
+  pred:     (1424, 1426, ENDERECO, 'CE')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (49, 56, ENDERECO, 'Comarca')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (60, 89, ENDERECO, 'Mauriti
+Vara Única da Comarca')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (93, 101, ENDERECO, 'Mauriti
+')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (134, 140, ENDERECO, 'Centro')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (158, 162, ENDERECO, 'Fone')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (180, 190, ENDERECO, 'Mauriti-CE')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (268, 275, ENDERECO, 'Apensos')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (287, 294, ENDERECO, 'Apensos')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (351, 406, ENDERECO, 'Flagrante
+Assunto:
+Violência Doméstica Contra a Mulher
+')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (427, 477, ENDERECO, 'Delegacia Regional de Polícia Civil de Brejo Santo')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (478, 488, ENDERECO, 'ce
+Autuado')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (496, 508, PESSOA, 'Sergio Gomes')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (960, 964, ENDERECO, 'UlHO')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (976, 998, ENDERECO, 'Cidade de BREJO SANTO/')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (998, 1000, ENDERECO, 'CE')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (1295, 1321, ENDERECO, 'Delegacia de
+Polícia Civil')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (3108, 3113, ENDERECO, 'Juízo')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (3155, 3162, ENDERECO, 'Comarca')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (3231, 3238, ENDERECO, 'Comarca')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (3242, 3256, ENDERECO, 'BREJO SANTO/CE')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (3283, 3290, ENDERECO, 'Mauriti')
+
+Documento: 283_DEC_81349285
+  anotacao: ---
+  pred:     (3291, 3293, ENDERECO, 'CE')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (0, 5, ENDERECO, 'STADO')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (107, 130, PESSOA, 'Sr. Dr. Juiz de Direito')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (136, 212, ENDERECO, 'Vara Criminal da Comarca de Fortaleza
+PROCESSO N° 0112866-13.2017.8.06.0001
+')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (239, 258, ENDERECO, 'Ministério Público
+')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (315, 323, PESSOA, 'DENÚNCIA')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (367, 377, PESSOA, 'Denunciado')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (439, 457, ENDERECO, 'Ministério Público')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (564, 570, PESSOA, 'V. Exa')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (787, 796, ENDERECO, 'Fortaleza')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (797, 799, ENDERECO, 'CE')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (801, 810, ENDERECO, 'Residente')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (813, 827, ENDERECO, 'Rua José Vilar')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (836, 840, PESSOA, 'Casa')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (845, 860, ENDERECO, 'Bairro Meireles')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (862, 871, ENDERECO, 'Fortaleza')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (872, 874, ENDERECO, 'CE')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (1029, 1043, ENDERECO, 'Bairro Aldeota')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (1518, 1537, PESSOA, 'Policiais Militares')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (1750, 1769, ENDERECO, 'Autoridade Policial')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (1771, 1792, ENDERECO, 'RENATO
+CAZUZA DE LIMA')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (2011, 2029, ENDERECO, 'Ministério Público')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (2510, 2519, ENDERECO, 'Fortaleza')
+
+Documento: 999_DEN_92284508
+  anotacao: ---
+  pred:     (2520, 2522, ENDERECO, 'CE')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (0, 8, ENDERECO, 'ISSINADO')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (135, 138, ENDERECO, 'Ref')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (320, 338, ENDERECO, 'Procuradoria-Geral')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (342, 351, ENDERECO, 'Município')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (503, 507, ENDERECO, 'Pede')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (521, 530, ENDERECO, 'Maracanaú')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (610, 612, ENDERECO, 'Zm')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (669, 729, ENDERECO, 'Procuradora do Município
+arquivaments definities
+Servidor of')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (748, 757, ENDERECO, 'Minicipie')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (790, 815, ENDERECO, 'Palácio Antônio Gonçalves')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (841, 847, ENDERECO, 'Rua 01')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (857, 880, ENDERECO, 'Conjunto Novo Maracanaú')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (882, 891, ENDERECO, 'Maracanaú')
+
+Documento: 1116_PINI_80230742
+  anotacao: ---
+  pred:     (893, 898, ENDERECO, 'Ceará')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (0, 17, ENDERECO, 'GOVERNO DO ESTADO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (257, 282, ENDERECO, 'Delegada de Policia Civil')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (429, 436, ENDERECO, 'RESOLVE')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (464, 482, ENDERECO, 'Inquérito Policial')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (636, 665, PESSOA, 'JOÃO PAULO BEZERRA DOS SANTOS')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (1021, 1039, ENDERECO, 'Inquérito Policial')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (1451, 1461, ENDERECO, 'Prosseguir')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (1558, 1597, PESSOA, 'Ana Ursulinz Tavares Rodrigues de Lima
+')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (1982, 2004, ENDERECO, 'CE
+Ponto de Referência')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (2414, 2443, ENDERECO, 'Companhia Energética do Ceará')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (2486, 2492, ENDERECO, 'CONLCE')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (2638, 2647, ENDERECO, 'Aurora-CE')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (2725, 2742, ENDERECO, 'agência da COFLCE')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (2963, 2967, PESSOA, 'R.O.')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3089, 3101, ENDERECO, 'Noticiante(s')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3110, 3148, PESSOA, 'JOAO PAULO BEZERRA DOS SANTOS
+Endereço')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3183, 3189, ENDERECO, 'RURAL
+')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3407, 3431, PESSOA, 'Parlo benerro don Savto7')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3715, 3721, ENDERECO, 'ESTADO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3725, 3730, ENDERECO, 'CEARÁ')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3782, 3808, PESSOA, 'Paula Beganing don Ganter
+')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (3924, 3934, ENDERECO, 'JOAO PAULO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (4095, 4101, ENDERECO, '8252 L')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (4196, 4207, PESSOA, 'DE.29/08/83')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (4297, 4303, ENDERECO, 'ESTADO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (4375, 4389, PESSOA, 'DPI/21a DRPCBS')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (4553, 4639, ENDERECO, 'Excelentíssimo Senhor Delegado Geral de
+Polícia Civil RAIMUNDO DE SOUZA ANDRADE JUNIOR')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (5275, 5294, ENDERECO, 'Delegacia Municipal')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (5410, 5415, ENDERECO, 'Barro')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (5416, 5418, ENDERECO, 'CE')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (5540, 5564, ENDERECO, 'Cartório desta Municipal')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (5681, 5690, ENDERECO, 'REMETA AO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (5783, 5801, ENDERECO, 'Ministério Público')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (6109, 6115, ENDERECO, 'ESTADO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (6187, 6201, PESSOA, 'DPI/21a DRPCBS')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (6492, 6500, ENDERECO, 'Delegada')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (6504, 6517, ENDERECO, 'Polícia Civil')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (6871, 6914, ENDERECO, 'Hilch
+Francisco Finezio Ferreira de Azevedo')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7024, 7030, ENDERECO, 'ESTADO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7105, 7112, ENDERECO, 'Rua Cel')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7114, 7124, PESSOA, 'José Leite')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7131, 7136, ENDERECO, 'Araçá')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7139, 7143, ENDERECO, 'Fone')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7222, 7224, ENDERECO, 'MP')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7276, 7280, ENDERECO, 'JOAO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7295, 7319, ENDERECO, 'Juiz de Direito//Titular')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7417, 7422, ENDERECO, 'CEARÁ')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7535, 7551, ENDERECO, 'Senhora Delegada')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7683, 7712, PESSOA, 'João Paulo Bezerra dos Santos')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7737, 7756, ENDERECO, 'Autoridade
+Policial')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (7825, 7834, ENDERECO, 'Inquérito')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (8026, 8044, ENDERECO, 'Polícia
+Judiciária')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (8281, 8287, PESSOA, 'Aurora')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (8384, 8402, ENDERECO, 'Ministério Público')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (8465, 8471, ENDERECO, 'Estado')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (8682, 8688, ENDERECO, 'ESTADO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (8863, 8869, PESSOA, 'PEDIDO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (8910, 8929, ENDERECO, 'Excelentíssimo Juiz')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (9260, 9263, PESSOA, 'CPP')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (9297, 9315, ENDERECO, 'Ministério Público')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (9942, 9976, ENDERECO, 'OLIVEIRA
+Delegado de Polícia Civil')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (10082, 10087, ENDERECO, 'CEARÁ')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (10202, 10211, PESSOA, 'C/ Vistas')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (10213, 10217, PESSOA, 'Exmo')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (10219, 10227, ENDERECO, 'Delegado')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (10590, 10599, ENDERECO, 'Aurora-CE')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (10764, 10770, ENDERECO, 'ESTADO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (10774, 10790, ENDERECO, 'CEARÁ
+SECRETARÍA')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (10941, 10947, PESSOA, 'PEDIDO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (10988, 11007, ENDERECO, 'Excelentíssimo Juiz')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (11338, 11341, PESSOA, 'CPP')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (11375, 11393, ENDERECO, 'Ministério Público')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (12226, 12308, ENDERECO, 'Departamento de Polícia do Interior
+DELEGACIA MUNICIPAL DE POLÍCIA CIVIL DE AURORA')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (12309, 12314, ENDERECO, 'BARRO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (12375, 12404, PESSOA, 'JOÃO PAULO BEZERRA DOS SANTOS')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (12520, 12524, PESSOA, 'Exmo')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (12526, 12560, PESSOA, 'Sr. PAULO HERNESTO
+PEREIRA TAVARES')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (12618, 12644, ENDERECO, 'Delegacia de Polícia
+Civil')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (12661, 12672, ENDERECO, 'Aurora - CE')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (12882, 12898, PESSOA, 'Vossa Excelência')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (13348, 13367, ENDERECO, 'Sítio Logradorzinho')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (13369, 13379, ENDERECO, 'Zona Rural')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (13381, 13390, ENDERECO, 'Aurora/CE')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (13571, 13583, ENDERECO, 'COELCE- ENEL')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (14997, 15079, ENDERECO, 'Departamento de Polícia do Interior
+DELEGACIA MUNICIPAL DE POLÍCIA CIVIL DE AURORA')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (15080, 15085, ENDERECO, 'BARRO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (15088, 15091, ENDERECO, 'CE
+')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (15723, 15726, ENDERECO, 'STF')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (15917, 15935, PESSOA, 'DAS CIRCUNSTÂNCIAS')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (16011, 16026, PESSOA, 'V. ARBITRAMENTO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (16831, 16913, ENDERECO, 'Departamento de Polícia do Interior
+DELEGACIA MUNICIPAL DE POLÍCIA CIVIL DE AURORA')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (16914, 16919, ENDERECO, 'BARRO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (16922, 16924, ENDERECO, 'CE')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (17307, 17325, ENDERECO, 'Polícia Judiciária')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (17408, 17424, PESSOA, 'Vossa Excelência')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (17488, 17494, PESSOA, 'Aurora')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (17518, 17540, PESSOA, 'PAULO HERNESTO PEREIRA')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (17611, 17616, ENDERECO, 'BARRO')
+
+Documento: 279_INQ_88114167
+  anotacao: ---
+  pred:     (17619, 17642, ENDERECO, 'CE
+MATRÍCULA 301194-0-1')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (0, 17, ENDERECO, 'GOVERNO DO
+ESTADO')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (95, 104, ENDERECO, 'Fortaleza')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (130, 134, PESSOA, 'Exmo')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (147, 151, ENDERECO, 'Juiz')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (168, 189, ENDERECO, 'Comparecimento
+Senhor')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (194, 200, ENDERECO, 'Juiz(a')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (340, 353, ENDERECO, 'Coordenadoria')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (584, 588, ENDERECO, 'Vara')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (702, 707, ENDERECO, 'Juízo')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (873, 947, PESSOA, 'Elton Alves Gurgel
+Coordenador de Alternativas Penais
+Matrícula 431044-1-1')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (948, 984, ENDERECO, 'Coordenadoria de Alternativas Penais')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (985, 1004, ENDERECO, 'Av. Heráclito Graça')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (1012, 1019, ENDERECO, 'Centro
+')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (1060, 1069, ENDERECO, 'Fortaleza')
+
+Documento: 999_PET_94444899
+  anotacao: ---
+  pred:     (1072, 1077, ENDERECO, 'Ceará')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (45, 49, ENDERECO, 'TJCE')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (65, 73, ENDERECO, 'Barbalha')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (85, 92, ENDERECO, 'Comarca')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (96, 105, ENDERECO, 'Barbalha
+')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (128, 134, ENDERECO, 'Centro')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (174, 185, ENDERECO, 'Barbalha-CE')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (188, 194, ENDERECO, 'E-mail')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (218, 227, PESSOA, 'SENTENÇA
+')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (349, 390, ENDERECO, 'Cidade Kariris Residencial Club
+Executado')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (427, 439, ENDERECO, 'Souza
+Vistos')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (561, 569, PESSOA, 'FERNANDO')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (816, 819, PESSOA, 'CPC')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (850, 853, PESSOA, 'reu')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (1297, 1305, ENDERECO, 'Barbalha')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (1306, 1308, ENDERECO, 'CE')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (1332, 1361, PESSOA, 'Marcelino Emidio Maciel Filho')
+
+Documento: 159_SEN_83104641
+  anotacao: ---
+  pred:     (1362, 1412, ENDERECO, 'Juiz de Direito
+Assinado por Certificação Digital¹')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (47, 55, ENDERECO, 'Ararendá')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (56, 65, ENDERECO, 'ISSINADO
+')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (65, 86, ENDERECO, 'Vara Única da Comarca')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (90, 98, ENDERECO, 'Ararendá')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (99, 103, ENDERECO, 'TJCE')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (104, 133, ENDERECO, 'Rua Prefeito Francisco Landim')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (140, 146, ENDERECO, 'Centro')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (186, 194, ENDERECO, 'Ararenda')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (266, 273, ENDERECO, 'Apensos')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (285, 292, ENDERECO, 'Apensos')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (425, 471, ENDERECO, 'Policia Civil do Estado do Ceará
+Indiciado
+ose')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (717, 726, PESSOA, 'inciso II')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (733, 742, PESSOA, 'inciso II')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (847, 865, ENDERECO, 'Inquérito
+Policial')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (968, 971, ENDERECO, 'CPP')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (1336, 1344, ENDERECO, 'RECEBO-A')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (1396, 1399, ENDERECO, 'CPP')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (2006, 2024, ENDERECO, 'Ministério Público')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (2073, 2103, ENDERECO, 'Ararendá
+Vara Única da Comarca')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (2107, 2115, ENDERECO, 'Ararendá')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (2116, 2145, ENDERECO, 'Rua Prefeito Francisco Landim')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (2152, 2158, ENDERECO, 'Centro')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (2198, 2209, PESSOA, 'Ararenda-CE')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (2323, 2331, ENDERECO, 'Ararenda')
+
+Documento: 283_DEC_91094850
+  anotacao: ---
+  pred:     (2332, 2334, ENDERECO, 'CE')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (93, 102, ENDERECO, 'ACONTICER')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (108, 122, ENDERECO, 'Queiroz Pessoa')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (148, 159, ENDERECO, 'Banabuiú-CE')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (205, 221, PESSOA, 'EXCELENTÍSSIMO(A')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (233, 241, ENDERECO, 'DOUTOR(A')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (243, 249, PESSOA, 'JUIZ(A')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (490, 512, ENDERECO, 'Avenida Queiroz Pessoa')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (522, 528, ENDERECO, 'Centro')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (530, 538, ENDERECO, 'Banabuiú')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (540, 545, ENDERECO, 'Ceará')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (662, 671, PESSOA, 'Requerido')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (879, 887, ENDERECO, 'Banabuiú')
+
+Documento: 1116_PET_92540251
+  anotacao: ---
+  pred:     (944, 946, ENDERECO, 'CE')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (36, 111, ENDERECO, 'EXCELENTÍSSIMA SENHORA DOUTORA JUIZA DE DIREITO DA
+TERCEIRA VARA DA COMARCA')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (278, 328, ENDERECO, 'Instituição Presidio
+Industrial Regional do Cariri')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (332, 347, ENDERECO, 'Estado do Ceará')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (414, 430, PESSOA, 'Vossa Excelencia')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (644, 654, ENDERECO, 'Requerente')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (904, 920, ENDERECO, 'Juiz Plantonista')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (1351, 1366, ENDERECO, 'Rua Pedro Gomes')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (1374, 1383, ENDERECO, 'Taboleiro')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (1386, 1392, ENDERECO, 'Iguatu')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (1395, 1400, ENDERECO, 'Ceará')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (1533, 1557, PESSOA, 'Terceira Vara Da Comarca')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (1561, 1570, ENDERECO, 'Iguatu-Ce')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (1673, 1679, ENDERECO, 'Prisão')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (1821, 1836, ENDERECO, 'Vara da Comarca')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (1840, 1846, ENDERECO, 'Iguatu')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (1869, 1895, ENDERECO, 'Excelentíssimo Senhor Juiz')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (2117, 2135, ENDERECO, 'Ministério Público')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (2702, 2720, ENDERECO, 'Ministério Público')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (3006, 3024, ENDERECO, 'Ministério Público')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (3122, 3129, ENDERECO, 'Pereira')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (3314, 3332, ENDERECO, 'Ministério Público')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (3680, 3695, ENDERECO, 'Rua Pedro Gomes')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (3703, 3712, ENDERECO, 'Taboleiro')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (3715, 3721, ENDERECO, 'Iguatu')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (3724, 3729, ENDERECO, 'Ceará')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (3895, 3901, ENDERECO, 'Estado')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (4116, 4134, ENDERECO, 'Ministério Público')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (4421, 4439, ENDERECO, 'Ministério Público')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (4602, 4612, ENDERECO, 'Magistrada')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (4706, 4725, ENDERECO, 'Servidora
+Municipal')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (4834, 4854, PESSOA, 'Alexandre de Freitas')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (4856, 4869, ENDERECO, 'Juíza Titular')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (5221, 5239, ENDERECO, 'Ministério Público')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (5388, 5406, ENDERECO, 'Ministério Público')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (5569, 5587, ENDERECO, 'Ministério Público')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (5807, 5825, ENDERECO, 'Ministério Público')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (5886, 5889, ENDERECO, 'CPP')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (6094, 6109, ENDERECO, 'Rua Pedro Gomes')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (6117, 6126, ENDERECO, 'Taboleiro')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (6129, 6135, ENDERECO, 'Iguatu')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (6138, 6143, ENDERECO, 'Ceará')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (6528, 6531, ENDERECO, 'STJ')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (6656, 6664, ENDERECO, 'CRIMINAL')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (6689, 6710, PESSOA, 'FORMAÇÃO DE QUADRILHA')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (7080, 7091, PESSOA, 'I. Hipótese')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (7207, 7225, ENDERECO, 'Ministério Público')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (7275, 7283, ENDERECO, 'Tribunal')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (7317, 7336, PESSOA, 'Promotor de Justiça')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (7340, 7347, ENDERECO, 'Comarca')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (7404, 7413, ENDERECO, 'Flagrante')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (7536, 7551, ENDERECO, 'Estado-Acusação')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (7677, 7682, ENDERECO, 'Corte')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (7924, 7932, PESSOA, 'V. Ordem')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (8108, 8124, ENDERECO, 'Juízo de 1° grau')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (8195, 8198, ENDERECO, 'STJ')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (8200, 8212, ENDERECO, 'Quinta Turma')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (8214, 8216, ENDERECO, 'HC')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (8224, 8226, ENDERECO, 'MT')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (8228, 8235, PESSOA, 'Relator')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (8236, 8256, PESSOA, 'Ministro Gilson Dipp')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (8356, 8371, ENDERECO, 'Rua Pedro Gomes')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (8379, 8388, ENDERECO, 'Taboleiro')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (8391, 8397, ENDERECO, 'Iguatu')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (8400, 8405, ENDERECO, 'Ceará')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (8686, 8692, ENDERECO, 'Defesa')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (9475, 9481, PESSOA, 'LXVIII')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (9898, 9904, ENDERECO, 'Brasil')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (10093, 10109, PESSOA, 'Provisionalidade')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (10111, 10125, ENDERECO, 'Provisoriedade')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (10167, 10183, PESSOA, 'Provisionalidade')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (10297, 10300, ENDERECO, 'CPP')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (10330, 10344, ENDERECO, 'PROVISORIEDADE')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (10444, 10459, ENDERECO, 'Rua Pedro Gomes')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (10467, 10476, ENDERECO, 'Taboleiro')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (10479, 10485, ENDERECO, 'Iguatu')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (10488, 10493, ENDERECO, 'Ceará')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (10607, 10621, ENDERECO, 'Provisoriedade')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (11207, 11224, PESSOA, 'Aury Lopes Junior')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (11406, 11409, ENDERECO, 'UNA')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (12642, 12657, ENDERECO, 'Rua Pedro Gomes')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (12665, 12674, ENDERECO, 'Taboleiro')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (12677, 12683, ENDERECO, 'Iguatu')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (12686, 12691, ENDERECO, 'Ceará')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (12900, 12906, PESSOA, 'Sumula')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (12923, 12925, PESSOA, 'EC')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (12960, 12962, ENDERECO, 'El')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (12964, 12967, ENDERECO, 'Min')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (12969, 12997, PESSOA, 'Maria Thereza de Assis Moura')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (13024, 13048, ENDERECO, 'SUPREMO TRIBUNAL FEDERAL')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (13136, 13183, ENDERECO, 'Quinta Turma do E. Superior Tribunal de
+Justiça')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (13231, 13233, ENDERECO, 'SP')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (13313, 13322, PESSOA, 'PRONÚNCIA')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (13327, 13333, ENDERECO, 'MANTÉM')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (13611, 13622, PESSOA, 'LIBERTATIS"')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (13670, 13694, ENDERECO, 'SUPREMO TRIBUNAL FEDERAL')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (14357, 14361, ENDERECO, 'País')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (14712, 14714, ENDERECO, 'SP')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (14791, 14806, ENDERECO, 'Rua Pedro Gomes')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (14814, 14823, ENDERECO, 'Taboleiro')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (14826, 14832, ENDERECO, 'Iguatu')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (14835, 14840, ENDERECO, 'Ceará')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (14995, 14998, ENDERECO, 'STF')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (15592, 15598, ENDERECO, 'Estado')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (15633, 15655, PESSOA, 'Dirley da Cunha Junior')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (15716, 15722, ENDERECO, 'Estado')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (15967, 15973, ENDERECO, 'Estado')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (16068, 16074, ENDERECO, 'Estado')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (16296, 16309, ENDERECO, 'Estado Social')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (16312, 16334, PESSOA, 'Democrático de Direito')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (16402, 16405, ENDERECO, 'STF')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (16606, 16623, ENDERECO, 'Inadmissibilidade')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (16899, 16914, ENDERECO, 'Rua Pedro Gomes')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (16922, 16931, ENDERECO, 'Taboleiro')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (16934, 16940, ENDERECO, 'Iguatu')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (16943, 16948, ENDERECO, 'Ceará')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (17135, 17137, ENDERECO, 'HC')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (17144, 17146, ENDERECO, 'DF')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (17148, 17159, PESSOA, 'Relator Min')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (17161, 17173, PESSOA, 'Cezar Peluso')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (17205, 17211, PESSOA, 'Merece')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (17235, 17249, PESSOA, 'Tourinho Filho')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (17461, 17475, PESSOA, 'Bento de Faria')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (17507, 17513, ENDERECO, 'Estado')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (17968, 17979, ENDERECO, 'ILEGALIDADE')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (18169, 18172, ENDERECO, 'LXV')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (18283, 18289, ENDERECO, 'REQUER')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (18481, 18488, ENDERECO, 'Justiça')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (18505, 18509, ENDERECO, 'Pede')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (18523, 18529, ENDERECO, 'Iguatu')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (18599, 18601, ENDERECO, 'CE')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (18684, 18699, ENDERECO, 'Rua Pedro Gomes')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (18707, 18716, ENDERECO, 'Taboleiro')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (18719, 18725, ENDERECO, 'Iguatu')
+
+Documento: 999_PET_91319463
+  anotacao: ---
+  pred:     (18728, 18733, ENDERECO, 'Ceará')
+
+Documento: 283_DEN_105110798
+  anotacao: ---
+  pred:     (0, 7, ENDERECO, 'Quixadá')
+
+Documento: 283_DEN_105110798
+  anotacao: ---
+  pred:     (13, 28, ENDERECO, 'Vara da Comarca')
+
+Documento: 283_DEN_105110798
+  anotacao: ---
+  pred:     (32, 39, ENDERECO, 'Quixadá')
+
+Documento: 283_DEN_105110798
+  anotacao: ---
+  pred:     (123, 127, ENDERECO, 'Fag
+')
+
+Documento: 283_DEN_105110798
+  anotacao: ---
+  pred:     (196, 214, ENDERECO, 'Criminal Interior
+')
+
+Documento: 283_DEN_105110798
+  anotacao: ---
+  pred:     (250, 283, ENDERECO, 'Delegacia Regional de
+Quixadá
+Aut')
+
+Documento: 283_DEN_105110798
+  anotacao: ---
+  pred:     (289, 322, ENDERECO, 'Delegacia Regional de Quixadá-CE
+')
+
+Documento: 283_DEN_105110798
+  anotacao: ---
+  pred:     (541, 545, ENDERECO, 'Vara')
+
+
+==== CASOS FALSO_NEGATIVO ====
+
+Documento: 279_DEC_92800402
+  anotacao: (1985, 1993, PESSOA, 'mirabete')
+  pred:     ---
+
+Documento: 279_DEC_92800402
+  anotacao: (2215, 2229, PESSOA, 'tourinho filho')
+  pred:     ---
+
+Documento: 279_DEC_92800402
+  anotacao: (652, 669, PESSOA, 'alex matos amaral')
+  pred:     ---
+
+Documento: 283_DEC_107630371
+  anotacao: (2185, 2191, PESSOA, 'pefoce')
+  pred:     ---
+
+Documento: 283_DEC_107630371
+  anotacao: (521, 550, PESSOA, 'joão márcio da silva ferreira')
+  pred:     ---
+
+Documento: 283_DEN_93879160
+  anotacao: (747, 840, ENDERECO, 'rua vicente feitosa neto, s/n, quadra 19-a, lote 13, bairro
+ronaldo cunha lima, cajazeiras/pb')
+  pred:     ---
+
+Documento: 283_DEN_93879160
+  anotacao: (5032, 5057, PESSOA, 'camilla rolim de medeiros')
+  pred:     ---
+
+Documento: 283_DEN_93879160
+  anotacao: (2818, 2929, PESSOA, 'capitão geraldo jesus alves (fls. 04),
+françualdo alves de lima (fls. 05) e cosmo rodrigo de sousa lima
+(60/61)')
+  pred:     ---
+
+Documento: 283_DEN_93879160
+  anotacao: (5304, 5331, PESSOA, 'cosmo rodrigo de sousa lima')
+  pred:     ---
+
+Documento: 283_DEN_93879160
+  anotacao: (1219, 1242, PESSOA, 'expedito feliz da silva')
+  pred:     ---
+
+Documento: 283_DEN_93879160
+  anotacao: (5113, 5136, PESSOA, 'expedito feliz da silva')
+  pred:     ---
+
+Documento: 1116_PINI_125216768
+  anotacao: (271, 328, ENDERECO, 'avenida possidônio barreto, n° 330, centro, palhano-ceará')
+  pred:     ---
+
+Documento: 1116_PINI_125216768
+  anotacao: (917, 971, ENDERECO, 'rua francisco pedro da silva, 58 - centro - palhano/ce')
+  pred:     ---
+
+Documento: 1116_PINI_125216768
+  anotacao: (2690, 2744, ENDERECO, 'rua francisco pedro da silva, 58 - centro - palhano/ce')
+  pred:     ---
+
+Documento: 1116_PINI_125216768
+  anotacao: (846, 873, PESSOA, 'nilbamar da silva rodrigues')
+  pred:     ---
+
+Documento: 999_SEN_90023409
+  anotacao: (689, 768, ENDERECO, 'rua professor cabral,
+próximo ao número 390, no parque santa rosa, fortaleza-ce')
+  pred:     ---
+
+Documento: 999_SEN_90023409
+  anotacao: (422, 439, PESSOA, 'órgão ministerial')
+  pred:     ---
+
+Documento: 999_SEN_90023409
+  anotacao: (1308, 1326, PESSOA, 'ministério público')
+  pred:     ---
+
+Documento: 999_SEN_90023409
+  anotacao: (5964, 5982, PESSOA, 'ministério público')
+  pred:     ---
+
+Documento: 999_SEN_90023409
+  anotacao: (1087, 1093, PESSOA, 'titela')
+  pred:     ---
+
+Documento: 999_SEN_90023409
+  anotacao: (3379, 3385, PESSOA, 'titela')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (360, 397, PESSOA, 'ministério público do estado do ceará')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (25857, 25884, PESSOA, 'ministério público estadual')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (774, 799, PESSOA, 'andré luís portela amadeu')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (1419, 1428, PESSOA, 'rodrigues')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (8440, 8449, PESSOA, '"gigante"')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (16561, 16570, PESSOA, 'guilherme')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (16759, 16764, PESSOA, 'geisa')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (16767, 16772, PESSOA, 'andré')
+  pred:     ---
+
+Documento: 283_ALE_94444283
+  anotacao: (25962, 25987, PESSOA, 'andré luis portela amadeu')
+  pred:     ---
+
+Documento: 7_DES_106028741
+  anotacao: (456, 543, PESSOA, 'associação dos servidores do ministério público do estado do
+ceará - a ssempece e outro')
+  pred:     ---
+
+Documento: 7_DES_106028741
+  anotacao: (29, 44, PESSOA, 'estado do ceará')
+  pred:     ---
+
+Documento: 7_DES_106028741
+  anotacao: (555, 570, PESSOA, 'estado do ceará')
+  pred:     ---
+
+Documento: 159_SEN_92401478
+  anotacao: (363, 394, PESSOA, 'condomínio do edifício c. rolim')
+  pred:     ---
+
+Documento: 283_DEC_81349285
+  anotacao: (2693, 2719, PESSOA, 'paulo sérgio gomes melindo')
+  pred:     ---
+
+Documento: 283_DEC_81349285
+  anotacao: (730, 761, PESSOA, 'maria do socorro nicácio araujo')
+  pred:     ---
+
+Documento: 999_DEN_92284508
+  anotacao: (813, 874, ENDERECO, 'rua josé vilar n° 495, casa
+74, bairro meireles, fortaleza/ce')
+  pred:     ---
+
+Documento: 999_DEN_92284508
+  anotacao: (1771, 1792, PESSOA, 'renato
+cazuza de lima')
+  pred:     ---
+
+Documento: 999_DEN_92284508
+  anotacao: (2389, 2417, PESSOA, 'geraldo santos feitosa filho')
+  pred:     ---
+
+Documento: 999_DEN_92284508
+  anotacao: (2432, 2459, PESSOA, 'regimildo amarante da silva')
+  pred:     ---
+
+Documento: 999_DEN_92284508
+  anotacao: (2474, 2498, PESSOA, 'jefferson araújo martins')
+  pred:     ---
+
+Documento: 999_DEN_92284508
+  anotacao: (1175, 1196, PESSOA, 'lucas parente andrade')
+  pred:     ---
+
+Documento: 999_DEN_92284508
+  anotacao: (1210, 1231, PESSOA, 'lucas parente andrade')
+  pred:     ---
+
+Documento: 999_DEN_92284508
+  anotacao: (1633, 1654, PESSOA, 'lucas parente andrade')
+  pred:     ---
+
+Documento: 999_DEN_92284508
+  anotacao: (2353, 2374, PESSOA, 'lucas parente andrade')
+  pred:     ---
+
+Documento: 1116_PINI_80230742
+  anotacao: (841, 913, ENDERECO, 'rua 01, n° 652, conjunto novo maracanaú, maracanaú, ceará
+cep 61.905-430')
+  pred:     ---
+
+Documento: 1116_PINI_80230742
+  anotacao: (257, 279, PESSOA, 'município de maracanaú')
+  pred:     ---
+
+Documento: 1116_PINI_80230742
+  anotacao: (320, 351, PESSOA, 'procuradoria-geral do município')
+  pred:     ---
+
+Documento: 279_INQ_88114167
+  anotacao: (3151, 3220, ENDERECO, 'sit logradorzinho
+bairro
+: zona rural
+município/uf : aurora ce brasil')
+  pred:     ---
+
+Documento: 279_INQ_88114167
+  anotacao: (3453, 3483, PESSOA, 'ana ursulina tavares rodrigues')
+  pred:     ---
+
+Documento: 279_INQ_88114167
+  anotacao: (4607, 4639, PESSOA, 'raimundo de souza andrade junior')
+  pred:     ---
+
+Documento: 279_INQ_88114167
+  anotacao: (17518, 17577, PESSOA, 'paulo hernesto pereira tavares
+jern herwesco peretar tarces')
+  pred:     ---
+
+Documento: 279_INQ_88114167
+  anotacao: (7276, 7294, PESSOA, 'joao pimentelbrito')
+  pred:     ---
+
+Documento: 279_INQ_88114167
+  anotacao: (3964, 3985, PESSOA, 'paulo jose dos santos')
+  pred:     ---
+
+Documento: 279_INQ_88114167
+  anotacao: (3988, 4019, PESSOA, 'maria
+t
+ilva bezerra dos santos')
+  pred:     ---
+
+Documento: 279_INQ_88114167
+  anotacao: (6877, 6922, PESSOA, 'francisco finezio ferreira de azevedo segundo')
+  pred:     ---
+
+Documento: 279_INQ_88114167
+  anotacao: (8310, 8361, PESSOA, 'anedowned shut emmalls
+rembrandt de matos esmeraldo')
+  pred:     ---
+
+Documento: 999_PET_94444899
+  anotacao: (873, 890, PESSOA, 'elton alves gurge')
+  pred:     ---
+
+Documento: 999_PET_94444899
+  anotacao: (223, 244, PESSOA, 'jose ribamar de souza')
+  pred:     ---
+
+Documento: 159_SEN_83104641
+  anotacao: (349, 380, PESSOA, 'cidade kariris residencial club')
+  pred:     ---
+
+Documento: 159_SEN_83104641
+  anotacao: (512, 545, PESSOA, 'cidades kariris residencial clube')
+  pred:     ---
+
+Documento: 283_DEC_91094850
+  anotacao: (502, 529, PESSOA, 'ministério público estadual')
+  pred:     ---
+
+Documento: 1116_PET_92540251
+  anotacao: (490, 545, ENDERECO, 'avenida queiroz pessoa, n° 435, centro, banabuiú, ceará')
+  pred:     ---
+
+Documento: 1116_PET_92540251
+  anotacao: (389, 408, PESSOA, 'rui araujo de sousa')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (2117, 2135, PESSOA, 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (2702, 2720, PESSOA, 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (3006, 3024, PESSOA, 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (3314, 3332, PESSOA, 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (4116, 4134, PESSOA, 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (4421, 4439, PESSOA, 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (5221, 5239, PESSOA, 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (5388, 5406, PESSOA, 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (5569, 5587, PESSOA, 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (5807, 5825, PESSOA, 'ministério público')
+  pred:     ---
+
+Documento: 999_PET_91319463
+  anotacao: (7207, 7225, PESSOA, 'ministério público')
+  pred:     ---

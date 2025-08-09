@@ -4,7 +4,7 @@ from presidio_analyzer.nlp_engine import (
     NlpEngine,
     TransformersNlpEngine
 )
-from typing import Literal
+
 from customized_recognizers.cpf_recognizer import CPFRecognizer
 from customized_recognizers.rg_recognizer import RGRecognizer
 from customized_recognizers.cep_recognizer import CEPRecognizer
@@ -24,14 +24,16 @@ def create_model_spacy(language : str, spacy_model : str) -> NlpEngine:
     return engine_pt.create_engine()
 
 def create_model_transformers(language: str, spacy_model: str, transformers_model: str):
-    engine_pt = TransformersNlpEngine(models=[{
-                    "lang_code": language,
-                    "model_name": {
-                        "spacy": spacy_model,
-                        "transformers": transformers_model
-                    }
-                }])
-    return engine_pt
+    engine = TransformersNlpEngine(models=[{
+        "lang_code": language,
+        "model_name": {
+            "spacy": spacy_model,
+            "transformers": transformers_model
+        }
+    }])
+    return engine
+
+
 
 def create_analyzer(nlp_engine: object, supported_languages: list[str]) -> AnalyzerEngine:
     analyzer = AnalyzerEngine(

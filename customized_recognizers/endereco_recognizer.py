@@ -17,13 +17,14 @@ class EnderecoRecognizer(EntityRecognizer):
     def analyze(self, text: str, entities: list[str], nlp_artifacts: NlpArtifacts) -> list[RecognizerResult]:
         results = []
         # --- NER ---
-        for ent in nlp_artifacts.entities:
-            if ent.label_ in ["LOCATION"]:
+        for ent, score in zip(nlp_artifacts.entities, nlp_artifacts.scores):
+            print(ent, score, ent.label_)
+            if ent.label_ in ["LOCAL"]:
                 result = RecognizerResult(
                     entity_type="ENDERECO",
                     start=ent.start_char,
                     end=ent.end_char,
-                    score=0.85
+                    score=round(score, 2) if score else 0.5
                 )
                 results.append(result)
         return results
