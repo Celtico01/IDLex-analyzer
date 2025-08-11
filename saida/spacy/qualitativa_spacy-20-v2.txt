@@ -10,7 +10,6 @@ Comparando 18 documentos em comum.
 
 
 ===== RESUMO QUALITATIVO =====
-- IGUAL: 0  →  Início, fim e texto coincidem exatamente (ignora caixa)
 - CAIXA: 104  →  Início e fim iguais, texto igual ignorando maiúsculas/minúsculas
 - PREV_MENOR: 11  →  Texto da predição é menor, contido na anotação
 - PREV_MAIOR: 17  →  Texto da predição é maior, contém a anotação
