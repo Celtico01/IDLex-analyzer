@@ -8,45 +8,17 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 692,
-            "fim": 711,
-            "texto": "tos acima epigrafad",
+            "fim": 709,
+            "texto": "tos acima epigraf",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PROVA",
-            "inicio": 976,
-            "fim": 1037,
-            "texto": "C.\nInstada a manifestar-se, a ilustre Representante do Minist",
-            "tipo": "OUTRO"
-        },
-        {
-            "entidade": "PES_AUTOR",
-            "inicio": 1110,
-            "fim": 1117,
-            "texto": "r o arq",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "PES_AUTOR",
-            "inicio": 2119,
-            "fim": 2126,
-            "texto": "bre 0 c",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "PES_OUTROS",
-            "inicio": 2318,
-            "fim": 2332,
-            "texto": "Fortaleza\n14aV",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "SENTENÇA",
+            "entidade": "SENTENÇA_PROCED",
             "inicio": 2998,
-            "fim": 3035,
-            "texto": " os termos do artigo 18 do CPP, onde ",
+            "fim": 3065,
+            "texto": " os termos do artigo 18 do CPP, onde a\nautoridade policial poderá p",
             "tipo": "OUTRO"
         },
         {
@@ -64,10 +36,10 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 3351,
-            "fim": 3361,
-            "texto": "==========",
+            "fim": 3369,
+            "texto": "================FI",
             "tipo": "PESSOA"
         },
         {
@@ -80,28 +52,28 @@
     ],
     "1116_PET_92540251": [
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 362,
             "fim": 383,
             "texto": "2019.8.06.0188\nREQUER",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 453,
             "fim": 472,
             "texto": "direito\npúblico int",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 475,
             "fim": 496,
             "texto": "o, com sede na Avenid",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "END_REU",
+            "entidade": "END_AUTOR",
             "inicio": 556,
             "fim": 612,
             "texto": "médio de seu procurador judicial que no final assina, ve",
@@ -109,13 +81,20 @@
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 896,
-            "fim": 913,
-            "texto": "ovembro de 2019\nA",
+            "inicio": 873,
+            "fim": 878,
+            "texto": "TECER",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_ADVOG",
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 885,
+            "fim": 920,
+            "texto": "iú, 20 de Novembro de 2019\nAprígio ",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PES_ADVOG_AUT",
             "inicio": 1029,
             "fim": 1056,
             "texto": "=====FIM===================",
@@ -124,14 +103,28 @@
     ],
     "283_DEN_93879160": [
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 104,
+            "fim": 109,
+            "texto": "OMOTO",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 110,
             "fim": 128,
             "texto": "IA DE IPAUMIRIM\nSa",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 129,
+            "fim": 142,
+            "texto": "st\nEXCELENTÍS",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 336,
             "fim": 363,
             "texto": "e\nLegal que esta subscreve,",
@@ -145,7 +138,7 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 630,
             "fim": 662,
             "texto": "completo, agricultor, natural de",
@@ -161,16 +154,30 @@
         {
             "entidade": "END_REU",
             "inicio": 832,
-            "fim": 938,
-            "texto": "eiras/PB.\n1. DOS FATOS\nConsta dos autos que, no dia 28 de agosto de 2018, por volta das 20h30min, na\nladei",
+            "fim": 936,
+            "texto": "eiras/PB.\n1. DOS FATOS\nConsta dos autos que, no dia 28 de agosto de 2018, por volta das 20h30min, na\nlad",
             "tipo": "ENDERECO"
         },
         {
             "entidade": "END_DELITO",
-            "inicio": 1046,
+            "inicio": 1043,
             "fim": 1106,
-            "texto": "uma terceira pessoa não identificada, subtraiu, mediante uti",
+            "texto": " e uma terceira pessoa não identificada, subtraiu, mediante uti",
             "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PROVA_OBJETO_APREENDIDO",
+            "inicio": 1236,
+            "fim": 1278,
+            "texto": " SILVA, praticando, desse modo, o delito p",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PROVA_OBJETO_APREENDIDO",
+            "inicio": 1281,
+            "fim": 1331,
+            "texto": "isto\nno art. 157, §2, II e §2-A, I, do Código Pena",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "PES_VITIMA",
@@ -181,6 +188,13 @@
         },
         {
             "entidade": "NOR_PRINCIPAL",
+            "inicio": 1417,
+            "fim": 1422,
+            "texto": ", a\nv",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
             "inicio": 1429,
             "fim": 1486,
             "texto": "rafegava da cidade de Cachoeira dos Índios para a cidade ",
@@ -188,37 +202,58 @@
         },
         {
             "entidade": "END_DELITO",
-            "inicio": 1691,
-            "fim": 1728,
-            "texto": "ferido\nparasse, efetuando, inclusive,",
+            "inicio": 1589,
+            "fim": 1654,
+            "texto": "o do município\nde Ipaumirim, três indivíduos, distribuídos em dua",
             "tipo": "ENDERECO"
         },
         {
-            "entidade": "PES_AUTOR",
-            "inicio": 2217,
-            "fim": 2235,
-            "texto": " sua motocicleta e",
+            "entidade": "END_DELITO",
+            "inicio": 1688,
+            "fim": 1773,
+            "texto": " referido\nparasse, efetuando, inclusive, um disparo para tal fim.\nAo ouvir o disparo,",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "END_OUTROS",
+            "inicio": 2119,
+            "fim": 2144,
+            "texto": "ntes, reconhecendo, sem q",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PES_REU_JUR",
+            "inicio": 2201,
+            "fim": 2216,
+            "texto": "a que subtraiu ",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PROVA",
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 2217,
+            "fim": 2259,
+            "texto": " sua motocicleta e a pessoa do menor\napree",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 2549,
+            "fim": 2563,
+            "texto": "nsecução do de",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PROVA_DOCUMENTAL",
+            "inicio": 2801,
+            "fim": 2810,
+            "texto": ")\nAs\ntest",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PROVA_DOCUMENTAL",
             "inicio": 2813,
-            "fim": 2822,
-            "texto": "nhas CAPI",
-            "tipo": "OUTRO"
-        },
-        {
-            "entidade": "PROVA",
-            "inicio": 2891,
-            "fim": 2903,
-            "texto": " e COSMO ROD",
-            "tipo": "OUTRO"
-        },
-        {
-            "entidade": "PROVA",
-            "inicio": 2934,
-            "fim": 2986,
-            "texto": "oboram as informações supramencionadas.\nO adolescent",
+            "fim": 2853,
+            "texto": "nhas CAPITÃO GERALDO JESUS ALVES (fls. 0",
             "tipo": "OUTRO"
         },
         {
@@ -229,7 +264,7 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_TESTEMUNHA",
+            "entidade": "PES_REU_FIS",
             "inicio": 3125,
             "fim": 3149,
             "texto": " as demais provas\ndos au",
@@ -244,13 +279,20 @@
         },
         {
             "entidade": "NOR_PRINCIPAL",
+            "inicio": 3620,
+            "fim": 3625,
+            "texto": "\nArt.",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
             "inicio": 3632,
             "fim": 3689,
             "texto": "Subtrair coisa móvel alheia, para si ou para outrem, medi",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 3732,
             "fim": 3750,
             "texto": " depois de havê-la",
@@ -264,32 +306,60 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 3992,
+            "fim": 3997,
+            "texto": "TORIA",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 4313,
             "fim": 4331,
             "texto": "\nAssim, resta-se d",
             "tipo": "PESSOA"
         },
         {
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 4332,
+            "fim": 4345,
+            "texto": "vidamente con",
+            "tipo": "PESSOA"
+        },
+        {
             "entidade": "NOR_ACESSORIA",
             "inicio": 4548,
-            "fim": 4562,
-            "texto": "do delito desc",
+            "fim": 4570,
+            "texto": "do delito descrito no ",
             "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_ACESSORIA",
             "inicio": 4659,
-            "fim": 4676,
-            "texto": "a CITAÇÃO pessoal",
+            "fim": 4681,
+            "texto": "a CITAÇÃO pessoal do d",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 4825,
+            "fim": 4843,
+            "texto": " penas do delito e",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 4880,
             "fim": 4912,
             "texto": " por todos os meios de provas ad",
             "tipo": "PESSOA"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 4967,
+            "fim": 4972,
+            "texto": "s arr",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_PRINCIPAL",
@@ -300,7 +370,7 @@
         },
         {
             "entidade": "PES_PROMOTOR_MP",
-            "inicio": 5464,
+            "inicio": 5470,
             "fim": 5495,
             "texto": "",
             "tipo": "PESSOA"
@@ -328,7 +398,7 @@
         },
         {
             "entidade": "PES_TESTEMUNHA",
-            "inicio": 5813,
+            "inicio": 5807,
             "fim": 5834,
             "texto": "",
             "tipo": "PESSOA"
@@ -337,29 +407,43 @@
     "283_DEN_105110798": [
         {
             "entidade": "PES_OUTROS",
-            "inicio": 322,
-            "fim": 330,
-            "texto": "Investig",
+            "inicio": 273,
+            "fim": 302,
+            "texto": "uixadá\nAut PL\n:\nDelegacia Reg",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_OUTROS",
+            "inicio": 312,
+            "fim": 346,
+            "texto": "uixadá-CE\nInvestigado\n: Yarlei Mou",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 361,
             "fim": 384,
             "texto": "bservação\n:\nIP N° 534-6",
             "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PROVA_DOCUMENTAL",
+            "inicio": 401,
+            "fim": 404,
+            "texto": "IDO",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PROVA_DOCUMENTAL",
+            "inicio": 497,
+            "fim": 542,
+            "texto": "/2019 17:03:49\n0000498-70.2018.8.06.0116)\n3\nV",
+            "tipo": "OUTRO"
         }
     ],
     "283_DEC_81349285": [
         {
-            "entidade": "PES_REU",
-            "inicio": 532,
-            "fim": 558,
-            "texto": "\nFLAGRANTE em condições de",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 658,
             "fim": 684,
             "texto": "lcoólica e sem qualquer mo",
@@ -368,57 +452,57 @@
         {
             "entidade": "PES_VITIMA",
             "inicio": 782,
-            "fim": 806,
-            "texto": "dessa forma, a hipótese\n",
+            "fim": 813,
+            "texto": "dessa forma, a hipótese\nlegal\nd",
             "tipo": "PESSOA"
         },
         {
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 881,
+            "fim": 886,
+            "texto": "9, § ",
+            "tipo": "OUTRO"
+        },
+        {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 897,
+            "inicio": 893,
             "fim": 931,
-            "texto": " N/F DA LEI\n11.340/2006, em razão ",
+            "texto": "CPB, N/F DA LEI\n11.340/2006, em razão ",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
-            "inicio": 974,
-            "fim": 1012,
-            "texto": "a Cidade de BREJO SANTO/CE..\nObservada",
-            "tipo": "OUTRO"
-        },
-        {
-            "entidade": "NOR_PRINCIPAL",
-            "inicio": 1021,
-            "fim": 1043,
-            "texto": "disposições legais ref",
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 962,
+            "fim": 967,
+            "texto": "HO / ",
             "tipo": "OUTRO"
         },
         {
             "entidade": "END_DELITO",
-            "inicio": 1108,
+            "inicio": 1101,
             "fim": 1127,
-            "texto": "bservado na prisão ",
+            "texto": " sido observado na prisão ",
             "tipo": "ENDERECO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 2875,
             "fim": 2901,
             "texto": ", na conformidade do ART. ",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "NOR_ACESSORIA",
-            "inicio": 2944,
-            "fim": 2982,
-            "texto": "cessidade dessa\nmedida extrema por oca",
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 2932,
+            "fim": 2937,
+            "texto": "eexam",
             "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 2997,
-            "fim": 3016,
-            "texto": "ia de custódia.\nUTI",
+            "inicio": 3116,
+            "fim": 3121,
+            "texto": "mpete",
             "tipo": "OUTRO"
         },
         {
@@ -429,21 +513,14 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_OUTROS",
-            "inicio": 3612,
-            "fim": 3628,
+            "entidade": "PES_JUIZ",
+            "inicio": 3607,
+            "fim": 3636,
             "texto": "",
             "tipo": "PESSOA"
         }
     ],
     "279_INQ_88114167": [
-        {
-            "entidade": "PES_OUTROS",
-            "inicio": 177,
-            "fim": 206,
-            "texto": "MUNICIPAL DE AURORA/CE\nPORTAR",
-            "tipo": "PESSOA"
-        },
         {
             "entidade": "PES_AUTORID_POLICIAL",
             "inicio": 235,
@@ -459,46 +536,18 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_OUTROS",
-            "inicio": 2138,
-            "fim": 2142,
-            "texto": "list",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "NOR_PRINCIPAL",
-            "inicio": 2314,
-            "fim": 2350,
-            "texto": " aproximadamente 25 anos, branco) ch",
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 2301,
+            "fim": 2307,
+            "texto": "na e a",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_OUTROS",
-            "inicio": 2879,
-            "fim": 2885,
-            "texto": "hia, b",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "PES_TESTEMUNHA",
-            "inicio": 3282,
-            "fim": 3311,
-            "texto": "D AURORA\nRESPONSÁVEL PELO REG",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "END_REU",
+            "entidade": "END_DELITO",
             "inicio": 3323,
             "fim": 3394,
             "texto": "A ROSILENE PEREIRA DE OLIVEIRA - MAT.: 404888-1-2\nRESPONSÁVEL PELA INFO",
             "tipo": "ENDERECO"
-        },
-        {
-            "entidade": "PES_OUTROS",
-            "inicio": 3495,
-            "fim": 3529,
-            "texto": "560-1-5\nDEL LEGACIA MUNICIPAL DE A",
-            "tipo": "PESSOA"
         },
         {
             "entidade": "PES_AUTORID_POLICIAL",
@@ -509,16 +558,16 @@
         },
         {
             "entidade": "PES_TESTEMUNHA",
-            "inicio": 4094,
-            "fim": 4123,
-            "texto": " 8252 L A .47 F\n120 V AURORA/",
+            "inicio": 4099,
+            "fim": 4116,
+            "texto": " L A .47 F\n120 V ",
             "tipo": "PESSOA"
         },
         {
             "entidade": "PES_OUTROS",
             "inicio": 4135,
-            "fim": 4156,
-            "texto": "ness B, Cost\nFORTALEZ",
+            "fim": 4158,
+            "texto": "ness B, Cost\nFORTALEZA-",
             "tipo": "PESSOA"
         },
         {
@@ -527,6 +576,20 @@
             "fim": 4190,
             "texto": "E\nASSINATURA DO DIRETOR\n0\nLEIN°",
             "tipo": "PESSOA"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 4393,
+            "fim": 4404,
+            "texto": "EGACIA MUNI",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PROVA_DOCUMENTAL",
+            "inicio": 4677,
+            "fim": 4685,
+            "texto": "ias poli",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "PES_AUTORID_POLICIAL",
@@ -557,13 +620,6 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "END_OUTROS",
-            "inicio": 6414,
-            "fim": 6423,
-            "texto": "igitei.\nC",
-            "tipo": "ENDERECO"
-        },
-        {
             "entidade": "PES_OUTROS",
             "inicio": 6542,
             "fim": 6587,
@@ -586,16 +642,9 @@
         },
         {
             "entidade": "PES_OUTROS",
-            "inicio": 7133,
-            "fim": 7138,
-            "texto": "açá -",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "PES_OUTROS",
             "inicio": 7139,
-            "fim": 7176,
-            "texto": "Fone (88) 3543-1014 / CEP 63.360-000\n",
+            "fim": 7184,
+            "texto": "Fone (88) 3543-1014 / CEP 63.360-000\nINQUÉRIT",
             "tipo": "PESSOA"
         },
         {
@@ -606,11 +655,11 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTOR",
-            "inicio": 7593,
-            "fim": 7620,
-            "texto": "ara apurar fato típico do a",
-            "tipo": "PESSOA"
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 7833,
+            "fim": 7838,
+            "texto": "o\nenc",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_PRINCIPAL",
@@ -627,17 +676,45 @@
             "tipo": "PESSOA"
         },
         {
+            "entidade": "PROVA_DOCUMENTAL",
+            "inicio": 8063,
+            "fim": 8072,
+            "texto": ", estará ",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_JURISPRUDÊNCIA",
+            "inicio": 8100,
+            "fim": 8116,
+            "texto": "osa em nosso mun",
+            "tipo": "OUTRO"
+        },
+        {
             "entidade": "PES_PROMOTOR_MP",
-            "inicio": 8596,
+            "inicio": 8586,
             "fim": 8637,
-            "texto": "art. 127).\n\n=============================",
+            "texto": "veis (CF, art. 127).\n\n=============================",
             "tipo": "PESSOA"
         },
         {
             "entidade": "NOR_ACESSORIA",
             "inicio": 8874,
+            "fim": 8896,
+            "texto": "ILAÇÃO DE PRAZO\n(Art. ",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 8897,
             "fim": 8902,
-            "texto": "ILAÇÃO DE PRAZO\n(Art. 10, § ",
+            "texto": "0, § ",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 9154,
+            "fim": 9159,
+            "texto": "ZO, p",
             "tipo": "OUTRO"
         },
         {
@@ -649,9 +726,9 @@
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 9540,
+            "inicio": 9547,
             "fim": 9552,
-            "texto": "ícia Judiciá",
+            "texto": "diciá",
             "tipo": "OUTRO"
         },
         {
@@ -659,6 +736,13 @@
             "inicio": 9559,
             "fim": 9589,
             "texto": "Polícia Civil do\nEstado do Cea",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 9852,
+            "fim": 9857,
+            "texto": "io, a",
             "tipo": "OUTRO"
         },
         {
@@ -676,17 +760,17 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTOR",
-            "inicio": 10381,
-            "fim": 10388,
-            "texto": "9, devo",
-            "tipo": "PESSOA"
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 10643,
+            "fim": 10648,
+            "texto": "irá M",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_PRINCIPAL",
-            "inicio": 10662,
+            "inicio": 10655,
             "fim": 10674,
-            "texto": "ora de Justi",
+            "texto": "\nPromotora de Justi",
             "tipo": "OUTRO"
         },
         {
@@ -697,11 +781,11 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
-            "inicio": 11088,
-            "fim": 11103,
-            "texto": "xauriu-se, e se",
-            "tipo": "PESSOA"
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 11301,
+            "fim": 11306,
+            "texto": "com f",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_ACESSORIA",
@@ -712,9 +796,9 @@
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 11687,
+            "inicio": 11694,
             "fim": 11699,
-            "texto": "sidade de re",
+            "texto": "de re",
             "tipo": "OUTRO"
         },
         {
@@ -722,6 +806,13 @@
             "inicio": 11706,
             "fim": 11736,
             "texto": "ramitação da presente\ninvestig",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 11999,
+            "fim": 12004,
+            "texto": "pe Ma",
             "tipo": "OUTRO"
         },
         {
@@ -748,8 +839,8 @@
         {
             "entidade": "NOR_PRINCIPAL",
             "inicio": 12807,
-            "fim": 12843,
-            "texto": "al, combinados\ncom a Lei 12.830/13 n",
+            "fim": 12879,
+            "texto": "al, combinados\ncom a Lei 12.830/13 na sua integralidade, vem a presença ",
             "tipo": "OUTRO"
         },
         {
@@ -757,13 +848,6 @@
             "inicio": 12952,
             "fim": 12982,
             "texto": "TO\nEm face de expediente inves",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "PES_OUTROS",
-            "inicio": 13052,
-            "fim": 13096,
-            "texto": ",\nfoi possível estabelecer entendimento que ",
             "tipo": "PESSOA"
         },
         {
@@ -776,8 +860,8 @@
         {
             "entidade": "NOR_ACESSORIA",
             "inicio": 13175,
-            "fim": 13237,
-            "texto": "passamos descrever O seguinte relatório mediante análise técni",
+            "fim": 13256,
+            "texto": "passamos descrever O seguinte relatório mediante análise técnico jurídica\ndos fat",
             "tipo": "OUTRO"
         },
         {
@@ -790,29 +874,22 @@
         {
             "entidade": "END_DELITO",
             "inicio": 13796,
-            "fim": 13798,
-            "texto": "ít",
-            "tipo": "ENDERECO"
-        },
-        {
-            "entidade": "END_DELITO",
-            "inicio": 13799,
             "fim": 13845,
-            "texto": "ma de furto. Que não tem\nsuspeitos e não decli",
+            "texto": "ítima de furto. Que não tem\nsuspeitos e não decli",
             "tipo": "ENDERECO"
         },
         {
-            "entidade": "PES_OUTROS",
-            "inicio": 14026,
-            "fim": 14032,
-            "texto": "a form",
-            "tipo": "PESSOA"
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 15737,
+            "fim": 15748,
+            "texto": "o o inquéri",
+            "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
-            "inicio": 15737,
-            "fim": 15757,
-            "texto": "o o inquérito polici",
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 15754,
+            "fim": 15759,
+            "texto": "icial",
             "tipo": "OUTRO"
         },
         {
@@ -830,37 +907,23 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_OUTROS",
-            "inicio": 17397,
-            "fim": 17433,
-            "texto": "presente a Vossa Excelência, para ul",
-            "tipo": "PESSOA"
-        },
-        {
             "entidade": "PES_AUTORID_POLICIAL",
             "inicio": 18088,
             "fim": 18147,
             "texto": "",
             "tipo": "PESSOA"
-        },
-        {
-            "entidade": "END_OUTROS",
-            "inicio": 18174,
-            "fim": 18193,
-            "texto": "",
-            "tipo": "ENDERECO"
         }
     ],
     "159_SEN_92401478": [
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 393,
             "fim": 425,
             "texto": "m\nExecutado:\nMichelle Amorim San",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 438,
             "fim": 494,
             "texto": "elle Amorim Sancho\nSouza\nVistos, etc.\nConforme consta no",
@@ -868,54 +931,54 @@
         },
         {
             "entidade": "NOR_PRINCIPAL",
-            "inicio": 885,
-            "fim": 896,
-            "texto": " de apenas ",
+            "inicio": 873,
+            "fim": 878,
+            "texto": " exec",
             "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 1150,
-            "fim": 1174,
-            "texto": "s para retirar\n0 nome do",
+            "inicio": 885,
+            "fim": 905,
+            "texto": " de apenas alguma me",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_REU",
-            "inicio": 1197,
-            "fim": 1203,
-            "texto": "dastro",
-            "tipo": "PESSOA"
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 1124,
+            "fim": 1129,
+            "texto": " cada",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 1136,
+            "fim": 1174,
+            "texto": "e inadimplentes para retirar\n0 nome do",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "PES_JUIZ",
             "inicio": 1603,
-            "fim": 1634,
+            "fim": 1651,
             "texto": "",
             "tipo": "PESSOA"
         }
     ],
     "999_PET_91319463": [
         {
-            "entidade": "PES_ADVOG",
-            "inicio": 6,
-            "fim": 21,
-            "texto": "\nTEIXEIRA\nADVOC",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 188,
             "fim": 212,
             "texto": "brasileiro, solteiro, em",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_OUTROS",
-            "inicio": 252,
-            "fim": 273,
-            "texto": "tualmente recolhido n",
-            "tipo": "PESSOA"
+            "entidade": "END_AUTOR",
+            "inicio": 308,
+            "fim": 377,
+            "texto": "l Regional do Cariri no Estado do Ceará , já qualificado nos autos da",
+            "tipo": "ENDERECO"
         },
         {
             "entidade": "NOR_PRINCIPAL",
@@ -926,24 +989,10 @@
         },
         {
             "entidade": "NOR_PRINCIPAL",
-            "inicio": 888,
-            "fim": 897,
-            "texto": "mbro de 2",
-            "tipo": "OUTRO"
-        },
-        {
-            "entidade": "NOR_PRINCIPAL",
             "inicio": 898,
-            "fim": 920,
-            "texto": "19, o Juiz Plantonista",
+            "fim": 922,
+            "texto": "19, o Juiz Plantonista d",
             "tipo": "OUTRO"
-        },
-        {
-            "entidade": "PES_ADVOG",
-            "inicio": 1508,
-            "fim": 1516,
-            "texto": " na sala",
-            "tipo": "PESSOA"
         },
         {
             "entidade": "PES_JUIZ",
@@ -953,66 +1002,80 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 2252,
             "fim": 2270,
             "texto": "\nIniciados os trab",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_ADVOG",
+            "entidade": "PES_PROMOTOR_MP",
             "inicio": 2273,
             "fim": 2294,
             "texto": "os, foram verificadas",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_OUTROS",
+            "entidade": "PES_ADVOG_REU",
             "inicio": 2341,
             "fim": 2365,
             "texto": "do o ato audiencial se d",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 2866,
-            "fim": 2876,
-            "texto": "rado. Houv",
+            "fim": 2884,
+            "texto": "rado. Houve decret",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTOR",
-            "inicio": 3530,
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 3188,
+            "fim": 3206,
+            "texto": "grafe.Feitos os pr",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 3519,
             "fim": 3537,
-            "texto": "das, te",
+            "texto": "ima\ninformadas, te",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_ADVOG",
+            "entidade": "PES_PROMOTOR_MP",
             "inicio": 3540,
             "fim": 3561,
             "texto": " o ato audiencial se ",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_OUTROS",
+            "entidade": "PES_ADVOG_REU",
             "inicio": 3608,
             "fim": 3632,
             "texto": "rciateixeiraadv@outlook.",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
-            "inicio": 3975,
-            "fim": 3981,
-            "texto": "três m",
+            "entidade": "PES_VITIMA",
+            "inicio": 3968,
+            "fim": 3990,
+            "texto": "reso e três menores\nvi",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 4305,
-            "fim": 4315,
-            "texto": "e prisão\np",
+            "fim": 4323,
+            "texto": "e prisão\npreventiv",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 4629,
+            "fim": 4647,
+            "texto": "resente\ntermo, que",
             "tipo": "PESSOA"
         },
         {
@@ -1023,18 +1086,32 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_OUTROS",
+            "entidade": "PES_JUIZ",
             "inicio": 5056,
             "fim": 5096,
             "texto": "Membro do Ministério Publico.\nA ofensa à",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 5484,
             "fim": 5502,
             "texto": " da denúncia, esta",
             "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 5660,
+            "fim": 5678,
+            "texto": "olto ou afiançado.",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 5694,
+            "fim": 5699,
+            "texto": " se h",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_ACESSORIA",
@@ -1044,45 +1121,73 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_AUTOR",
-            "inicio": 5863,
-            "fim": 5870,
-            "texto": "ez, o a",
-            "tipo": "PESSOA"
-        },
-        {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 6200,
-            "fim": 6234,
-            "texto": "==================\nMÁRCIA\nTEIXEIRA",
+            "inicio": 6045,
+            "fim": 6050,
+            "texto": "com\n3",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_ADVOG",
-            "inicio": 6509,
-            "fim": 6524,
-            "texto": "-se uma decisão",
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 6184,
+            "fim": 6189,
+            "texto": "GINA=",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 6196,
+            "fim": 6234,
+            "texto": "======================\nMÁRCIA\nTEIXEIRA",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 7603,
+            "fim": 7621,
+            "texto": "nto das providênci",
             "tipo": "PESSOA"
         },
         {
             "entidade": "NOR_JURISPRUDÊNCIA",
             "inicio": 8663,
-            "fim": 8761,
-            "texto": "s denunciados ou a sua\nDefesa.\nConsiderada a excepcionalidade de que se reveste, em nosso ordename",
+            "fim": 8763,
+            "texto": "s denunciados ou a sua\nDefesa.\nConsiderada a excepcionalidade de que se reveste, em nosso ordenament",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_ADVOG",
-            "inicio": 8916,
-            "fim": 8931,
-            "texto": "e, no presente ",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
             "inicio": 9942,
             "fim": 9983,
             "texto": "ão no dia 25/09/1992 e o Decreto no. 678,",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 10321,
+            "fim": 10419,
+            "texto": "tra-se a\nPROVISORIEDADE das prisões cautelares.\nmarciateixeiraadv@outlook.com\n5\n(88) 3581-2620 I 9",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 10476,
+            "fim": 10499,
+            "texto": " - Iguatu - Ceará\n\n====",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 10523,
+            "fim": 10548,
+            "texto": "==QUEBRA_PAGINA==========",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 10854,
+            "fim": 10859,
+            "texto": "tempo",
             "tipo": "OUTRO"
         },
         {
@@ -1093,17 +1198,24 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_ADVOG",
-            "inicio": 11129,
-            "fim": 11144,
-            "texto": "ilizados como i",
-            "tipo": "PESSOA"
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 11584,
+            "fim": 11594,
+            "texto": "ias, proce",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 11580,
-            "fim": 11599,
-            "texto": "a) dias, proceder-s",
+            "inicio": 12084,
+            "fim": 12089,
+            "texto": "astan",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 12371,
+            "fim": 12376,
+            "texto": "o de ",
             "tipo": "OUTRO"
         },
         {
@@ -1114,6 +1226,13 @@
             "tipo": "OUTRO"
         },
         {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 12572,
+            "fim": 12594,
+            "texto": "ateixeiraadv@outlook.c",
+            "tipo": "OUTRO"
+        },
+        {
             "entidade": "NOR_JURISPRUDÊNCIA",
             "inicio": 12874,
             "fim": 12884,
@@ -1121,14 +1240,14 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_ADVOG",
-            "inicio": 13374,
-            "fim": 13389,
-            "texto": "ENTE. DURAÇÃO I",
-            "tipo": "PESSOA"
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 13455,
+            "fim": 13460,
+            "texto": "E HAJ",
+            "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
             "inicio": 13467,
             "fim": 13511,
             "texto": "IA DA PROXIMIDADE DO JULGAMENTO PELO CONSELH",
@@ -1142,31 +1261,87 @@
             "tipo": "OUTRO"
         },
         {
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 13578,
+            "fim": 13587,
+            "texto": "E, DE OFE",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_JURISPRUDÊNCIA",
+            "inicio": 13598,
+            "fim": 13606,
+            "texto": "E AO \"ST",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_JURISPRUDÊNCIA",
+            "inicio": 13640,
+            "fim": 13645,
+            "texto": "MISSI",
+            "tipo": "OUTRO"
+        },
+        {
             "entidade": "NOR_JURISPRUDÊNCIA",
             "inicio": 13652,
-            "fim": 13710,
-            "texto": "E. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL.\nMEDIDA LIMINAR",
+            "fim": 13712,
+            "texto": "E. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL.\nMEDIDA LIMINAR D",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
-            "inicio": 15010,
-            "fim": 15017,
-            "texto": "so de p",
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 13715,
+            "fim": 13739,
+            "texto": "RIDA. - O excesso de pra",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 14975,
+            "fim": 14997,
+            "texto": "nscrita, entendeu o ST",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 14998,
+            "fim": 15003,
+            "texto": " que ",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 15374,
+            "fim": 15379,
+            "texto": "ão Fe",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
             "inicio": 15386,
             "fim": 15413,
             "texto": "rasileira define, em seu te",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_JURISPRUDÊNCIA",
             "inicio": 15424,
             "fim": 15436,
             "texto": "mados direit",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 15445,
+            "fim": 15487,
+            "texto": "s: direito à educação, à saúde, ao trabalh",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 15490,
+            "fim": 15495,
+            "texto": "à mor",
             "tipo": "OUTRO"
         },
         {
@@ -1177,32 +1352,25 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_ADVOG",
-            "inicio": 15747,
-            "fim": 15762,
-            "texto": "restação positi",
+            "entidade": "PES_OUTROS",
+            "inicio": 15829,
+            "fim": 15832,
+            "texto": "ara",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
             "inicio": 16203,
             "fim": 16246,
             "texto": "na, ofendendo,\ndesta forma, a dignidade da ",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
             "inicio": 17187,
             "fim": 17225,
             "texto": "a, j: 08/09/2009)\nMerece transcrição a",
             "tipo": "OUTRO"
-        },
-        {
-            "entidade": "PES_ADVOG",
-            "inicio": 17911,
-            "fim": 17926,
-            "texto": "co tutela e\namp",
-            "tipo": "PESSOA"
         },
         {
             "entidade": "NOR_JURISPRUDÊNCIA",
@@ -1214,19 +1382,26 @@
         {
             "entidade": "NOR_JURISPRUDÊNCIA",
             "inicio": 18069,
-            "fim": 18120,
-            "texto": "azo razoável previsto na\nlegislação, deve ser imedi",
+            "fim": 18122,
+            "texto": "azo razoável previsto na\nlegislação, deve ser imediat",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 19014,
+            "fim": 19019,
+            "texto": "",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
             "inicio": 19026,
             "fim": 19057,
             "texto": "",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_ADVOG",
+            "entidade": "PES_ADVOG_AUT",
             "inicio": 19466,
             "fim": 19495,
             "texto": "",
@@ -1235,17 +1410,24 @@
     ],
     "159_PINI_72235000": [
         {
-            "entidade": "PES_AUTOR",
-            "inicio": 327,
-            "fim": 341,
-            "texto": "com sede no\nnú",
+            "entidade": "PES_AUTOR_FIS",
+            "inicio": 310,
+            "fim": 343,
+            "texto": "ição financeira, com sede no\nnúcl",
             "tipo": "PESSOA"
         },
         {
             "entidade": "END_OUTROS",
-            "inicio": 731,
-            "fim": 762,
-            "texto": "P: 63.050-\n040, telefone: (88) ",
+            "inicio": 727,
+            "fim": 826,
+            "texto": ", CEP: 63.050-\n040, telefone: (88) 3511.9294, endereço eletrônico intimacao@antinolfiemoller.com.br",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "END_OUTROS",
+            "inicio": 912,
+            "fim": 920,
+            "texto": " present",
             "tipo": "ENDERECO"
         },
         {
@@ -1263,7 +1445,7 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 1200,
             "fim": 1234,
             "texto": ", residente e domiciliado à Rua Qu",
@@ -1271,10 +1453,24 @@
         },
         {
             "entidade": "END_REU",
+            "inicio": 1330,
+            "fim": 1343,
+            "texto": "e fundamentos",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "END_REU",
             "inicio": 1346,
             "fim": 1441,
             "texto": "rídicos a expor:\nPORTO ALEGRE/RS\nSÃO LUÍS/MA\nJUAZEIRO DO NORTE/CE\nFORTALEZA/CE\nAv. Alberto Bins",
             "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PROVA_DOCUMENTAL",
+            "inicio": 2336,
+            "fim": 2339,
+            "texto": "u c",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_ACESSORIA",
@@ -1285,97 +1481,118 @@
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 3674,
+            "inicio": 3689,
             "fim": 3727,
-            "texto": "onorários advocatícios, custas e despesas processuais",
+            "texto": "atícios, custas e despesas processuais",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
-            "inicio": 3837,
-            "fim": 3855,
-            "texto": "forem encontrados ",
+            "entidade": "END_OUTROS",
+            "inicio": 4388,
+            "fim": 4428,
+            "texto": "========\nA1\n3 Vara\n1.s.: 5\nANTINOLFI & M",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 4862,
+            "fim": 4872,
+            "texto": "execução e",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
             "inicio": 4919,
             "fim": 4929,
             "texto": "o principa",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
             "inicio": 5060,
-            "fim": 5070,
-            "texto": " intimado ",
+            "fim": 5088,
+            "texto": " intimado a indicar bens pas",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
             "inicio": 5189,
             "fim": 5216,
             "texto": "ato atentatório à dignidade",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
             "inicio": 5529,
             "fim": 5546,
             "texto": "LAYTON MÖLLER ins",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 5638,
+            "fim": 5643,
+            "texto": "22.18",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
             "inicio": 5650,
-            "fim": 5685,
-            "texto": "LON\nMOLLER inscrito na OAB/RS sob n",
+            "fim": 5687,
+            "texto": "LON\nMOLLER inscrito na OAB/RS sob n °",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
             "inicio": 5768,
+            "fim": 5778,
+            "texto": "to.\nJuazei",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 5781,
             "fim": 5791,
-            "texto": "to.\nJuazeiro do Norte, ",
+            "texto": "do Norte, ",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
             "inicio": 5819,
-            "fim": 5829,
-            "texto": "illu-\nP.p.",
+            "fim": 5831,
+            "texto": "illu-\nP.p. C",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_ADVOG",
+            "entidade": "PES_ADVOG_REU",
             "inicio": 5927,
             "fim": 5946,
             "texto": "xordial, nos termos",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_ADVOG",
+            "entidade": "PES_ADVOG_REU",
             "inicio": 5992,
             "fim": 6006,
             "texto": "5. Fazem a mes",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_ADVOG",
+            "entidade": "PES_ADVOG_REU",
             "inicio": 6052,
             "fim": 6074,
             "texto": "RS\nSÃO LUÍS/MA\nJUAZEIR",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_ADVOG",
+            "entidade": "PES_ADVOG_REU",
             "inicio": 6122,
             "fim": 6134,
             "texto": " 10° andar\nA",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_ADVOG",
+            "entidade": "PES_ADVOG_REU",
             "inicio": 6348,
             "fim": 6360,
             "texto": "one: (98) 32",
@@ -1383,40 +1600,54 @@
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 6473,
+            "inicio": 6488,
             "fim": 6493,
-            "texto": "FIM=================",
+            "texto": "=====",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "END_OUTROS",
-            "inicio": 6598,
-            "fim": 6603,
+            "entidade": "NOR_JURISPRUDÊNCIA",
+            "inicio": 6500,
+            "fim": 6516,
+            "texto": "======\n",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 6525,
+            "fim": 6530,
             "texto": "",
-            "tipo": "ENDERECO"
+            "tipo": "OUTRO"
         }
     ],
     "999_SEN_90023409": [
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 419,
             "fim": 445,
             "texto": "\nO\nÓrgão Ministerial ajuiz",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 463,
             "fim": 480,
             "texto": " penal contra, Má",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 520,
             "fim": 546,
             "texto": "lificado nos autos, como i",
             "tipo": "PESSOA"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 611,
+            "fim": 616,
+            "texto": "enal.",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_PRINCIPAL",
@@ -1427,37 +1658,58 @@
         },
         {
             "entidade": "END_DELITO",
+            "inicio": 748,
+            "fim": 750,
+            "texto": "a ",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "END_DELITO",
             "inicio": 751,
             "fim": 835,
             "texto": "osa, Fortaleza-CE, os denunciados, fazendo\nuso de instrumento perfuro-contundente (r",
             "tipo": "ENDERECO"
         },
         {
-            "entidade": "PROVA",
-            "inicio": 890,
-            "fim": 903,
-            "texto": "Silva Santos.",
+            "entidade": "PES_VITIMA",
+            "inicio": 945,
+            "fim": 975,
+            "texto": "aos vinte anos de idade, teve ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_REU_FIS",
+            "inicio": 1129,
+            "fim": 1137,
+            "texto": "bro de 2",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 1336,
+            "fim": 1345,
+            "texto": "163/168, ",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_REU",
-            "inicio": 945,
-            "fim": 952,
-            "texto": "aos vin",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "PES_REU",
-            "inicio": 1122,
-            "fim": 1148,
-            "texto": "e novembro de 2010, a pág.",
-            "tipo": "PESSOA"
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 1567,
+            "fim": 1572,
+            "texto": "iaria",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_PRINCIPAL",
             "inicio": 1579,
             "fim": 1609,
             "texto": "a exclusão da qualificadora do",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 2117,
+            "fim": 2122,
+            "texto": "onfir",
             "tipo": "OUTRO"
         },
         {
@@ -1469,9 +1721,16 @@
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 2892,
+            "inicio": 2873,
+            "fim": 2878,
+            "texto": "- CEP",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 2885,
             "fim": 2915,
-            "texto": "ne: (85) 3492 8990,\nFor",
+            "texto": "690, Fone: (85) 3492 8990,\nFor",
             "tipo": "OUTRO"
         },
         {
@@ -1483,23 +1742,23 @@
         },
         {
             "entidade": "NOR_JURISPRUDÊNCIA",
-            "inicio": 3304,
+            "inicio": 3264,
             "fim": 3343,
-            "texto": "ora Maria Tereza da Silva Santos, que d",
+            "texto": " as declarações da\nmãe da vítima, a senhora Maria Tereza da Silva Santos, que d",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PROVA",
+            "entidade": "PROVA_CORPO_DELITO",
             "inicio": 3481,
-            "fim": 3505,
-            "texto": "unal\nde Justiça,:\n2. De ",
+            "fim": 3497,
+            "texto": "unal\nde Justiça,",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_TESTEMUNHA",
-            "inicio": 3669,
-            "fim": 3671,
-            "texto": "to",
+            "entidade": "PES_VITIMA",
+            "inicio": 3656,
+            "fim": 3684,
+            "texto": "ndo,\npara tanto, a verificaç",
             "tipo": "PESSOA"
         },
         {
@@ -1511,31 +1770,38 @@
         },
         {
             "entidade": "NOR_JURISPRUDÊNCIA",
-            "inicio": 4182,
+            "inicio": 4173,
             "fim": 4218,
-            "texto": "entos indicativos, devendo 0 juiz, t",
+            "texto": "a de elementos indicativos, devendo 0 juiz, t",
             "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_JURISPRUDÊNCIA",
-            "inicio": 5020,
+            "inicio": 5009,
             "fim": 5060,
-            "texto": " não foram colhidas provas\nacerca da mot",
+            "texto": "ão criminal não foram colhidas provas\nacerca da mot",
             "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_JURISPRUDÊNCIA",
             "inicio": 5067,
-            "fim": 5156,
-            "texto": "do delito, de modo que essa ausência de informações, constitui motivo\nidôneo para afastam",
+            "fim": 5158,
+            "texto": "do delito, de modo que essa ausência de informações, constitui motivo\nidôneo para afastamen",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 6133,
             "fim": 6159,
             "texto": "s para as providências do ",
             "tipo": "PESSOA"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 6216,
+            "fim": 6221,
+            "texto": "18.\nR",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_PRINCIPAL",
@@ -1552,29 +1818,43 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTOR",
-            "inicio": 6532,
-            "fim": 6539,
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 6585,
+            "fim": 6611,
             "texto": "",
-            "tipo": "PESSOA"
+            "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 6585,
+            "inicio": 6612,
             "fim": 6617,
             "texto": "",
             "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 6738,
+            "inicio": 6717,
+            "fim": 6722,
+            "texto": "",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 6729,
             "fim": 6762,
             "texto": "",
             "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 6830,
+            "inicio": 6812,
+            "fim": 6817,
+            "texto": "",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 6824,
             "fim": 6854,
             "texto": "",
             "tipo": "OUTRO"
@@ -1589,28 +1869,21 @@
     ],
     "7_DES_106028741": [
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_JUIZ",
             "inicio": 309,
             "fim": 335,
             "texto": "\nMANDADO DE INTIMAÇÃO\nProc",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_REU_JUR",
             "inicio": 493,
-            "fim": 561,
-            "texto": "io Público do Estado do\nCeará - A ssempece e outro\nRequerido:\nEstado",
+            "fim": 503,
+            "texto": "io Público",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTOR",
-            "inicio": 562,
-            "fim": 574,
-            "texto": "do Ceará\nOfi",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_JUR",
             "inicio": 593,
             "fim": 608,
             "texto": "ndado n°:\n001.2",
@@ -1624,55 +1897,76 @@
             "tipo": "ENDERECO"
         },
         {
-            "entidade": "PES_AUTOR",
-            "inicio": 820,
-            "fim": 871,
-            "texto": ", MANDA a qualquer Oficial de Justiça de sua jurisd",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "PES_AUTOR",
-            "inicio": 1051,
-            "fim": 1133,
-            "texto": "a - CE,\nna pessoa do seu representante legal, para tomar ciência da decisão de fls",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "PES_OUTROS",
-            "inicio": 1693,
-            "fim": 1711,
-            "texto": "os e\ntransmissão d",
-            "tipo": "PESSOA"
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 1749,
+            "fim": 1754,
+            "texto": "termo",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 1761,
-            "fim": 1785,
-            "texto": " Lei.\n§ 2° Para o dispos",
+            "inicio": 1763,
+            "fim": 1778,
+            "texto": "ei.\n§ 2° Para o",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 2038,
+            "fim": 2051,
+            "texto": "11. Os docume",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 2199,
+            "fim": 2204,
+            "texto": "rão c",
             "tipo": "OUTRO"
         }
     ],
     "1116_PINI_80230742": [
         {
-            "entidade": "PES_JUIZ",
-            "inicio": 96,
-            "fim": 112,
-            "texto": "EITO DA 3a VARA ",
-            "tipo": "PESSOA"
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 266,
+            "fim": 273,
+            "texto": " DE MAR",
+            "tipo": "OUTRO"
         },
         {
-            "entidade": "END_OUTROS",
-            "inicio": 124,
-            "fim": 141,
-            "texto": "ACANAÚ/CE.\nRef.: ",
-            "tipo": "ENDERECO"
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 288,
+            "fim": 294,
+            "texto": "cado n",
+            "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 303,
             "fim": 325,
             "texto": " por meio de\nsua Procu",
             "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 392,
+            "fim": 401,
+            "texto": "sos\najuiz",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 522,
+            "fim": 529,
+            "texto": "aracana",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 544,
+            "fim": 550,
+            "texto": "de 201",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "PES_OUTROS",
@@ -1680,91 +1974,140 @@
             "fim": 735,
             "texto": "idor of\nhaja ",
             "tipo": "PESSOA"
+        },
+        {
+            "entidade": "END_AUTOR",
+            "inicio": 937,
+            "fim": 1014,
+            "texto": "=============================FIM==============================\n",
+            "tipo": "ENDERECO"
         }
     ],
     "1116_PINI_80230108": [
         {
-            "entidade": "END_OUTROS",
-            "inicio": 129,
-            "fim": 146,
-            "texto": "ACANAÚ/CE.\nRef.: ",
-            "tipo": "ENDERECO"
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 271,
+            "fim": 278,
+            "texto": " DE MAR",
+            "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 293,
+            "fim": 299,
+            "texto": "cado n",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 308,
             "fim": 330,
             "texto": " por meio de\nsua Procu",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_ADVOG",
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 397,
+            "fim": 406,
+            "texto": "sos\najuiz",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 527,
+            "fim": 534,
+            "texto": "aracana",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 549,
+            "fim": 555,
+            "texto": "de 201",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PES_ADVOG_AUT",
             "inicio": 727,
             "fim": 740,
             "texto": "es\nhaja vista",
             "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 877,
+            "fim": 886,
+            "texto": "naú, Mara",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "END_OUTROS",
+            "inicio": 887,
+            "fim": 1014,
+            "texto": "anaú, Ceará\nCEP 61.905-430\n1\nRefenderesucts tiness\n\n==============================FIM==============================\n",
+            "tipo": "ENDERECO"
         }
     ],
     "159_SEN_83104641": [
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 390,
             "fim": 421,
             "texto": ":\nFernando Vinicius de Sa Sique",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 434,
             "fim": 474,
             "texto": "istos, etc.\nTrata-se de Ação de Execução",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 564,
             "fim": 597,
             "texto": "NANDO VINÍCIUS\nDE SÁ SIQUEIRA E S",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
-            "inicio": 613,
-            "fim": 653,
-            "texto": "ificados.\nDa análise dos autos, verifico",
-            "tipo": "PESSOA"
-        },
-        {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 874,
+            "inicio": 881,
             "fim": 919,
-            "texto": "ia acarrete a extinção do processo.\nAnte 0 ex",
-            "tipo": "OUTRO"
-        },
-        {
-            "entidade": "SENTENÇA",
-            "inicio": 1116,
-            "fim": 1144,
-            "texto": " art. 200, parágrafo único, ",
-            "tipo": "OUTRO"
-        },
-        {
-            "entidade": "NOR_PRINCIPAL",
-            "inicio": 1195,
-            "fim": 1208,
-            "texto": "istre-se. Int",
+            "texto": "rete a extinção do processo.\nAnte 0 ex",
             "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 1255,
+            "inicio": 1179,
+            "fim": 1184,
+            "texto": "Publi",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 1195,
+            "fim": 1203,
+            "texto": "istre-se",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 1237,
+            "fim": 1242,
+            "texto": ", ARQ",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 1253,
             "fim": 1306,
-            "texto": "s autos, com baixa no sistema\nprocessual.\nBarbalha/",
+            "texto": "tes autos, com baixa no sistema\nprocessual.\nBarbalha/",
             "tipo": "OUTRO"
         },
         {
             "entidade": "PES_JUIZ",
-            "inicio": 1509,
+            "inicio": 1519,
             "fim": 1538,
             "texto": "",
             "tipo": "PESSOA"
@@ -1772,32 +2115,46 @@
     ],
     "283_DEC_107630371": [
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 520,
+            "fim": 538,
+            "texto": "\nJoão Márcio da Si",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 568,
             "fim": 597,
             "texto": "Epifânio Alves\nVistos etc.\nO ",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 600,
             "fim": 629,
             "texto": "istério Público, por seu Prom",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 651,
             "fim": 669,
             "texto": "o de suas atribuiç",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 822,
             "fim": 883,
             "texto": "alificados nos autos.\nImputa-se ao primeiro acusado a prática",
             "tipo": "PESSOA"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 997,
+            "fim": 1003,
+            "texto": " Lei 1",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_PRINCIPAL",
@@ -1808,9 +2165,23 @@
         },
         {
             "entidade": "NOR_PRINCIPAL",
+            "inicio": 1043,
+            "fim": 1049,
+            "texto": " 12.85",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
             "inicio": 1056,
             "fim": 1086,
             "texto": "\nA peça acusatória atende aos ",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 1089,
+            "fim": 1094,
+            "texto": "ssupo",
             "tipo": "OUTRO"
         },
         {
@@ -1829,6 +2200,13 @@
         },
         {
             "entidade": "NOR_ACESSORIA",
+            "inicio": 1249,
+            "fim": 1254,
+            "texto": "enqua",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
             "inicio": 1261,
             "fim": 1291,
             "texto": "os denunciados, afora estar 0 ",
@@ -1836,37 +2214,65 @@
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 1655,
+            "inicio": 1636,
+            "fim": 1641,
+            "texto": " no\np",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 1648,
             "fim": 1679,
-            "texto": "z) dias, nos moldes dos ",
+            "texto": " 10 (dez) dias, nos moldes dos ",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "DEC_DECISÃO_INTERL",
+            "inicio": 1715,
+            "fim": 1758,
+            "texto": "sso Penal.\nExpirado o decêndio legal sem qu",
             "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 1928,
+            "inicio": 1888,
+            "fim": 1894,
+            "texto": "ensori",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 1907,
             "fim": 1942,
-            "texto": "E para que pos",
+            "texto": "Estado do Ceará - DPGE para que pos",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_OUTROS",
-            "inicio": 2125,
-            "fim": 2151,
-            "texto": "o já\naludido art. 396 e ar",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "PES_OUTROS",
-            "inicio": 2154,
+            "entidade": "PES_ADVOG_REU",
+            "inicio": 2114,
             "fim": 2158,
-            "texto": "361,",
+            "texto": "afo único do já\naludido art. 396 e art. 361,",
             "tipo": "PESSOA"
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 2426,
+            "inicio": 2381,
+            "fim": 2386,
+            "texto": "Benev",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 2399,
+            "fim": 2404,
+            "texto": "s, n°",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 2411,
             "fim": 2450,
-            "texto": "60811-690, Fone: (85) 34",
+            "texto": "gua Fria - CEP 60811-690, Fone: (85) 34",
             "tipo": "OUTRO"
         },
         {
@@ -1877,10 +2283,10 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PROVA",
-            "inicio": 2496,
+            "entidade": "PROVA_EXAME_LAB",
+            "inicio": 2503,
             "fim": 2513,
-            "texto": "s.br\nOficie-se à ",
+            "texto": "icie-se à ",
             "tipo": "OUTRO"
         },
         {
@@ -1893,21 +2299,21 @@
     ],
     "283_DEC_91094850": [
         {
-            "entidade": "PES_REU",
-            "inicio": 508,
+            "entidade": "PES_REU_FIS",
+            "inicio": 517,
             "fim": 530,
-            "texto": "ério Público Estadual ",
+            "texto": "ico Estadual ",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 547,
             "fim": 574,
             "texto": "contra JOSÉ FERNANDO\nDO NAS",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 599,
             "fim": 626,
             "texto": "os presentes autos, pela su",
@@ -1923,15 +2329,29 @@
         {
             "entidade": "NOR_PRINCIPAL",
             "inicio": 754,
+            "fim": 791,
+            "texto": "-A, da Lei n° 11.340/2006.\nA referida",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 794,
             "fim": 832,
-            "texto": "-A, da Lei n° 11.340/2006.\nA referida denúncia tem amparo nos elementos de pro",
+            "texto": "núncia tem amparo nos elementos de pro",
             "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 1040,
-            "fim": 1067,
-            "texto": " queixa será rejeitada quan",
+            "inicio": 1024,
+            "fim": 1029,
+            "texto": "5. A ",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 1036,
+            "fim": 1088,
+            "texto": "a ou queixa será rejeitada quando:\nI - for manifesta",
             "tipo": "OUTRO"
         },
         {
@@ -1939,6 +2359,20 @@
             "inicio": 1094,
             "fim": 1112,
             "texto": "inepta;\nII - falta",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 1115,
+            "fim": 1120,
+            "texto": "ressu",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 1510,
+            "fim": 1515,
+            "texto": "do fa",
             "tipo": "OUTRO"
         },
         {
@@ -1951,15 +2385,22 @@
         {
             "entidade": "NOR_ACESSORIA",
             "inicio": 2156,
-            "fim": 2168,
-            "texto": "ro - CEP 622",
+            "fim": 2159,
+            "texto": "ro ",
             "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 2188,
+            "inicio": 2163,
+            "fim": 2168,
+            "texto": "P 622",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 2175,
             "fim": 2212,
-            "texto": "633-1000, Ararenda-CE - ",
+            "texto": " Fone: (88) 3633-1000, Ararenda-CE - ",
             "tipo": "OUTRO"
         },
         {
@@ -1972,18 +2413,18 @@
     ],
     "999_DEN_92284508": [
         {
-            "entidade": "PES_AUTOR",
-            "inicio": 273,
-            "fim": 291,
-            "texto": "za de Lima\nDENÚNCI",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 296,
             "fim": 317,
             "texto": "0/17\nEmenta\nPENAL. DE",
             "tipo": "PESSOA"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 404,
+            "fim": 409,
+            "texto": "s\nmóv",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_PRINCIPAL",
@@ -1993,14 +2434,14 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_AUTOR",
-            "inicio": 532,
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 521,
             "fim": 539,
-            "texto": "imento ",
+            "texto": "luso procedimento ",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 731,
             "fim": 752,
             "texto": "rene\nCasusa de Lima, ",
@@ -2035,18 +2476,11 @@
             "tipo": "ENDERECO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 1184,
             "fim": 1205,
             "texto": "ENTE ANDRADE.\nNa ocas",
             "tipo": "PESSOA"
-        },
-        {
-            "entidade": "PROVA",
-            "inicio": 1241,
-            "fim": 1266,
-            "texto": " com seu cachorro, moment",
-            "tipo": "OUTRO"
         },
         {
             "entidade": "PES_VITIMA",
@@ -2063,28 +2497,28 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 1430,
             "fim": 1451,
             "texto": " da vítima, o que de ",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 1631,
             "fim": 1652,
             "texto": ".\nLUCAS PARENTE ANDRA",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PROVA",
-            "inicio": 1741,
-            "fim": 1750,
-            "texto": "erante a ",
-            "tipo": "OUTRO"
+            "entidade": "PES_VITIMA",
+            "inicio": 1793,
+            "fim": 1814,
+            "texto": "(fls. 15), confessou ",
+            "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 1826,
             "fim": 1847,
             "texto": "lituosa que lhe fora ",
@@ -2098,18 +2532,25 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTOR",
-            "inicio": 2222,
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 2211,
             "fim": 2229,
-            "texto": " Código",
+            "texto": "rts. 157\ndo Código",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 2243,
             "fim": 2264,
             "texto": " instrução criminal, ",
             "tipo": "PESSOA"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 2416,
+            "fim": 2422,
+            "texto": "O (fls",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_PRINCIPAL",
@@ -2119,14 +2560,14 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 2492,
             "fim": 2510,
             "texto": "ARTINS (fls. 10).\n",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_TESTEMUNHA",
+            "entidade": "PES_VITIMA",
             "inicio": 2576,
             "fim": 2597,
             "texto": "RADE\nPROMOTOR DE JUST",
@@ -2154,7 +2595,7 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_TESTEMUNHA",
+            "entidade": "PES_PROMOTOR_MP",
             "inicio": 2827,
             "fim": 2862,
             "texto": "",
@@ -2163,11 +2604,18 @@
     ],
     "1116_PINI_125216768": [
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 135,
             "fim": 155,
             "texto": "HANO, pessoa jurídic",
             "tipo": "PESSOA"
+        },
+        {
+            "entidade": "END_AUTOR",
+            "inicio": 273,
+            "fim": 290,
+            "texto": "enida Possidônio ",
+            "tipo": "ENDERECO"
         },
         {
             "entidade": "END_AUTOR",
@@ -2184,7 +2632,14 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "END_AUTOR",
+            "entidade": "END_OUTROS",
+            "inicio": 461,
+            "fim": 497,
+            "texto": "dereço na rua Joaquim Rodrigues do N",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "END_OUTROS",
             "inicio": 498,
             "fim": 564,
             "texto": "scimento, n° 03, Centro, alhano-Ceará, - vem,\nrespeitosamente a pr",
@@ -2192,23 +2647,23 @@
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 739,
+            "inicio": 754,
             "fim": 759,
-            "texto": "ição\nFederal\ne\nincis",
+            "texto": "incis",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
-            "inicio": 769,
-            "fim": 792,
-            "texto": "t. 11 da Lei 8.429/92, ",
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 766,
+            "fim": 784,
+            "texto": " art. 11 da Lei 8.",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
-            "inicio": 795,
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 808,
             "fim": 813,
-            "texto": " com O art.294, do",
+            "texto": "4, do",
             "tipo": "OUTRO"
         },
         {
@@ -2219,31 +2674,45 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
             "inicio": 859,
             "fim": 898,
             "texto": "ILVA RODRIGUES - CPF: 784.372.023-53\nSS",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 932,
             "fim": 959,
             "texto": "EDRO DA SILVA, 58 - CENTRO ",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "END_REU",
-            "inicio": 1011,
-            "fim": 1014,
-            "texto": "ivo",
-            "tipo": "ENDERECO"
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 1697,
+            "fim": 1702,
+            "texto": " pode",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 1842,
+            "fim": 1847,
+            "texto": " vem,",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_PRINCIPAL",
-            "inicio": 1709,
-            "fim": 1732,
-            "texto": "er ação de\nexecução O c",
+            "inicio": 1854,
+            "fim": 1878,
+            "texto": "tosamente, requerer a Vo",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 1889,
+            "fim": 1894,
+            "texto": "cia:\n",
             "tipo": "OUTRO"
         },
         {
@@ -2255,29 +2724,22 @@
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 2230,
+            "inicio": 2244,
             "fim": 2249,
-            "texto": "tualizado à data da",
-            "tipo": "OUTRO"
-        },
-        {
-            "entidade": "NOR_PRINCIPAL",
-            "inicio": 2256,
-            "fim": 2279,
-            "texto": "ação, bem como\nprotesta",
+            "texto": "ta da",
             "tipo": "OUTRO"
         }
     ],
     "999_PET_94444899": [
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 271,
             "fim": 292,
             "texto": "19.8.06.0001, na data",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTORID_POLICIAL",
+            "entidade": "PES_OUTROS",
             "inicio": 967,
             "fim": 985,
             "texto": "ternativas Penais\n",
@@ -2286,32 +2748,25 @@
     ],
     "283_ALE_94444283": [
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 305,
-            "fim": 338,
-            "texto": "GUES;\nGEISA FELIPE ALVES;\nANDRÉ L",
+            "fim": 322,
+            "texto": "GUES;\nGEISA FELIP",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_TESTEMUNHA",
-            "inicio": 341,
-            "fim": 346,
-            "texto": " PORT",
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 398,
+            "fim": 435,
+            "texto": " por intermédio\ndo Promotor de Justiç",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
-            "inicio": 362,
-            "fim": 372,
-            "texto": "NISTÉRIO P",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "PES_AUTOR",
-            "inicio": 409,
-            "fim": 429,
-            "texto": "édio\ndo Promotor de ",
-            "tipo": "PESSOA"
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 543,
+            "fim": 548,
+            "texto": "GAÇÕE",
+            "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_ACESSORIA",
@@ -2321,14 +2776,21 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 781,
+            "fim": 790,
+            "texto": "UÍS PORTE",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 863,
             "fim": 888,
             "texto": "o art. 33, caput e art. 3",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 891,
             "fim": 909,
             "texto": "caput, ambos da\nLe",
@@ -2336,41 +2798,62 @@
         },
         {
             "entidade": "NOR_PRINCIPAL",
+            "inicio": 954,
+            "fim": 959,
+            "texto": "102 (",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
             "inicio": 966,
+            "fim": 976,
+            "texto": " duas) gra",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 979,
             "fim": 984,
-            "texto": " duas) gramas de m",
+            "texto": " de m",
             "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_PRINCIPAL",
             "inicio": 991,
-            "fim": 1032,
-            "texto": "e 3,8 (três e oitocentas) gramas de cocaí",
+            "fim": 1021,
+            "texto": "e 3,8 (três e oitocentas) gram",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 1154,
             "fim": 1177,
             "texto": "incumbindo-lhe a defesa",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
             "inicio": 1396,
-            "fim": 1424,
-            "texto": "COMARCA DE NOVA RUSSAS\nRODRI",
+            "fim": 1418,
+            "texto": "COMARCA DE NOVA RUSSAS",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 1419,
+            "fim": 1424,
+            "texto": "RODRI",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 1575,
             "fim": 1584,
             "texto": "acusados ",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 1939,
             "fim": 1956,
             "texto": "t, ambos da Lei n",
@@ -2385,16 +2868,37 @@
         },
         {
             "entidade": "NOR_PRINCIPAL",
-            "inicio": 2215,
-            "fim": 2234,
-            "texto": ", entregar a consum",
+            "inicio": 2246,
+            "fim": 2251,
+            "texto": "r dro",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 2961,
+            "fim": 2983,
+            "texto": " praticar,\nreiteradame",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 2984,
+            "fim": 2989,
+            "texto": "te ou",
             "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_PRINCIPAL",
-            "inicio": 2961,
-            "fim": 2987,
-            "texto": " praticar,\nreiteradamente ",
+            "inicio": 3146,
+            "fim": 3151,
+            "texto": " a 1.",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 3289,
+            "fim": 3295,
+            "texto": "do cri",
             "tipo": "OUTRO"
         },
         {
@@ -2405,21 +2909,35 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 3608,
+            "fim": 3613,
+            "texto": "lha M",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 3620,
+            "fim": 3632,
+            "texto": "Equipe Polic",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 3713,
             "fim": 3718,
             "texto": "a rea",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 3770,
             "fim": 3775,
             "texto": ",\nqua",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 3782,
             "fim": 3791,
             "texto": "s viram o",
@@ -2433,91 +2951,112 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 4022,
             "fim": 4031,
             "texto": "ova Russa",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PROVA",
-            "inicio": 4249,
+            "entidade": "END_DELITO",
+            "inicio": 4061,
+            "fim": 4087,
+            "texto": " de abastecer o estoque\npa",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "END_DELITO",
+            "inicio": 4161,
+            "fim": 4187,
+            "texto": "irmar que\nnegociava a drog",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PROVA_OBJETO_APREENDIDO",
+            "inicio": 4236,
             "fim": 4286,
-            "texto": "\nestava registrado em seu celular. At",
+            "texto": "), e que isso\nestava registrado em seu celular. At",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 4333,
             "fim": 4342,
             "texto": "am à\nresi",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 4498,
             "fim": 4507,
             "texto": "a\nO Minis",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 4572,
-            "fim": 4596,
-            "texto": "icional do Estado, incum",
+            "fim": 4598,
+            "texto": "icional do Estado, incumbi",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
+            "inicio": 4727,
+            "fim": 4736,
+            "texto": "\n\n=======",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 4768,
             "fim": 4773,
             "texto": "GINA=",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 4776,
             "fim": 4781,
             "texto": "=====",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PROVA",
-            "inicio": 4815,
-            "fim": 4876,
-            "texto": "DO THE\nMPCE\nTJCE\nMinistério Público\nSAJ\ndo Estado do Ceará\n2 ",
-            "tipo": "OUTRO"
-        },
-        {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
             "inicio": 5095,
+            "fim": 5117,
+            "texto": "ova Russas com o fulcr",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 5118,
             "fim": 5123,
-            "texto": "ova Russas com o fulcro de t",
+            "texto": " de t",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PROVA",
-            "inicio": 5290,
-            "fim": 5297,
-            "texto": "te já f",
-            "tipo": "OUTRO"
+            "entidade": "PES_REU_FIS",
+            "inicio": 5351,
+            "fim": 5360,
+            "texto": "mente enc",
+            "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 5399,
             "fim": 5404,
             "texto": "Quité",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 5501,
             "fim": 5506,
             "texto": "litar",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 5597,
             "fim": 5602,
             "texto": "ela n",
@@ -2538,21 +3077,21 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PROVA",
-            "inicio": 6074,
-            "fim": 6081,
-            "texto": "ntrário",
-            "tipo": "OUTRO"
+            "entidade": "PES_REU_FIS",
+            "inicio": 5967,
+            "fim": 5972,
+            "texto": "iam g",
+            "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 6115,
             "fim": 6120,
             "texto": "nfiar",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 6193,
             "fim": 6198,
             "texto": "abe d",
@@ -2566,21 +3105,21 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 6340,
             "fim": 6345,
             "texto": " e se",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 6497,
             "fim": 6502,
             "texto": "uição",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 6505,
             "fim": 6514,
             "texto": "rmanente,",
@@ -2594,31 +3133,52 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 6734,
             "fim": 6743,
             "texto": "GINA=====",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "PES_REU_FIS",
+            "inicio": 6850,
+            "fim": 6859,
+            "texto": "eará\n2 PR",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
             "inicio": 7122,
-            "fim": 7150,
-            "texto": "lherme trabalha como pedreir",
+            "fim": 7144,
+            "texto": "lherme trabalha como p",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 7145,
+            "fim": 7150,
+            "texto": "dreir",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 7366,
             "fim": 7371,
             "texto": "indo ",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_OUTROS",
+            "entidade": "PES_REU_FIS",
             "inicio": 7375,
             "fim": 7380,
             "texto": "istri",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_REU_FIS",
+            "inicio": 7433,
+            "fim": 7442,
+            "texto": "onhece\nAn",
             "tipo": "PESSOA"
         },
         {
@@ -2629,182 +3189,301 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 7559,
             "fim": 7568,
             "texto": " judicial",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 7904,
             "fim": 7909,
             "texto": "já ha",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_OUTROS",
+            "entidade": "PES_REU_FIS",
             "inicio": 7913,
             "fim": 7918,
             "texto": "sido ",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
+            "inicio": 7947,
+            "fim": 7956,
+            "texto": "stionado ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 8060,
             "fim": 8093,
             "texto": "pra de bebidas, visto que estava\n",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_TESTEMUNHA",
+            "entidade": "PES_REU_FIS",
+            "inicio": 8953,
+            "fim": 8963,
+            "texto": " 20\n.ong\nM",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 9004,
             "fim": 9013,
             "texto": " do Ceará",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
             "inicio": 9391,
-            "fim": 9419,
-            "texto": " usuário e que comprou grand",
+            "fim": 9411,
+            "texto": " usuário e que compr",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_OUTROS",
-            "inicio": 10150,
-            "fim": 10159,
-            "texto": " Guilherm",
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 9414,
+            "fim": 9419,
+            "texto": "grand",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PROVA_INTERROG",
+            "inicio": 9610,
+            "fim": 9802,
+            "texto": " Major Simplício, portanto pediu para que Geisa a guardasse.\nAduziu ainda que os militares disseram que como ele afirmou ser\napenas usuário, que dissesse onde era a casa que ele compraria a dr",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PROVA_CONFISSÃO",
+            "inicio": 9811,
+            "fim": 9823,
+            "texto": " que os\npoli",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PES_REU_FIS",
+            "inicio": 9824,
+            "fim": 10061,
+            "texto": "iais comprassem por ele. Guilherme afirmou ainda que quando os policiais\nperceberam que se tratava de André e Geisa, os quais participavam de facções,\nagrediram-nos reiteradas vezes, mas nos exames de corpo de delito (fls. 28 e 45), não\n",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_OUTROS",
+            "entidade": "END_OUTROS",
+            "inicio": 10144,
+            "fim": 10159,
+            "texto": "usados Guilherm",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 10186,
             "fim": 10191,
             "texto": "ue nã",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
+            "inicio": 10399,
+            "fim": 10408,
+            "texto": " que depo",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 10476,
             "fim": 10481,
             "texto": "autor",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 10484,
             "fim": 10489,
             "texto": "de ju",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PROVA",
+            "entidade": "PROVA_EXAME_LAB",
             "inicio": 10570,
-            "fim": 10595,
-            "texto": " os fatos constantes no i",
+            "fim": 10603,
+            "texto": " os fatos constantes no interroga",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 10610,
+            "fim": 10617,
+            "texto": "olicial",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 10716,
             "fim": 10725,
             "texto": "screveram",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 10728,
             "fim": 10733,
             "texto": "\nmens",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 10782,
             "fim": 10787,
             "texto": "mbina",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 10906,
             "fim": 10911,
             "texto": "ional",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 10914,
             "fim": 10919,
             "texto": " Esta",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 11353,
             "fim": 11358,
             "texto": "orado",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
             "inicio": 11656,
-            "fim": 11676,
-            "texto": "m por tráfico. Mas\ns",
+            "fim": 11678,
+            "texto": "m por tráfico. Mas\nsab",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 11679,
+            "fim": 11684,
+            "texto": "a que",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PROVA_CONFISSÃO",
+            "inicio": 11833,
+            "fim": 12001,
+            "texto": " disso, o interrogado não soube informar com que Geisa trabalha, nem se ela é\nnatural de Nova Russas, sendo completamente fantasioso imaginar que ele iria\ndeixar toda e",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 12232,
             "fim": 12237,
             "texto": "de co",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 12241,
             "fim": 12246,
             "texto": "ilher",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 12308,
             "fim": 12313,
             "texto": "apena",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 12504,
             "fim": 12509,
             "texto": " sema",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 12779,
             "fim": 12804,
             "texto": "olocaram\nspray de pimenta",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_OUTROS",
+            "entidade": "PES_REU_FIS",
+            "inicio": 12872,
+            "fim": 12881,
+            "texto": "com um fa",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PROVA_INTERROG",
+            "inicio": 12936,
+            "fim": 13000,
+            "texto": "me de\nO Ministério Público é instituição permanente, essencial à",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 13043,
             "fim": 13048,
             "texto": "-lhe ",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
-            "inicio": 13851,
-            "fim": 13879,
-            "texto": "mas ao final, ao ser questio",
+            "entidade": "PES_REU_FIS",
+            "inicio": 13339,
+            "fim": 13344,
+            "texto": "TIÇA ",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PROVA_INTERROG",
+            "inicio": 13405,
+            "fim": 13610,
+            "texto": "ta nenhuma lesão que resultou em ofensa à sua\nintegridade física ou à sua saúde.\nNão soube informar O motivo pelo qual Guilherme, o qual ele só\nconhecia há duas semanas, perguntou da maconha e do pó como \"",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 13851,
+            "fim": 13873,
+            "texto": "mas ao final, ao ser q",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 13874,
+            "fim": 13879,
+            "texto": "estio",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PES_REU_FIS",
+            "inicio": 14200,
+            "fim": 14209,
+            "texto": "ado acabo",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_REU_FIS",
+            "inicio": 14472,
+            "fim": 14477,
+            "texto": "de co",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 14633,
             "fim": 14638,
             "texto": "que, ",
@@ -2813,138 +3492,180 @@
         {
             "entidade": "END_OUTROS",
             "inicio": 14746,
-            "fim": 14764,
-            "texto": "firmou ainda que A",
+            "fim": 14799,
+            "texto": "firmou ainda que André não tentou fugir quando as aut",
             "tipo": "ENDERECO"
         },
         {
-            "entidade": "PES_OUTROS",
-            "inicio": 14788,
-            "fim": 14799,
-            "texto": "ando as aut",
-            "tipo": "PESSOA"
-        },
-        {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 14827,
             "fim": 14832,
             "texto": "em su",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 14968,
             "fim": 14977,
             "texto": "l do Esta",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 15015,
             "fim": 15020,
             "texto": "urídi",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 15060,
             "fim": 15078,
             "texto": "es sociais e indiv",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PROVA",
-            "inicio": 15134,
-            "fim": 15172,
-            "texto": "=============QUEBRA_PAGINA============",
+            "entidade": "PROVA_CONFISSÃO",
+            "inicio": 15114,
+            "fim": 15234,
+            "texto": "8\n\n==============================QUEBRA_PAGINA==============================\nDEPARTMENT os as\nMPCE\nISSINADO\nTJCE\nMinisté",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PROVA",
-            "inicio": 15175,
-            "fim": 15220,
-            "texto": "===============\nDEPARTMENT os as\nMPCE\nISSINAD",
-            "tipo": "OUTRO"
-        },
-        {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 15275,
             "fim": 15284,
             "texto": "OTORIA DE",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "PES_REU_FIS",
+            "inicio": 15309,
+            "fim": 15314,
+            "texto": "VA RU",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_REU_FIS",
+            "inicio": 15530,
+            "fim": 15535,
+            "texto": "disse",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
             "inicio": 15880,
-            "fim": 15900,
-            "texto": "vo, seu companheiro,",
+            "fim": 15902,
+            "texto": "vo, seu companheiro, j",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 15903,
+            "fim": 15908,
+            "texto": " foi ",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PROVA_CONFISSÃO",
+            "inicio": 16065,
+            "fim": 16268,
+            "texto": "rime.\nÉ nítida a contradição entre os reus acerca dos fatos. Todavia, restou\nevidenciado pelo relato das testemunhas que os réus atuavam em associação para o\ntráfico de drogas, sendo que André e Geisa ti",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PES_REU_FIS",
+            "inicio": 16406,
+            "fim": 16415,
+            "texto": "stabilida",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_REU_FIS",
+            "inicio": 16451,
+            "fim": 16460,
+            "texto": "denciadas",
+            "tipo": "PESSOA"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 16603,
             "fim": 16608,
             "texto": "r\nSim",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 16668,
             "fim": 16675,
             "texto": "lherme ",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "END_OUTROS",
+            "inicio": 16845,
+            "fim": 16853,
+            "texto": "itualida",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 17066,
             "fim": 17071,
             "texto": "is (C",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 17074,
             "fim": 17079,
             "texto": "art. ",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 17115,
             "fim": 17124,
             "texto": "==QUEBRA_",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "END_REU",
-            "inicio": 17193,
-            "fim": 17197,
-            "texto": "téri",
+            "entidade": "END_DELITO",
+            "inicio": 17163,
+            "fim": 17209,
+            "texto": "\nISSINADO 30\nQ\nMPCE\nTJCE\nMinistério Público\nSA",
             "tipo": "ENDERECO"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 17391,
             "fim": 17400,
             "texto": "vel dos a",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "END_DELITO",
+            "inicio": 17429,
+            "fim": 17458,
+            "texto": "em flagrante delito, ou seja,",
+            "tipo": "ENDERECO"
+        },
+        {
+            "entidade": "PES_REU_FIS",
             "inicio": 17507,
-            "fim": 17516,
-            "texto": "conforme ",
+            "fim": 17526,
+            "texto": "conforme entendimen",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 17603,
             "fim": 17608,
             "texto": "do, c",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 17611,
             "fim": 17621,
             "texto": "ciono part",
@@ -2953,8 +3674,22 @@
         {
             "entidade": "NOR_ACESSORIA",
             "inicio": 17930,
-            "fim": 17950,
-            "texto": "tratada como questão",
+            "fim": 17952,
+            "texto": "tratada como questão p",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 17953,
+            "fim": 17958,
+            "texto": "elimi",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_JURISPRUDÊNCIA",
+            "inicio": 18489,
+            "fim": 18495,
+            "texto": "ão ten",
             "tipo": "OUTRO"
         },
         {
@@ -2979,13 +3714,6 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PROVA",
-            "inicio": 19769,
-            "fim": 19788,
-            "texto": "a defesa da ordem\n}",
-            "tipo": "OUTRO"
-        },
-        {
             "entidade": "NOR_PRINCIPAL",
             "inicio": 20256,
             "fim": 20301,
@@ -2993,38 +3721,80 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
             "inicio": 20763,
+            "fim": 20785,
+            "texto": "O DELITO. NECESSIDADE ",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 20786,
             "fim": 20791,
-            "texto": "O DELITO. NECESSIDADE DE GAR",
+            "texto": "E GAR",
             "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_JURISPRUDÊNCIA",
             "inicio": 21939,
-            "fim": 21948,
-            "texto": "á-lo e se",
+            "fim": 21950,
+            "texto": "á-lo e se e",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_JURISPRUDÊNCIA",
+            "inicio": 22196,
+            "fim": 22239,
+            "texto": "ora paciente, bem como apreensão de diversa",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_JURISPRUDÊNCIA",
+            "inicio": 22240,
+            "fim": 22276,
+            "texto": " drogas. Nesse contexto,\ncerta a sit",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
             "inicio": 23682,
-            "fim": 23702,
-            "texto": "o paciente,\ndestaca-",
+            "fim": 23704,
+            "texto": "o paciente,\ndestaca-se",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 23705,
+            "fim": 23710,
+            "texto": "a rea",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_JURISPRUDÊNCIA",
+            "inicio": 23907,
+            "fim": 23916,
+            "texto": ", a parti",
             "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_JURISPRUDÊNCIA",
             "inicio": 23934,
-            "fim": 24030,
-            "texto": "se indivíduo - com quem foi\nencontrada porção de substância semelhante a\nmaconha = ingressaram n",
+            "fim": 24032,
+            "texto": "se indivíduo - com quem foi\nencontrada porção de substância semelhante a\nmaconha = ingressaram no ",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_PRINCIPAL",
+            "inicio": 24228,
+            "fim": 24233,
+            "texto": "ado e",
             "tipo": "OUTRO"
         },
         {
             "entidade": "NOR_ACESSORIA",
-            "inicio": 24247,
+            "inicio": 24240,
             "fim": 24271,
-            "texto": "DJe 27/03/2018-grifei)\nA",
+            "texto": "/2018, DJe 27/03/2018-grifei)\nA",
             "tipo": "OUTRO"
         },
         {
@@ -3036,30 +3806,16 @@
         },
         {
             "entidade": "NOR_JURISPRUDÊNCIA",
+            "inicio": 24778,
+            "fim": 24800,
+            "texto": "repousa auto de aprese",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_JURISPRUDÊNCIA",
             "inicio": 24807,
             "fim": 24851,
             "texto": "e apreensão das substâncias\nencontradas em p",
-            "tipo": "OUTRO"
-        },
-        {
-            "entidade": "END_DELITO",
-            "inicio": 25123,
-            "fim": 25161,
-            "texto": ", art. 127)\n12\n\n======================",
-            "tipo": "ENDERECO"
-        },
-        {
-            "entidade": "PROVA",
-            "inicio": 25247,
-            "fim": 25281,
-            "texto": "s\nMPCE\nMinistério Público\nSAJ\ndo E",
-            "tipo": "OUTRO"
-        },
-        {
-            "entidade": "PROVA",
-            "inicio": 25343,
-            "fim": 25369,
-            "texto": "AS\ncocaína), a qual foi ob",
             "tipo": "OUTRO"
         },
         {
@@ -3072,15 +3828,8 @@
         {
             "entidade": "NOR_JURISPRUDÊNCIA",
             "inicio": 25476,
-            "fim": 25573,
-            "texto": "ada de fato como Maconha e Cocaína.\nAnte o exposto, verifica-se a presença de provas suficientes ",
-            "tipo": "OUTRO"
-        },
-        {
-            "entidade": "SENTENÇA",
-            "inicio": 26055,
-            "fim": 26063,
-            "texto": "06, por ",
+            "fim": 25575,
+            "texto": "ada de fato como Maconha e Cocaína.\nAnte o exposto, verifica-se a presença de provas suficientes da",
             "tipo": "OUTRO"
         },
         {
@@ -3091,42 +3840,56 @@
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PROVA",
-            "inicio": 26229,
-            "fim": 26268,
-            "texto": "ente, essencial à função jurisdicional ",
-            "tipo": "OUTRO"
+            "entidade": "PES_AUTOR_JUR",
+            "inicio": 26282,
+            "fim": 26289,
+            "texto": "umbindo",
+            "tipo": "PESSOA"
         },
         {
             "entidade": "NOR_ACESSORIA",
             "inicio": 26485,
-            "fim": 26513,
-            "texto": "====\nINSINADO\nTJCE\nSAJ\nciten",
+            "fim": 26505,
+            "texto": "====\nINSINADO\nTJCE\nS",
             "tipo": "OUTRO"
         },
         {
-            "entidade": "PES_AUTOR",
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 26508,
+            "fim": 26513,
+            "texto": "citen",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PROVA_EXAME_LAB",
+            "inicio": 26709,
+            "fim": 26723,
+            "texto": "",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "PES_AUTOR_JUR",
             "inicio": 27229,
             "fim": 27256,
             "texto": "",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 27279,
             "fim": 27312,
             "texto": "",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 27315,
             "fim": 27333,
             "texto": "",
             "tipo": "PESSOA"
         },
         {
-            "entidade": "PES_REU",
+            "entidade": "PES_REU_FIS",
             "inicio": 27336,
             "fim": 27361,
             "texto": "",
@@ -3147,9 +3910,16 @@
             "tipo": "PESSOA"
         },
         {
-            "entidade": "NOR_PRINCIPAL",
+            "entidade": "NOR_ACESSORIA",
             "inicio": 27815,
-            "fim": 27835,
+            "fim": 27837,
+            "texto": "",
+            "tipo": "OUTRO"
+        },
+        {
+            "entidade": "NOR_ACESSORIA",
+            "inicio": 27838,
+            "fim": 27843,
             "texto": "",
             "tipo": "OUTRO"
         }
